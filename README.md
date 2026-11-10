@@ -31,5 +31,6 @@ python3 make_charts.py            # correlation chart for every regression term 
 | `src/tests_a_volume.py` … `src/tests_def.py` | tests 1–56 (one function per test) |
 | `src/listings_models.py` | hazard / discount models for the listing-scrape tests (16, 17, 21, 22, 26, 27, 29, 30) – ready, awaiting data |
 | `results/regression_results.csv` | every coefficient, SE, p, n, status, spec, data, caveat |
+| `results/charts/thesis_charts.pdf` | thesis-focused deck: 16 charts with 20-word summaries + how to use the data (`src/make_thesis_pdf.py`) |
 | `results/charts/` | one correlation chart per regression term (raw r % and partial r % after controls), `all_charts.pdf`, `chart_index.csv` |
 | `results/details/` | full model summaries and the data frame behind each test |
