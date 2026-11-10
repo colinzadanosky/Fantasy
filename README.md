@@ -18,6 +18,7 @@ python3 collect_cox.py && python3 parse_kbb_atp.py
 python3 build_powertrains.py      # needs data/raw/epa/vehicles.csv.zip (fueleconomy.gov/feg/epadata/vehicles.csv.zip)
 # state covariates: data/raw/census/{est23all.xls, 2020_UA_COUNTY.xlsx, mv1.xlsx} (Census SAIPE, Census UA, FHWA MV-1)
 python3 run_all.py && python3 make_appendix.py
+python3 make_charts.py            # correlation chart for every regression term -> results/charts/
 ```
 
 `data/raw/` (downloaded pages/PDFs) is not committed; `data/processed/` holds the cleaned inputs used by the tests.
@@ -30,4 +31,5 @@ python3 run_all.py && python3 make_appendix.py
 | `src/tests_a_volume.py` … `src/tests_def.py` | tests 1–56 (one function per test) |
 | `src/listings_models.py` | hazard / discount models for the listing-scrape tests (16, 17, 21, 22, 26, 27, 29, 30) – ready, awaiting data |
 | `results/regression_results.csv` | every coefficient, SE, p, n, status, spec, data, caveat |
+| `results/charts/` | one correlation chart per regression term (raw r % and partial r % after controls), `all_charts.pdf`, `chart_index.csv` |
 | `results/details/` | full model summaries and the data frame behind each test |

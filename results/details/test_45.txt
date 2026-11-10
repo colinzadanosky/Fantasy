@@ -6,7 +6,7 @@ Dep. Variable:                   Hemi   R-squared:                       0.847
 Model:                            OLS   Adj. R-squared:                  0.837
 Method:                 Least Squares   F-statistic:                     77.11
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):           5.71e-18
-Time:                        15:20:28   Log-Likelihood:                -172.19
+Time:                        15:50:25   Log-Likelihood:                -172.19
 No. Observations:                  50   AIC:                             352.4
 Df Residuals:                      46   BIC:                             360.0
 Df Model:                           3                                         

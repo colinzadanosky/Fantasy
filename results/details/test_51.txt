@@ -6,7 +6,7 @@ Dep. Variable:     rev_per_unit_usd_k   R-squared:                       0.119
 Model:                            OLS   Adj. R-squared:                  0.009
 Method:                 Least Squares   F-statistic:                     1.085
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.328
-Time:                        15:20:29   Log-Likelihood:                -16.960
+Time:                        15:50:26   Log-Likelihood:                -16.960
 No. Observations:                  10   AIC:                             37.92
 Df Residuals:                       8   BIC:                             38.52
 Df Model:                           1                                         
@@ -34,7 +34,7 @@ Dep. Variable:     rev_per_unit_usd_k   R-squared:                       0.397
 Model:                            OLS   Adj. R-squared:                  0.277
 Method:                 Least Squares   F-statistic:                     3.297
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.129
-Time:                        15:20:29   Log-Likelihood:                -10.980
+Time:                        15:50:26   Log-Likelihood:                -10.980
 No. Observations:                   7   AIC:                             25.96
 Df Residuals:                       5   BIC:                             25.85
 Df Model:                           1                                         

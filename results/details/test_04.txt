@@ -6,7 +6,7 @@ Dep. Variable:                   d_cg   R-squared:                       0.334
 Model:                            OLS   Adj. R-squared:                  0.239
 Method:                 Least Squares   F-statistic:                     7.580
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):            0.00588
-Time:                        15:20:27   Log-Likelihood:                -187.08
+Time:                        15:50:02   Log-Likelihood:                -187.08
 No. Observations:                  17   AIC:                             380.2
 Df Residuals:                      14   BIC:                             382.7
 Df Model:                           2                                         
@@ -37,7 +37,7 @@ Dep. Variable:                   d_cg   R-squared:                       0.348
 Model:                            OLS   Adj. R-squared:                  0.197
 Method:                 Least Squares   F-statistic:                     21.25
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):           2.73e-05
-Time:                        15:20:27   Log-Likelihood:                -186.91
+Time:                        15:50:02   Log-Likelihood:                -186.91
 No. Observations:                  17   AIC:                             381.8
 Df Residuals:                      13   BIC:                             385.1
 Df Model:                           3                                         

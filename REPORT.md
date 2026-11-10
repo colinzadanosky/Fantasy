@@ -4,6 +4,8 @@ Run date: 2026-11-10. Data run through Q3 2026 (sales), Oct 2026 (prices, rates,
 The full coefficient table is in [`results/ALL_TESTS.md`](results/ALL_TESTS.md) (machine-readable: `results/regression_results.csv`).
 Model summaries are in `results/details/`.
 
+**Charts:** every regression term has a correlation chart in [`results/charts/`](results/charts/), all 86 collected in `results/charts/all_charts.pdf`. The left panel shows the raw data with its Pearson r as a percent. The right panel shows the same relationship after removing the regression's controls and fixed effects; its slope is the reported coefficient and its partial r is the correlation the regression measures. `results/charts/chart_index.csv` lists both r values for every chart.
+
 ## What could be run
 
 | Status | Tests | Count |

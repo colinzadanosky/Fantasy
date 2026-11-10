@@ -6,7 +6,7 @@ Dep. Variable:                     ly   R-squared:                       0.958
 Model:                            OLS   Adj. R-squared:                  0.944
 Method:                 Least Squares   F-statistic:                     93.65
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):           1.20e-48
-Time:                        15:20:29   Log-Likelihood:                 43.395
+Time:                        15:50:25   Log-Likelihood:                 43.395
 No. Observations:                 105   AIC:                            -34.79
 Df Residuals:                      79   BIC:                             34.21
 Df Model:                          25                                         
@@ -58,7 +58,7 @@ Dep. Variable:                     ly   R-squared:                       0.975
 Model:                            OLS   Adj. R-squared:                  0.967
 Method:                 Least Squares   F-statistic:                     104.5
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):           2.75e-50
-Time:                        15:20:29   Log-Likelihood:                 71.492
+Time:                        15:50:25   Log-Likelihood:                 71.492
 No. Observations:                 105   AIC:                            -88.98
 Df Residuals:                      78   BIC:                            -17.33
 Df Model:                          26                                         
@@ -111,7 +111,7 @@ Dep. Variable:                    gca   R-squared:                       0.425
 Model:                            OLS   Adj. R-squared:                  0.373
 Method:                 Least Squares   F-statistic:                     8.139
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):             0.0157
-Time:                        15:20:29   Log-Likelihood:                 11.388
+Time:                        15:50:25   Log-Likelihood:                 11.388
 No. Observations:                  13   AIC:                            -18.78
 Df Residuals:                      11   BIC:                            -17.65
 Df Model:                           1                                         

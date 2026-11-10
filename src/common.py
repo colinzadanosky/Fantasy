@@ -9,6 +9,7 @@ P = ROOT / "data/processed"
 OUT = ROOT / "results"; (OUT / "details").mkdir(parents=True, exist_ok=True)
 
 RESULTS = []          # one row per reported coefficient
+MODELS = []           # (test, title, spec, model, terms, status) for charts
 
 
 def record(test, title, status, model=None, terms=(), n=None, spec="", note="", data="", extra=None):
@@ -16,6 +17,7 @@ def record(test, title, status, model=None, terms=(), n=None, spec="", note="", 
     base = dict(test=test, title=title, status=status, spec=spec, data=data, note=note)
     if model is None:
         RESULTS.append({**base, "n": n, **(extra or {})}); return
+    MODELS.append(dict(test=test, title=title, spec=spec, model=model, terms=list(terms), status=status))
     with open(OUT / "details" / f"test_{test:02d}.txt", "a") as fh:
         fh.write(f"### {title}\n{spec}\n{model.summary()}\n\n")
     r2 = getattr(model, "rsquared", np.nan)

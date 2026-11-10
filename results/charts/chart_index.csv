@@ -1,0 +1,87 @@
+test,title,term,file,r_raw_pct,r_regression_pct,coef,p,n
+1,Hemi return DiD: Ram LD (1500) vs F-150/Silverado/Sierra/Tundra,ram_post,test_01_001_ram_post.png,-12.453157180015204,67.84203948634163,0.31649402184009023,3.055062365073344e-05,55.0
+1,Hemi return DiD: Ram LD (1500) vs F-150/Silverado/Sierra/Tundra,ram_partial,test_01_002_ram_partial.png,-14.637704155134932,-14.916362320698962,-0.0865145630212986,0.1471805316088939,55.0
+1,Pre-trend: slope of Ram-vs-control log gap before 2025Q3 (Ram LD (1500) vs F-150/Silverado/Sierra/Tundra),t,test_01_003_t.png,-27.133255955814224,-27.133255955814224,-0.02084006034800126,0.6029890963981593,6.0
+1,"Robustness: Ram LD DiD, pre-period 2024Q2-2025Q2 (Hurricane-transition quarters only)",ram_post,test_01_004_ram_post.png,-13.549913733486385,80.18977731781499,0.367548287397216,7.282902649630746e-09,50.0
+1,Hemi return DiD: Ram pickups total vs same controls (longer pre-period),ram_post,test_01_005_ram_post.png,5.619622091022809,-13.19224059905343,-0.10753207136588175,0.12912318834188868,105.0
+1,Hemi return DiD: Ram pickups total vs same controls (longer pre-period),ram_partial,test_01_006_ram_partial.png,-0.553736881023314,-21.94326615369627,-0.33509170731460897,1.5398222457489552e-06,105.0
+1,Pre-trend: slope of Ram-vs-control log gap before 2025Q3 (Ram pickups total vs same controls (longer pre-period)),t,test_01_007_t.png,-95.58250116532815,-95.58250116532815,-0.05489505080411096,1.7438958642652677e-40,16.0
+1,Robustness: Ram pickups total DiD with Ram-specific linear trend,ram_post,test_01_008_ram_post.png,5.619622091022809,49.358426380723245,0.48334873772711573,1.1057319621143168e-10,105.0
+1,Robustness: Ram pickups total DiD with Ram-specific linear trend,ram_t,test_01_009_ram_t.png,8.083063083047213,-69.02949690385816,-0.053716437190277744,3.1755148720573106e-22,105.0
+2,Jeep brand sales ~ # powertrain offerings (model x powertrain),lpt,test_02_010_lpt.png,70.36643205721568,24.475565016214105,0.11581781852119984,0.10151220183837226,21.0
+2,"Same, with linear trend",lpt,test_02_011_lpt.png,70.36643205721568,-12.520681757729951,-0.058231938435279545,0.5457799174370792,21.0
+2,YoY growth version,dlpt,test_02_012_dlpt.png,-12.263804109391824,-11.901948499776692,-0.05769366325198628,0.6013854986747503,17.0
+3,Model sales ~ powertrain count (Stellantis nameplate panel),n_pt,test_03_013_n_pt.png,44.96844625445979,31.01615411978747,0.20075697444682047,0.1021937293138753,265.0
+3,YoY growth ~ change in powertrain count,dpt,test_03_014_dpt.png,37.15046672198397,38.83195582186587,0.22228420476240568,0.046295481164209784,187.0
+4,Cannibalization: YoY change Compass+Grand Cherokee units ~ YoY change Cherokee units,d_ch,test_04_015_d_ch.png,-55.913356336489414,-45.86147128508576,-1.616077756323796,0.0004895347838594652,17.0
+4,"Same, controlling for Q3-2026 production shutdown",d_ch,test_04_016_d_ch.png,-55.913356336489414,-33.897708788151974,-1.327240611696589,0.051298651926261596,17.0
+5,Stellantis segment share ~ powertrain coverage gap vs rivals,gap,test_05_017_gap.png,-47.475042789434,0.2127793092708969,0.00036303497249674387,0.9856697279893798,147.0
+5,"Same, by missing type",miss_hybrid,test_05_018_miss_hybrid.png,-40.708102211268866,26.597244729412783,0.0765028596106884,0.23752641918569173,147.0
+5,"Same, by missing type",miss_ev,test_05_019_miss_ev.png,-28.9312794992422,28.40835424053973,0.11941902791183862,0.2728045912359336,147.0
+6,"Charger BEV units ~ Charger ICE (Sixpack) units, 2025Q1-2026Q3",ice,test_06_020_ice.png,-64.57670818204976,-64.57670818204976,-0.5707436662925924,0.11718277930957856,7.0
+6,Total Charger units ~ ICE units (coef 1 = purely additive),ice,test_06_021_ice.png,53.67149311661461,53.67149311661461,0.4292563337074071,0.21419585195024188,7.0
+7,Ram HD units ~ Hemi available in Ram 1500,hemi,test_07_022_hemi.png,4.011670890042518,-50.45321614379574,-0.06156868665930837,0.2481952665589781,11.0
+7,HD share of Ram pickups ~ Hemi availability,hemi,test_07_023_hemi.png,-26.924545049562727,-26.77648659205531,-0.029366539864834867,0.5214224632491175,11.0
+8,"Durango vs 3-row SUV rivals after Charger ICE launch, post from 2026Q1 (first quarter Charger ICE >1,000 units)",tp,test_08_024_tp.png,-9.192181965939476,4.917321360869836,0.14683770744764568,0.2696037252999923,167.0
+8,"Durango vs 3-row SUV rivals after Charger ICE launch, post from 2025Q4",tp,test_08_025_tp.png,-8.37220142461867,9.575687109140254,0.25482180262590814,0.05683187619888045,167.0
+10,Total-minus-retail YoY growth gap ~ new powertrain launch,launch,test_10_026_launch.png,16.256544286297483,16.256544286297483,19.30914975666303,0.3361865872843737,24.0
+11,Jeep quarterly sales ~ Jeep KBB ATP (log-log),lp,test_11_027_lp.png,27.783339855580547,11.136820170749205,0.2219828804363142,0.620591650621525,18.0
+11,Jeep sales ~ Jeep ATP relative to industry ATP,lrp,test_11_028_lrp.png,45.31808529887858,26.248577781162393,0.4553579947129833,0.22356016186969974,18.0
+12,Ram quarterly sales ~ Ram KBB ATP (log-log),lp,test_12_029_lp.png,-12.504153025954096,10.047495037454713,0.2540763975967266,0.7063234431742411,18.0
+12,Ram sales ~ Ram ATP relative to industry ATP,lrp,test_12_030_lrp.png,-18.44191818511994,0.2581322694208155,0.006165820224829588,0.9922539794134017,18.0
+12,"Difference in relative-price coefficient, Ram minus Jeep",lrp_ram,test_12_031_lrp_ram.png,-71.95595200548442,-10.753874710708331,-0.4491921744881581,0.5422615048211269,36.0
+13,Stellantis US market share (%) ~ Stellantis ATP premium over industry (%),prem,test_13_032_prem.png,26.2210741718099,26.984063903583145,0.08733074149337129,0.14176130123160474,18.0
+13,"Same, premium lagged one quarter",prem_l1,test_13_033_prem_l1.png,14.88562874614748,16.126561075420863,0.04509590981645744,0.3660795314823442,17.0
+13,Dynamic: YoY change in share (pp) ~ premium four quarters earlier,prem_l4,test_13_034_prem_l4.png,-65.80549701889166,-65.80549701889166,-0.1396731894527272,0.010516550397667631,14.0
+28,Shipments minus US+Canada sales,(bar chart),test_28_000_shipments_minus_sales.png,,,,,
+31,"Trends ""Ram Hemi"" ~ Ram pickups sales (current + 1-quarter lag)",ltr0,test_31_035_ltr0.png,-22.06902136520692,29.317213911780954,0.43591427746453704,0.10331614677250392,20.0
+31,"Trends ""Ram Hemi"" ~ Ram pickups sales (current + 1-quarter lag)",ltr1,test_31_036_ltr1.png,-17.3068306207999,-20.135036222748564,-0.30945655330070787,0.27547885894494906,20.0
+31,"Granger-style: Ram pickups sales ~ own lag + Trends ""Ram Hemi"" lag",ltr1,test_31_037_ltr1.png,-17.3068306207999,21.931237456242286,0.10318647117747748,0.2543231500332489,20.0
+31,"Trends ""Ram Hemi"" ~ Ram 1500 sales (current + 1-quarter lag)",ltr0,test_31_038_ltr0.png,86.94910238801766,-14.906338264314131,-0.23719552964405466,0.810911832763128,10.0
+31,"Trends ""Ram Hemi"" ~ Ram 1500 sales (current + 1-quarter lag)",ltr1,test_31_039_ltr1.png,88.26032045692233,57.82334224699276,1.178583256863753,0.3071502382407593,10.0
+31,"Granger-style: Ram 1500 sales ~ own lag + Trends ""Ram Hemi"" lag",ltr1,test_31_040_ltr1.png,88.26032045692233,68.96911276156378,0.7585589756029112,0.19755968726049802,10.0
+31,"Trends ""Ram 1500"" ~ Ram pickups sales (current + 1-quarter lag)",ltr0,test_31_041_ltr0.png,-7.538345728590451,-2.3655576091964217,-0.043021659131689205,0.827857288168577,20.0
+31,"Trends ""Ram 1500"" ~ Ram pickups sales (current + 1-quarter lag)",ltr1,test_31_042_ltr1.png,12.66015680624149,24.44950578992648,0.4855102085464278,0.05249071317059796,20.0
+31,"Granger-style: Ram pickups sales ~ own lag + Trends ""Ram 1500"" lag",ltr1,test_31_043_ltr1.png,12.66015680624149,43.09286434329623,0.35434758651619447,0.010618754345516429,20.0
+31,"Trends ""Ram 1500"" ~ Ram 1500 sales (current + 1-quarter lag)",ltr0,test_31_044_ltr0.png,82.00989385007237,-43.345236966709464,-0.19411026744663684,0.46591592622767725,10.0
+31,"Trends ""Ram 1500"" ~ Ram 1500 sales (current + 1-quarter lag)",ltr1,test_31_045_ltr1.png,90.65176479047943,96.82288683099986,1.6527096758522575,0.0067655373639288335,10.0
+31,"Granger-style: Ram 1500 sales ~ own lag + Trends ""Ram 1500"" lag",ltr1,test_31_046_ltr1.png,90.65176479047943,96.95284826911788,1.7164948750791815,0.006355942030951466,10.0
+32,Cherokee/RAV4 sales vs search ratio,corr,test_32_000_ratio.png,-94.0128528837845,-94.0128528837845,,,4.0
+33,"Jeep sales ~ ""Jeep price"" search share (% of ""Jeep"" searches)",ps0,test_33_047_ps0.png,-46.16243963980467,9.45975271019275,0.022116189690047694,0.5676396158207375,20.0
+33,"Jeep sales ~ ""Jeep price"" search share (% of ""Jeep"" searches)",ps_l1,test_33_048_ps_l1.png,-49.647724877808805,-40.689294736717635,-0.103104336953173,0.00801931708904706,20.0
+38,Model sales ~ Wikipedia pageviews (model panel),lv,test_38_049_lv.png,61.63266181585131,-4.635724414336595,-0.10049366878212802,0.6942325617670466,301.0
+38,"Same, pageviews lagged one quarter",lv_l1,test_38_050_lv_l1.png,61.30017110823655,-7.8040294979495535,-0.17824573494330953,0.3716481561254037,288.0
+40,Stellantis US share ~ Stellantis brands' search share vs Ford+Toyota,ss,test_40_051_ss.png,80.87064243509315,81.20728282788863,0.6210780837098273,3.942858870663395e-06,21.0
+40,"Same, search share lagged one quarter",ss_l1,test_40_052_ss_l1.png,77.42558317466353,78.62060172457969,0.6178114105862729,9.779751422718897e-05,20.0
+41,PROXY: Ram share of full-size pickups ~ US gasoline price,lgas,test_41_053_lgas.png,39.99822020556576,60.39694680895291,0.8612657011351177,0.0010111759328433575,21.0
+41,"Cross-state: ""Hemi"" search intensity ~ regional (PADD) gas price",np.log(gas),test_41_057_np_log_gas.png,-28.443567265810394,15.12543381589498,11.383622931725093,0.37029346245645856,50.0
+43,Stellantis sales ~ 60-month new-car loan rate,r60,test_43_058_r60.png,-68.4324585568009,-69.96637284484748,-0.060489109177823144,2.095747056124614e-07,21.0
+43,"Stellantis sales ~ loan rate, controlling for industry volume (excess sensitivity)",r60,test_43_059_r60.png,-68.4324585568009,-12.650600724143574,-0.015081425127239447,0.556600858956176,21.0
+43,Ram sales ~ 60-month new-car loan rate,r60,test_43_060_r60.png,-64.40635959546567,-68.49952554431685,-0.06439148493541265,1.1227389877251566e-07,21.0
+43,"Ram sales ~ loan rate, controlling for industry volume (excess sensitivity)",r60,test_43_061_r60.png,-64.40635959546567,-32.3801287993723,-0.048586900676601485,0.17267197701453219,21.0
+43,Jeep sales ~ 60-month new-car loan rate,r60,test_43_062_r60.png,-71.21380061131791,-74.40774665715034,-0.06416867013845182,1.6453468988021206e-08,21.0
+43,"Jeep sales ~ loan rate, controlling for industry volume (excess sensitivity)",r60,test_43_063_r60.png,-71.21380061131791,-28.145718647378864,-0.03382664905379579,0.21510466886610213,21.0
+44,Stellantis sales by price band ~ U. Michigan sentiment,sent:C(band)[high],test_44_064_sent_C_band_high.png,26.902440256652604,-7.997024215569071,-0.002474166873848933,0.26853475280257977,63.0
+44,Stellantis sales by price band ~ U. Michigan sentiment,sent:C(band)[mid],test_44_065_sent_C_band_mid.png,66.72658900984378,18.088158676114936,0.005671856676182389,0.12091851191177923,63.0
+44,Stellantis sales by price band ~ U. Michigan sentiment,sent:C(band)[low],test_44_066_sent_C_band_low.png,-91.9677385762659,44.5410882560339,0.015342173884722976,0.015036766773494914,63.0
+44,Band sales relative to industry ~ sentiment (does Stellantis feel shocks more than the market?),sent:C(band)[high],test_44_067_sent_C_band_high.png,26.654767750440207,-2.359867793754038,-0.001008049553220812,0.8087308572660206,63.0
+44,Band sales relative to industry ~ sentiment (does Stellantis feel shocks more than the market?),sent:C(band)[mid],test_44_068_sent_C_band_mid.png,65.73853813208818,16.486108166614073,0.00713797399680968,0.2185847867261439,63.0
+44,Band sales relative to industry ~ sentiment (does Stellantis feel shocks more than the market?),sent:C(band)[low],test_44_069_sent_C_band_low.png,-90.00547283684762,36.62476328597808,0.01680829120535065,0.041534837210548584,63.0
+45,"State ""Hemi"" search intensity ~ income, rurality, truck share",np.log(med_income),test_45_054_np_log_med_income.png,-76.92245005026935,-83.40667203977675,-89.35772903602624,2.9697039337386795e-17,50.0
+45,"State ""Hemi"" search intensity ~ income, rurality, truck share",rural_share,test_45_055_rural_share.png,58.79335530737222,-31.44860377555867,-0.2570788742142348,0.0929686972931373,50.0
+45,"State ""Hemi"" search intensity ~ income, rurality, truck share",truck_share,test_45_056_truck_share.png,66.8221859857817,77.0684899163149,2.192578586786317,1.3741470704099962e-17,50.0
+47,Event study: share of Stellantis sales from V8-offering nameplates ~ post CAFE-penalty zeroing (Jul 2025),post,test_47_070_post.png,-9.804288727455504,21.24582121343668,7.217242177081899,0.40427017030040324,21.0
+48,Tariffs: Stellantis ATP vs peer OEMs after April 2025 auto tariffs,sp,test_48_071_sp.png,25.450975020696553,-35.19332399969766,-0.0509473529715742,7.754383583021758e-08,336.0
+48,"Same, with OEM-specific linear trends",sp,test_48_072_sp.png,25.450975020696553,-13.904436023690856,-0.02772036665570357,0.22570432472553859,336.0
+49,Charger BEV share of Charger sales ~ post EV-credit expiry (Sep 30 2025),post,test_49_073_post.png,-86.13349522938407,-86.13349522938407,-58.137993772653616,0.012744501098421407,7.0
+49,Stellantis BEV share (Charger BEV + Wagoneer S + 500e) ~ post credit expiry,post,test_49_074_post.png,-98.71981864534635,-98.71981864534635,-1.8174926683565682,3.5371022821201116e-05,7.0
+50,Canada: Ram pickups vs Canadian full-size rivals after US Hemi return,tp,test_50_075_tp.png,-0.9267596528013933,-33.716712716777366,-0.3649467728954229,4.483458507217775e-05,105.0
+50,"Same, with Ram-specific trend",tp,test_50_076_tp.png,-0.9267596528013933,22.42113028138972,0.244960702397386,0.027084668827948567,105.0
+50,Stellantis Canada YoY growth ~ US YoY growth,gus,test_50_077_gus.png,65.21080397148926,65.21080397148926,0.9066694234596043,0.015717217312911723,13.0
+51,NA revenue per unit (USD k) ~ Ram share of US sales (half-years 2021-2026),ram_share_us,test_51_078_ram_share_us.png,-34.560890880398475,-34.560890880398475,-0.20654820770440585,0.3279959217867165,10.0
+51,NA revenue per unit (USD k) ~ Ram share of US sales (quarters 2025Q1-2026Q3),ram_share_us,test_51_080_ram_share_us.png,63.037418343579255,63.037418343579255,0.3049555840400755,0.12911158965202219,7.0
+52,NA AOI margin (%) ~ NA shipments (000s) (half-years 2021-2026),ship,test_52_079_ship.png,89.61920333879713,89.61920333879713,0.06490600400521654,0.00044745340430923654,10.0
+52,NA AOI margin (%) ~ NA shipments (000s) (quarters 2025Q1-2026Q3),ship,test_52_081_ship.png,42.24782117688204,42.24782117688204,0.02143987701572489,0.34503420224640863,7.0
+55,STLA abnormal return on US sales-release days ~ sales growth vs industry,surprise,test_55_082_surprise.png,16.996556946869738,16.996556946869738,0.061831976681826245,0.6044344305900919,16.0
+56,NHTSA recall campaigns per nameplate-model-year ~ new powertrain introduced that MY,any_new,test_56_083_any_new.png,33.4806331628168,33.4806331628168,0.4063694730446882,0.00037499555704880296,80.0
+56,NHTSA recall campaigns per nameplate-model-year ~ new powertrain introduced that MY,n_pt,test_56_084_n_pt.png,47.818851613899874,47.818851613899874,0.01598377027219571,0.92006050605114,80.0

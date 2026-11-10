@@ -6,7 +6,7 @@ Dep. Variable:               v8_share   R-squared:                       0.201
 Model:                            OLS   Adj. R-squared:                 -0.065
 Method:                 Least Squares   F-statistic:                     2.267
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.101
-Time:                        15:20:29   Log-Likelihood:                -76.498
+Time:                        15:50:25   Log-Likelihood:                -76.498
 No. Observations:                  21   AIC:                             165.0
 Df Residuals:                      15   BIC:                             171.3
 Df Model:                           5                                         

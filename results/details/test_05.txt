@@ -6,7 +6,7 @@ Dep. Variable:                  share   R-squared:                       0.776
 Model:                            OLS   Adj. R-squared:                  0.725
 Method:                 Least Squares   F-statistic:                     25.87
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):           0.000487
-Time:                        15:20:28   Log-Likelihood:                 167.44
+Time:                        15:50:03   Log-Likelihood:                 167.44
 No. Observations:                 147   AIC:                            -278.9
 Df Residuals:                     119   BIC:                            -195.2
 Df Model:                          27                                         
@@ -60,7 +60,7 @@ Dep. Variable:                  share   R-squared:                       0.797
 Model:                            OLS   Adj. R-squared:                  0.749
 Method:                 Least Squares   F-statistic:                     6.015
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):             0.0231
-Time:                        15:20:28   Log-Likelihood:                 174.74
+Time:                        15:50:03   Log-Likelihood:                 174.74
 No. Observations:                 147   AIC:                            -291.5
 Df Residuals:                     118   BIC:                            -204.8
 Df Model:                          28                                         

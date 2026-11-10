@@ -6,7 +6,7 @@ Dep. Variable:                recalls   No. Observations:                   80
 Model:                        Poisson   Df Residuals:                       58
 Method:                           MLE   Df Model:                           21
 Date:                Tue, 10 Nov 2026   Pseudo R-squ.:                  0.4837
-Time:                        15:20:32   Log-Likelihood:                -169.35
+Time:                        15:50:28   Log-Likelihood:                -169.35
 converged:                       True   LL-Null:                       -328.02
 Covariance Type:              cluster   LLR p-value:                 9.242e-55
 ===============================================================================================

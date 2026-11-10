@@ -6,7 +6,7 @@ Dep. Variable:                    gap   R-squared:                       0.026
 Model:                            OLS   Adj. R-squared:                 -0.018
 Method:                 Least Squares   F-statistic:                    0.9249
 Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.347
-Time:                        15:20:28   Log-Likelihood:                -130.98
+Time:                        15:50:03   Log-Likelihood:                -130.98
 No. Observations:                  24   AIC:                             266.0
 Df Residuals:                      22   BIC:                             268.3
 Df Model:                           1                                         
