@@ -1,0 +1,86 @@
+### Stellantis sales by price band ~ U. Michigan sentiment
+log(band units) ~ sentiment x band + band FE + band x quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.963
+Model:                            OLS   Adj. R-squared:                  0.952
+Method:                 Least Squares   F-statistic:                     124.2
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           1.02e-32
+Time:                        15:20:28   Log-Likelihood:                 35.774
+No. Observations:                  63   AIC:                            -41.55
+Df Residuals:                      48   BIC:                            -9.401
+Df Model:                          14                                         
+Covariance Type:                  HAC                                         
+=============================================================================================
+                                coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+Intercept                    11.7696      0.159     74.240      0.000      11.459      12.080
+C(band)[T.low]               -2.2393      0.472     -4.746      0.000      -3.164      -1.315
+C(band)[T.mid]               -0.0869      0.293     -0.297      0.767      -0.660       0.487
+C(band)[high]:C(qtr)[T.2]     0.0691      0.053      1.308      0.191      -0.034       0.173
+C(band)[low]:C(qtr)[T.2]     -0.0382      0.113     -0.340      0.734      -0.259       0.182
+C(band)[mid]:C(qtr)[T.2]      0.1163      0.058      2.021      0.043       0.004       0.229
+C(band)[high]:C(qtr)[T.3]     0.0625      0.060      1.033      0.301      -0.056       0.181
+C(band)[low]:C(qtr)[T.3]     -0.0472      0.085     -0.554      0.579      -0.214       0.120
+C(band)[mid]:C(qtr)[T.3]      0.0217      0.056      0.385      0.700      -0.089       0.132
+C(band)[high]:C(qtr)[T.4]     0.1014      0.059      1.730      0.084      -0.013       0.216
+C(band)[low]:C(qtr)[T.4]     -0.1134      0.092     -1.233      0.218      -0.294       0.067
+C(band)[mid]:C(qtr)[T.4]     -0.0057      0.058     -0.098      0.922      -0.120       0.108
+sent:C(band)[high]           -0.0025      0.002     -1.106      0.269      -0.007       0.002
+sent:C(band)[low]             0.0153      0.006      2.431      0.015       0.003       0.028
+sent:C(band)[mid]             0.0057      0.004      1.551      0.121      -0.001       0.013
+==============================================================================
+Omnibus:                        2.317   Durbin-Watson:                   1.122
+Prob(Omnibus):                  0.314   Jarque-Bera (JB):                1.894
+Skew:                          -0.281   Prob(JB):                        0.388
+Kurtosis:                       2.364   Cond. No.                     1.07e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 1.07e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### Band sales relative to industry ~ sentiment (does Stellantis feel shocks more than the market?)
+log(band units / industry units) ~ sentiment x band + FE
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 lshare   R-squared:                       0.931
+Model:                            OLS   Adj. R-squared:                  0.911
+Method:                 Least Squares   F-statistic:                     33.32
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           6.40e-20
+Time:                        15:20:29   Log-Likelihood:                 15.267
+No. Observations:                  63   AIC:                           -0.5340
+Df Residuals:                      48   BIC:                             31.61
+Df Model:                          14                                         
+Covariance Type:                  HAC                                         
+=============================================================================================
+                                coef    std err          z      P>|z|      [0.025      0.975]
+---------------------------------------------------------------------------------------------
+Intercept                     3.4776      0.274     12.708      0.000       2.941       4.014
+C(band)[T.low]               -2.2393      0.627     -3.570      0.000      -3.469      -1.010
+C(band)[T.mid]               -0.0869      0.460     -0.189      0.850      -0.989       0.815
+C(band)[high]:C(qtr)[T.2]    -0.0217      0.065     -0.333      0.739      -0.150       0.106
+C(band)[low]:C(qtr)[T.2]     -0.1291      0.119     -1.085      0.278      -0.362       0.104
+C(band)[mid]:C(qtr)[T.2]      0.0255      0.067      0.381      0.703      -0.106       0.157
+C(band)[high]:C(qtr)[T.3]     0.0228      0.081      0.280      0.779      -0.137       0.182
+C(band)[low]:C(qtr)[T.3]     -0.0869      0.101     -0.862      0.388      -0.284       0.111
+C(band)[mid]:C(qtr)[T.3]     -0.0179      0.076     -0.235      0.814      -0.168       0.132
+C(band)[high]:C(qtr)[T.4]     0.0633      0.077      0.827      0.408      -0.087       0.213
+C(band)[low]:C(qtr)[T.4]     -0.1515      0.098     -1.544      0.123      -0.344       0.041
+C(band)[mid]:C(qtr)[T.4]     -0.0438      0.082     -0.534      0.593      -0.204       0.117
+sent:C(band)[high]           -0.0010      0.004     -0.242      0.809      -0.009       0.007
+sent:C(band)[low]             0.0168      0.008      2.038      0.042       0.001       0.033
+sent:C(band)[mid]             0.0071      0.006      1.230      0.219      -0.004       0.019
+==============================================================================
+Omnibus:                        6.203   Durbin-Watson:                   0.650
+Prob(Omnibus):                  0.045   Jarque-Bera (JB):                2.518
+Skew:                           0.117   Prob(JB):                        0.284
+Kurtosis:                       2.049   Cond. No.                     1.07e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 1.07e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

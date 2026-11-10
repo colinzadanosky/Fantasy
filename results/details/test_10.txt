@@ -1,0 +1,28 @@
+### Total-minus-retail YoY growth gap ~ new powertrain launch
+(total YoY % - retail YoY %) ~ launch dummy; HC1. Positive gap = non-retail (fleet) growing faster
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    gap   R-squared:                       0.026
+Model:                            OLS   Adj. R-squared:                 -0.018
+Method:                 Least Squares   F-statistic:                    0.9249
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.347
+Time:                        15:20:28   Log-Likelihood:                -130.98
+No. Observations:                  24   AIC:                             266.0
+Df Residuals:                      22   BIC:                             268.3
+Df Model:                           1                                         
+Covariance Type:                  HC1                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    -25.3196     18.936     -1.337      0.181     -62.433      11.794
+launch        19.3091     20.078      0.962      0.336     -20.042      58.660
+==============================================================================
+Omnibus:                       22.940   Durbin-Watson:                   1.569
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               63.404
+Skew:                          -1.416   Prob(JB):                     1.71e-14
+Kurtosis:                      10.442   Cond. No.                         2.43
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+

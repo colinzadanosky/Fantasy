@@ -1,0 +1,60 @@
+### Charger BEV units ~ Charger ICE (Sixpack) units, 2025Q1-2026Q3
+BEV_t ~ ICE_t; HAC(1). Negative = ICE replaced EV demand
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    bev   R-squared:                       0.417
+Model:                            OLS   Adj. R-squared:                  0.300
+Method:                 Least Squares   F-statistic:                     3.577
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.117
+Time:                        15:20:28   Log-Likelihood:                -56.763
+No. Observations:                   7   AIC:                             117.5
+Df Residuals:                       5   BIC:                             117.4
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   1998.6787    567.051      3.525      0.017     541.029    3456.329
+ice           -0.5707      0.302     -1.891      0.117      -1.347       0.205
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   1.545
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.792
+Skew:                          -0.720   Prob(JB):                        0.673
+Kurtosis:                       2.198   Cond. No.                     2.96e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.96e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### Total Charger units ~ ICE units (coef 1 = purely additive)
+total_t ~ ICE_t; HAC(1)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  total   R-squared:                       0.288
+Model:                            OLS   Adj. R-squared:                  0.146
+Method:                 Least Squares   F-statistic:                     2.023
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.214
+Time:                        15:20:28   Log-Likelihood:                -56.763
+No. Observations:                   7   AIC:                             117.5
+Df Residuals:                       5   BIC:                             117.4
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   1998.6787    567.051      3.525      0.017     541.029    3456.329
+ice            0.4293      0.302      1.422      0.214      -0.347       1.205
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   1.545
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.792
+Skew:                          -0.720   Prob(JB):                        0.673
+Kurtosis:                       2.198   Cond. No.                     2.96e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 2.96e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

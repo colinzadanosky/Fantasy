@@ -1,0 +1,108 @@
+### Ram quarterly sales ~ Ram KBB ATP (log-log)
+log(Ram units) ~ log(Ram ATP) + log(US light-vehicle sales, BEA) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.460
+Model:                            OLS   Adj. R-squared:                  0.235
+Method:                 Least Squares   F-statistic:                     8.610
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):            0.00115
+Time:                        15:20:28   Log-Likelihood:                 16.842
+No. Observations:                  18   AIC:                            -21.68
+Df Residuals:                      12   BIC:                            -16.34
+Df Model:                           5                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      16.3599      6.225      2.628      0.009       4.159      28.561
+C(qtr)[T.2]     0.2158      0.047      4.637      0.000       0.125       0.307
+C(qtr)[T.3]     0.1821      0.058      3.124      0.002       0.068       0.296
+C(qtr)[T.4]     0.2469      0.070      3.538      0.000       0.110       0.384
+lp              0.2541      0.674      0.377      0.706      -1.068       1.576
+lind           -0.9242      0.272     -3.401      0.001      -1.457      -0.392
+==============================================================================
+Omnibus:                        1.663   Durbin-Watson:                   1.023
+Prob(Omnibus):                  0.435   Jarque-Bera (JB):                0.938
+Skew:                           0.101   Prob(JB):                        0.626
+Kurtosis:                       1.900   Cond. No.                     3.82e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 3.82e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### Ram sales ~ Ram ATP relative to industry ATP
+log(Ram) ~ log(Ram ATP / industry ATP) + log(industry units) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.455
+Model:                            OLS   Adj. R-squared:                  0.227
+Method:                 Least Squares   F-statistic:                     10.15
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           0.000548
+Time:                        15:20:28   Log-Likelihood:                 16.751
+No. Observations:                  18   AIC:                            -21.50
+Df Residuals:                      12   BIC:                            -16.16
+Df Model:                           5                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      18.6694      2.023      9.230      0.000      14.705      22.634
+C(qtr)[T.2]     0.2099      0.047      4.426      0.000       0.117       0.303
+C(qtr)[T.3]     0.1811      0.058      3.126      0.002       0.068       0.295
+C(qtr)[T.4]     0.2400      0.074      3.225      0.001       0.094       0.386
+lrp             0.0062      0.635      0.010      0.992      -1.239       1.251
+lind           -0.8632      0.257     -3.358      0.001      -1.367      -0.359
+==============================================================================
+Omnibus:                        2.456   Durbin-Watson:                   0.988
+Prob(Omnibus):                  0.293   Jarque-Bera (JB):                1.143
+Skew:                           0.160   Prob(JB):                        0.565
+Kurtosis:                       1.807   Cond. No.                     1.13e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 1.13e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### Difference in relative-price coefficient, Ram minus Jeep
+stacked Jeep+Ram; log(units) ~ rel. price + rel. price x Ram + brand-specific controls; HAC(2). Positive = Ram less price-sensitive
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.735
+Model:                            OLS   Adj. R-squared:                  0.614
+Method:                 Least Squares   F-statistic:                     22.92
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           4.37e-10
+Time:                        15:20:28   Log-Likelihood:                 39.202
+No. Observations:                  36   AIC:                            -54.40
+Df Residuals:                      24   BIC:                            -35.40
+Df Model:                          11                                         
+Covariance Type:                  HAC                                         
+==============================================================================================
+                                 coef    std err          z      P>|z|      [0.025      0.975]
+----------------------------------------------------------------------------------------------
+Intercept                     16.7009      2.028      8.234      0.000      12.726      20.676
+C(brand)[T.Ram]                1.9685      2.874      0.685      0.493      -3.664       7.601
+C(brand)[Jeep]:C(qtr)[T.2]     0.1146      0.033      3.478      0.001       0.050       0.179
+C(brand)[Ram]:C(qtr)[T.2]      0.2099      0.047      4.426      0.000       0.117       0.303
+C(brand)[Jeep]:C(qtr)[T.3]     0.0322      0.031      1.026      0.305      -0.029       0.094
+C(brand)[Ram]:C(qtr)[T.3]      0.1811      0.058      3.126      0.002       0.068       0.295
+C(brand)[Jeep]:C(qtr)[T.4]     0.0071      0.028      0.251      0.802      -0.049       0.063
+C(brand)[Ram]:C(qtr)[T.4]      0.2400      0.074      3.225      0.001       0.094       0.386
+lrp                            0.4554      0.374      1.217      0.224      -0.278       1.189
+lrp_ram                       -0.4492      0.737     -0.609      0.542      -1.894       0.996
+lind                          -0.5873      0.245     -2.393      0.017      -1.068      -0.106
+C(brand)[T.Ram]:lind          -0.2758      0.357     -0.774      0.439      -0.975       0.423
+==============================================================================
+Omnibus:                        1.324   Durbin-Watson:                   1.139
+Prob(Omnibus):                  0.516   Jarque-Bera (JB):                1.081
+Skew:                           0.199   Prob(JB):                        0.582
+Kurtosis:                       2.250   Cond. No.                     3.23e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 3.23e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

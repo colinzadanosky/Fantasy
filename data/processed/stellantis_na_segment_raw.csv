@@ -1,0 +1,17 @@
+file,period_cur,period_prev,shipments_k_cur,shipments_k_prev,net_revenues_eur_m_cur,net_revenues_eur_m_prev,aoi_eur_m_cur,aoi_eur_m_prev,aoi_margin_pct_cur,aoi_margin_pct_prev
+2022_FY_press_stellantisnvfy2022pressrel.htm,2022,2021,1861.0,1820.0,85475.0,69736.0,13989.0,11356.0,16.4,16.3
+2022_FY_press_stellantisnvfy2022pressrel.htm,H2 2022,H2 2021,902.0,947.0,43032.0,37289.0,6306.0,6120.0,14.7,16.4
+2022_H1_press_stellantisnvh12022pressrel.htm,H1 2022,H1 2021,959.0,873.0,42443.0,32447.0,7683.0,5236.0,18.1,16.1
+2023_FY_press_stellantisnvfy2023pressrel.htm,2023,2022,1903.0,1861.0,86500.0,85475.0,13298.0,13987.0,15.4,16.4
+2023_FY_press_stellantisnvfy2023pressrel.htm,H2 2023,H2 2022,880.0,902.0,40584.0,43032.0,5271.0,6304.0,13.0,14.6
+2024_FY_press_stellantisnvfy2024pressrel.htm,2024,2023,1432.0,1903.0,63450.0,86500.0,2660.0,13298.0,4.2,15.4
+2024_FY_press_stellantisnvfy2024pressrel.htm,H2 2024,H2 2023,594.0,880.0,25097.0,40584.0,-1706.0,5271.0,-6.8,13.0
+2024_H1_press_stellantisnvh12024pressrel.htm,H1 2024,H1 2023,838.0,1023.0,38353.0,45916.0,4366.0,8027.0,11.4,17.5
+2025_FY_press_stellantisnvfy2025pressrel.htm,2025,2024,1472.0,1432.0,60962.0,63450.0,-1892.0,2660.0,-3.1,4.2
+2025_FY_press_stellantisnvfy2025pressrel.htm,H2 2025,H2 2024,825.0,594.0,32764.0,25097.0,-941.0,-1706.0,-2.9,-6.8
+2025_H1_press_stellantisnvh12025pressrel.htm,H1 2025,H1 2024,647.0,838.0,28198.0,38353.0,-951.0,4366.0,-3.4,11.4
+2026_Q1_press_stellantisnvq12026pressrel.htm,Q1 2026,Q1 2025,379.0,325.0,16114.0,14469.0,263.0,-542.0,1.6,-3.7
+2026_Q2_press_stellantisnvh12026pressrel.htm,Q2 2026,Q2 2025,445.0,323.0,18193.0,13834.0,284.0,-440.0,1.6,-3.2
+2026_Q2_press_stellantisnvh12026pressrel.htm,YTD 2026,YTD 2025,824.0,648.0,34307.0,28303.0,547.0,-982.0,1.6,-3.5
+2026_Q3_press_stellantisnvq32026pressrel.htm,Q3 2026,Q3 2025,357.0,404.0,15586.0,16087.0,64.0,-475.0,0.4,-3.0
+2026_Q3_press_stellantisnvq32026pressrel.htm,YTD 2026,YTD 2025,1181.0,1052.0,49893.0,44390.0,611.0,-1457.0,1.2,-3.3

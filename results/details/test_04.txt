@@ -1,0 +1,63 @@
+### Cannibalization: YoY change Compass+Grand Cherokee units ~ YoY change Cherokee units
+d4 (Compass+GC) ~ d4 Cherokee + d4 rival compact/midsize SUV units; HAC(2). Coef -1 = full cannibalization, 0 = new demand
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   d_cg   R-squared:                       0.334
+Model:                            OLS   Adj. R-squared:                  0.239
+Method:                 Least Squares   F-statistic:                     7.580
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):            0.00588
+Time:                        15:20:27   Log-Likelihood:                -187.08
+No. Observations:                  17   AIC:                             380.2
+Df Residuals:                      14   BIC:                             382.7
+Df Model:                           2                                         
+Covariance Type:                  HAC                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept  -1.108e+04   5112.860     -2.166      0.030   -2.11e+04   -1055.446
+d_ch          -1.6161      0.464     -3.486      0.000      -2.525      -0.708
+d_seg          0.0565      0.066      0.859      0.390      -0.072       0.185
+==============================================================================
+Omnibus:                        3.625   Durbin-Watson:                   1.157
+Prob(Omnibus):                  0.163   Jarque-Bera (JB):                2.117
+Skew:                          -0.862   Prob(JB):                        0.347
+Kurtosis:                       3.133   Cond. No.                     8.53e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 8.53e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### Same, controlling for Q3-2026 production shutdown
++ dummy 2026Q3
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   d_cg   R-squared:                       0.348
+Model:                            OLS   Adj. R-squared:                  0.197
+Method:                 Least Squares   F-statistic:                     21.25
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           2.73e-05
+Time:                        15:20:27   Log-Likelihood:                -186.91
+No. Observations:                  17   AIC:                             381.8
+Df Residuals:                      13   BIC:                             385.1
+Df Model:                           3                                         
+Covariance Type:                  HAC                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept   -1.04e+04   5597.627     -1.858      0.063   -2.14e+04     568.400
+d_ch          -1.3272      0.681     -1.949      0.051      -2.662       0.007
+d_seg          0.0638      0.065      0.974      0.330      -0.064       0.192
+shut       -1.066e+04   9939.500     -1.072      0.284   -3.01e+04    8821.166
+==============================================================================
+Omnibus:                        4.790   Durbin-Watson:                   1.089
+Prob(Omnibus):                  0.091   Jarque-Bera (JB):                2.730
+Skew:                          -0.959   Prob(JB):                        0.255
+Kurtosis:                       3.420   Cond. No.                     3.41e+05
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 3.41e+05. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

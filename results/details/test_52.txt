@@ -1,0 +1,60 @@
+### NA AOI margin (%) ~ NA shipments (000s) (half-years 2021-2026)
+AOI margin ~ shipments; HC1
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 margin   R-squared:                       0.803
+Model:                            OLS   Adj. R-squared:                  0.779
+Method:                 Least Squares   F-statistic:                     32.64
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           0.000447
+Time:                        15:20:29   Log-Likelihood:                -28.294
+No. Observations:                  10   AIC:                             60.59
+Df Residuals:                       8   BIC:                             61.19
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept    -46.8147      9.696     -4.828      0.001     -69.174     -24.456
+ship           0.0649      0.011      5.713      0.000       0.039       0.091
+==============================================================================
+Omnibus:                        6.587   Durbin-Watson:                   1.656
+Prob(Omnibus):                  0.037   Jarque-Bera (JB):                2.941
+Skew:                          -1.310   Prob(JB):                        0.230
+Kurtosis:                       3.442   Cond. No.                     5.71e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 5.71e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### NA AOI margin (%) ~ NA shipments (000s) (quarters 2025Q1-2026Q3)
+AOI margin ~ shipments; HC1
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 margin   R-squared:                       0.178
+Model:                            OLS   Adj. R-squared:                  0.014
+Method:                 Least Squares   F-statistic:                     1.086
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.345
+Time:                        15:20:29   Log-Likelihood:                -14.797
+No. Observations:                   7   AIC:                             33.59
+Df Residuals:                       5   BIC:                             33.49
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     -9.4280      7.850     -1.201      0.284     -29.608      10.752
+ship           0.0214      0.021      1.042      0.345      -0.031       0.074
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   3.168
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.786
+Skew:                           0.194   Prob(JB):                        0.675
+Kurtosis:                       1.405   Cond. No.                     3.34e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 3.34e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

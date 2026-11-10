@@ -1,0 +1,65 @@
+### Ram HD units ~ Hemi available in Ram 1500
+log(HD) ~ Hemi-available dummy (MY lineup) + log(F/Silverado/Sierra units) + quarter-of-year; HAC(1)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    lhd   R-squared:                       0.946
+Model:                            OLS   Adj. R-squared:                  0.892
+Method:                 Least Squares   F-statistic:                     17.58
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):            0.00344
+Time:                        15:20:28   Log-Likelihood:                 21.425
+No. Observations:                  11   AIC:                            -30.85
+Df Residuals:                       5   BIC:                            -28.46
+Df Model:                           5                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      32.8925      7.565      4.348      0.007      13.447      52.338
+C(qtr)[T.2]     0.5488      0.118      4.651      0.006       0.245       0.852
+C(qtr)[T.3]     0.4779      0.095      5.045      0.004       0.234       0.721
+C(qtr)[T.4]     0.7673      0.130      5.889      0.002       0.432       1.102
+hemi           -0.0616      0.047     -1.307      0.248      -0.183       0.060
+lriv           -1.7448      0.588     -2.967      0.031      -3.257      -0.233
+==============================================================================
+Omnibus:                        2.075   Durbin-Watson:                   2.197
+Prob(Omnibus):                  0.354   Jarque-Bera (JB):                1.199
+Skew:                           0.782   Prob(JB):                        0.549
+Kurtosis:                       2.592   Cond. No.                     6.40e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 6.4e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### HD share of Ram pickups ~ Hemi availability
+HD/(HD+LD) ~ Hemi + quarter-of-year; HAC(1)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:               hd_share   R-squared:                       0.327
+Model:                            OLS   Adj. R-squared:                 -0.122
+Method:                 Least Squares   F-statistic:                    0.7284
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.604
+Time:                        15:20:28   Log-Likelihood:                 17.262
+No. Observations:                  11   AIC:                            -24.52
+Df Residuals:                       6   BIC:                            -22.54
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+===============================================================================
+                  coef    std err          t      P>|t|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept       0.4203      0.049      8.619      0.000       0.301       0.540
+C(qtr)[T.2]     0.0535      0.056      0.960      0.374      -0.083       0.190
+C(qtr)[T.3]     0.0639      0.056      1.147      0.295      -0.072       0.200
+C(qtr)[T.4]     0.0858      0.063      1.369      0.220      -0.068       0.239
+hemi           -0.0294      0.043     -0.681      0.521      -0.135       0.076
+==============================================================================
+Omnibus:                        1.002   Durbin-Watson:                   0.649
+Prob(Omnibus):                  0.606   Jarque-Bera (JB):                0.052
+Skew:                          -0.155   Prob(JB):                        0.974
+Kurtosis:                       3.135   Cond. No.                         5.61
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+

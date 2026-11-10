@@ -1,0 +1,56 @@
+### Charger BEV share of Charger sales ~ post EV-credit expiry (Sep 30 2025)
+BEV share % ~ post(>=2025Q4); HAC(1); 2025Q1-2026Q3
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:      charger_bev_share   R-squared:                       0.742
+Model:                            OLS   Adj. R-squared:                  0.690
+Method:                 Least Squares   F-statistic:                     14.37
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):             0.0127
+Time:                        15:20:29   Log-Likelihood:                -29.753
+No. Observations:                   7   AIC:                             63.51
+Df Residuals:                       5   BIC:                             63.40
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept     79.1268     11.593      6.826      0.001      49.327     108.926
+post         -58.1380     15.336     -3.791      0.013     -97.559     -18.717
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   1.367
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                1.337
+Skew:                           1.066   Prob(JB):                        0.512
+Kurtosis:                       2.799   Cond. No.                         2.82
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+### Stellantis BEV share (Charger BEV + Wagoneer S + 500e) ~ post credit expiry
+BEV % of Stellantis US ~ post
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         bev_share_stla   R-squared:                       0.975
+Model:                            OLS   Adj. R-squared:                  0.969
+Method:                 Least Squares   F-statistic:                     191.5
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           3.54e-05
+Time:                        15:20:29   Log-Likelihood:                 3.5693
+No. Observations:                   7   AIC:                            -3.139
+Df Residuals:                       5   BIC:                            -3.247
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      1.9928      0.099     20.075      0.000       1.738       2.248
+post          -1.8175      0.131    -13.840      0.000      -2.155      -1.480
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   1.285
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.369
+Skew:                          -0.550   Prob(JB):                        0.832
+Kurtosis:                       3.237   Cond. No.                         2.82
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+

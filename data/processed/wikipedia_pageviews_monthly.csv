@@ -1,0 +1,1963 @@
+model,article,month,views
+Ram pickup,Ram_pickup,202004,16604
+Ram pickup,Ram_pickup,202005,45538
+Ram pickup,Ram_pickup,202006,42402
+Ram pickup,Ram_pickup,202007,45634
+Ram pickup,Ram_pickup,202008,47748
+Ram pickup,Ram_pickup,202009,43418
+Ram pickup,Ram_pickup,202010,47075
+Ram pickup,Ram_pickup,202011,42271
+Ram pickup,Ram_pickup,202012,42953
+Ram pickup,Ram_pickup,202101,45124
+Ram pickup,Ram_pickup,202102,41576
+Ram pickup,Ram_pickup,202103,47435
+Ram pickup,Ram_pickup,202104,43252
+Ram pickup,Ram_pickup,202105,41784
+Ram pickup,Ram_pickup,202106,37210
+Ram pickup,Ram_pickup,202107,38727
+Ram pickup,Ram_pickup,202108,37013
+Ram pickup,Ram_pickup,202109,34048
+Ram pickup,Ram_pickup,202110,33634
+Ram pickup,Ram_pickup,202111,31750
+Ram pickup,Ram_pickup,202112,33400
+Ram pickup,Ram_pickup,202201,37235
+Ram pickup,Ram_pickup,202202,34211
+Ram pickup,Ram_pickup,202203,33005
+Ram pickup,Ram_pickup,202204,32161
+Ram pickup,Ram_pickup,202205,30526
+Ram pickup,Ram_pickup,202206,28268
+Ram pickup,Ram_pickup,202207,31884
+Ram pickup,Ram_pickup,202208,37888
+Ram pickup,Ram_pickup,202209,34205
+Ram pickup,Ram_pickup,202210,35036
+Ram pickup,Ram_pickup,202211,32694
+Ram pickup,Ram_pickup,202212,32111
+Ram pickup,Ram_pickup,202301,36843
+Ram pickup,Ram_pickup,202302,34218
+Ram pickup,Ram_pickup,202303,38294
+Ram pickup,Ram_pickup,202304,36020
+Ram pickup,Ram_pickup,202305,37427
+Ram pickup,Ram_pickup,202306,37415
+Ram pickup,Ram_pickup,202307,39266
+Ram pickup,Ram_pickup,202308,42694
+Ram pickup,Ram_pickup,202309,39684
+Ram pickup,Ram_pickup,202310,41587
+Ram pickup,Ram_pickup,202311,40881
+Ram pickup,Ram_pickup,202312,42265
+Ram pickup,Ram_pickup,202401,46604
+Ram pickup,Ram_pickup,202402,42959
+Ram pickup,Ram_pickup,202403,43277
+Ram pickup,Ram_pickup,202404,42878
+Ram pickup,Ram_pickup,202405,40943
+Ram pickup,Ram_pickup,202406,37986
+Ram pickup,Ram_pickup,202407,42498
+Ram pickup,Ram_pickup,202408,44470
+Ram pickup,Ram_pickup,202409,40443
+Ram pickup,Ram_pickup,202410,41323
+Ram pickup,Ram_pickup,202411,37062
+Ram pickup,Ram_pickup,202412,39696
+Ram pickup,Ram_pickup,202501,39262
+Ram pickup,Ram_pickup,202502,34606
+Ram pickup,Ram_pickup,202503,45260
+Ram pickup,Ram_pickup,202504,37861
+Ram pickup,Ram_pickup,202505,38180
+Ram pickup,Ram_pickup,202506,33765
+Ram pickup,Ram_pickup,202507,37197
+Ram pickup,Ram_pickup,202508,36541
+Ram pickup,Ram_pickup,202509,35452
+Ram pickup,Ram_pickup,202510,34609
+Ram pickup,Ram_pickup,202511,32527
+Ram pickup,Ram_pickup,202512,31018
+Ram pickup,Ram_pickup,202601,32682
+Ram pickup,Ram_pickup,202602,29498
+Ram pickup,Ram_pickup,202603,30610
+Ram pickup,Ram_pickup,202604,28266
+Ram pickup,Ram_pickup,202605,29106
+Ram pickup,Ram_pickup,202606,25909
+Ram pickup,Ram_pickup,202607,25870
+Ram pickup,Ram_pickup,202608,24489
+Ram pickup,Ram_pickup,202609,21855
+Ram pickup,Ram_pickup,202610,19839
+Wrangler,Jeep_Wrangler,201601,101977
+Wrangler,Jeep_Wrangler,201602,100887
+Wrangler,Jeep_Wrangler,201603,100558
+Wrangler,Jeep_Wrangler,201604,96159
+Wrangler,Jeep_Wrangler,201605,103065
+Wrangler,Jeep_Wrangler,201606,101577
+Wrangler,Jeep_Wrangler,201607,102697
+Wrangler,Jeep_Wrangler,201608,103121
+Wrangler,Jeep_Wrangler,201609,97777
+Wrangler,Jeep_Wrangler,201610,92961
+Wrangler,Jeep_Wrangler,201611,84515
+Wrangler,Jeep_Wrangler,201612,85402
+Wrangler,Jeep_Wrangler,201701,106897
+Wrangler,Jeep_Wrangler,201702,93148
+Wrangler,Jeep_Wrangler,201703,103922
+Wrangler,Jeep_Wrangler,201704,100913
+Wrangler,Jeep_Wrangler,201705,98550
+Wrangler,Jeep_Wrangler,201706,92861
+Wrangler,Jeep_Wrangler,201707,98199
+Wrangler,Jeep_Wrangler,201708,96764
+Wrangler,Jeep_Wrangler,201709,89089
+Wrangler,Jeep_Wrangler,201710,91641
+Wrangler,Jeep_Wrangler,201711,92014
+Wrangler,Jeep_Wrangler,201712,85613
+Wrangler,Jeep_Wrangler,201801,77489
+Wrangler,Jeep_Wrangler,201802,73287
+Wrangler,Jeep_Wrangler,201803,78655
+Wrangler,Jeep_Wrangler,201804,75993
+Wrangler,Jeep_Wrangler,201805,80665
+Wrangler,Jeep_Wrangler,201806,73246
+Wrangler,Jeep_Wrangler,201807,77576
+Wrangler,Jeep_Wrangler,201808,70514
+Wrangler,Jeep_Wrangler,201809,61836
+Wrangler,Jeep_Wrangler,201810,60318
+Wrangler,Jeep_Wrangler,201811,58102
+Wrangler,Jeep_Wrangler,201812,59143
+Wrangler,Jeep_Wrangler,201901,65193
+Wrangler,Jeep_Wrangler,201902,62177
+Wrangler,Jeep_Wrangler,201903,64006
+Wrangler,Jeep_Wrangler,201904,63352
+Wrangler,Jeep_Wrangler,201905,68194
+Wrangler,Jeep_Wrangler,201906,64225
+Wrangler,Jeep_Wrangler,201907,68200
+Wrangler,Jeep_Wrangler,201908,67811
+Wrangler,Jeep_Wrangler,201909,62639
+Wrangler,Jeep_Wrangler,201910,57208
+Wrangler,Jeep_Wrangler,201911,50759
+Wrangler,Jeep_Wrangler,201912,50296
+Wrangler,Jeep_Wrangler,202001,54481
+Wrangler,Jeep_Wrangler,202002,43797
+Wrangler,Jeep_Wrangler,202003,43269
+Wrangler,Jeep_Wrangler,202004,44845
+Wrangler,Jeep_Wrangler,202005,53349
+Wrangler,Jeep_Wrangler,202006,54486
+Wrangler,Jeep_Wrangler,202007,64182
+Wrangler,Jeep_Wrangler,202008,61732
+Wrangler,Jeep_Wrangler,202009,51262
+Wrangler,Jeep_Wrangler,202010,57343
+Wrangler,Jeep_Wrangler,202011,48139
+Wrangler,Jeep_Wrangler,202012,47379
+Wrangler,Jeep_Wrangler,202101,51541
+Wrangler,Jeep_Wrangler,202102,50750
+Wrangler,Jeep_Wrangler,202103,55316
+Wrangler,Jeep_Wrangler,202104,52308
+Wrangler,Jeep_Wrangler,202105,53873
+Wrangler,Jeep_Wrangler,202106,50229
+Wrangler,Jeep_Wrangler,202107,50759
+Wrangler,Jeep_Wrangler,202108,48368
+Wrangler,Jeep_Wrangler,202109,43752
+Wrangler,Jeep_Wrangler,202110,39941
+Wrangler,Jeep_Wrangler,202111,36342
+Wrangler,Jeep_Wrangler,202112,37932
+Wrangler,Jeep_Wrangler,202201,42450
+Wrangler,Jeep_Wrangler,202202,38416
+Wrangler,Jeep_Wrangler,202203,38677
+Wrangler,Jeep_Wrangler,202204,39108
+Wrangler,Jeep_Wrangler,202205,39538
+Wrangler,Jeep_Wrangler,202206,38854
+Wrangler,Jeep_Wrangler,202207,41306
+Wrangler,Jeep_Wrangler,202208,42930
+Wrangler,Jeep_Wrangler,202209,38394
+Wrangler,Jeep_Wrangler,202210,39569
+Wrangler,Jeep_Wrangler,202211,35658
+Wrangler,Jeep_Wrangler,202212,34636
+Wrangler,Jeep_Wrangler,202301,38914
+Wrangler,Jeep_Wrangler,202302,35100
+Wrangler,Jeep_Wrangler,202303,40178
+Wrangler,Jeep_Wrangler,202304,38229
+Wrangler,Jeep_Wrangler,202305,39287
+Wrangler,Jeep_Wrangler,202306,38441
+Wrangler,Jeep_Wrangler,202307,41489
+Wrangler,Jeep_Wrangler,202308,40879
+Wrangler,Jeep_Wrangler,202309,36631
+Wrangler,Jeep_Wrangler,202310,35175
+Wrangler,Jeep_Wrangler,202311,33506
+Wrangler,Jeep_Wrangler,202312,35141
+Wrangler,Jeep_Wrangler,202401,39167
+Wrangler,Jeep_Wrangler,202402,34660
+Wrangler,Jeep_Wrangler,202403,35704
+Wrangler,Jeep_Wrangler,202404,33704
+Wrangler,Jeep_Wrangler,202405,31505
+Wrangler,Jeep_Wrangler,202406,30414
+Wrangler,Jeep_Wrangler,202407,31400
+Wrangler,Jeep_Wrangler,202408,32896
+Wrangler,Jeep_Wrangler,202409,31099
+Wrangler,Jeep_Wrangler,202410,29172
+Wrangler,Jeep_Wrangler,202411,28109
+Wrangler,Jeep_Wrangler,202412,29004
+Wrangler,Jeep_Wrangler,202501,30563
+Wrangler,Jeep_Wrangler,202502,27820
+Wrangler,Jeep_Wrangler,202503,31385
+Wrangler,Jeep_Wrangler,202504,30431
+Wrangler,Jeep_Wrangler,202505,32019
+Wrangler,Jeep_Wrangler,202506,29735
+Wrangler,Jeep_Wrangler,202507,31487
+Wrangler,Jeep_Wrangler,202508,31563
+Wrangler,Jeep_Wrangler,202509,26866
+Wrangler,Jeep_Wrangler,202510,26670
+Wrangler,Jeep_Wrangler,202511,24223
+Wrangler,Jeep_Wrangler,202512,24082
+Wrangler,Jeep_Wrangler,202601,25981
+Wrangler,Jeep_Wrangler,202602,22222
+Wrangler,Jeep_Wrangler,202603,22788
+Wrangler,Jeep_Wrangler,202604,22432
+Wrangler,Jeep_Wrangler,202605,23272
+Wrangler,Jeep_Wrangler,202606,22255
+Wrangler,Jeep_Wrangler,202607,22841
+Wrangler,Jeep_Wrangler,202608,22388
+Wrangler,Jeep_Wrangler,202609,19596
+Wrangler,Jeep_Wrangler,202610,18789
+Grand Cherokee,Jeep_Grand_Cherokee,201601,68330
+Grand Cherokee,Jeep_Grand_Cherokee,201602,63238
+Grand Cherokee,Jeep_Grand_Cherokee,201603,62340
+Grand Cherokee,Jeep_Grand_Cherokee,201604,55873
+Grand Cherokee,Jeep_Grand_Cherokee,201605,57806
+Grand Cherokee,Jeep_Grand_Cherokee,201606,80521
+Grand Cherokee,Jeep_Grand_Cherokee,201607,78265
+Grand Cherokee,Jeep_Grand_Cherokee,201608,65974
+Grand Cherokee,Jeep_Grand_Cherokee,201609,61940
+Grand Cherokee,Jeep_Grand_Cherokee,201610,63759
+Grand Cherokee,Jeep_Grand_Cherokee,201611,60671
+Grand Cherokee,Jeep_Grand_Cherokee,201612,64166
+Grand Cherokee,Jeep_Grand_Cherokee,201701,72798
+Grand Cherokee,Jeep_Grand_Cherokee,201702,61596
+Grand Cherokee,Jeep_Grand_Cherokee,201703,64981
+Grand Cherokee,Jeep_Grand_Cherokee,201704,60038
+Grand Cherokee,Jeep_Grand_Cherokee,201705,57404
+Grand Cherokee,Jeep_Grand_Cherokee,201706,54420
+Grand Cherokee,Jeep_Grand_Cherokee,201707,57454
+Grand Cherokee,Jeep_Grand_Cherokee,201708,57989
+Grand Cherokee,Jeep_Grand_Cherokee,201709,51306
+Grand Cherokee,Jeep_Grand_Cherokee,201710,54098
+Grand Cherokee,Jeep_Grand_Cherokee,201711,52098
+Grand Cherokee,Jeep_Grand_Cherokee,201712,54343
+Grand Cherokee,Jeep_Grand_Cherokee,201801,63828
+Grand Cherokee,Jeep_Grand_Cherokee,201802,58944
+Grand Cherokee,Jeep_Grand_Cherokee,201803,60391
+Grand Cherokee,Jeep_Grand_Cherokee,201804,55764
+Grand Cherokee,Jeep_Grand_Cherokee,201805,57380
+Grand Cherokee,Jeep_Grand_Cherokee,201806,54030
+Grand Cherokee,Jeep_Grand_Cherokee,201807,59287
+Grand Cherokee,Jeep_Grand_Cherokee,201808,58493
+Grand Cherokee,Jeep_Grand_Cherokee,201809,54143
+Grand Cherokee,Jeep_Grand_Cherokee,201810,56415
+Grand Cherokee,Jeep_Grand_Cherokee,201811,54070
+Grand Cherokee,Jeep_Grand_Cherokee,201812,54751
+Grand Cherokee,Jeep_Grand_Cherokee,201901,60353
+Grand Cherokee,Jeep_Grand_Cherokee,201902,56067
+Grand Cherokee,Jeep_Grand_Cherokee,201903,58013
+Grand Cherokee,Jeep_Grand_Cherokee,201904,53003
+Grand Cherokee,Jeep_Grand_Cherokee,201905,55266
+Grand Cherokee,Jeep_Grand_Cherokee,201906,54111
+Grand Cherokee,Jeep_Grand_Cherokee,201907,56386
+Grand Cherokee,Jeep_Grand_Cherokee,201908,59517
+Grand Cherokee,Jeep_Grand_Cherokee,201909,54369
+Grand Cherokee,Jeep_Grand_Cherokee,201910,55949
+Grand Cherokee,Jeep_Grand_Cherokee,201911,53561
+Grand Cherokee,Jeep_Grand_Cherokee,201912,51403
+Grand Cherokee,Jeep_Grand_Cherokee,202001,56165
+Grand Cherokee,Jeep_Grand_Cherokee,202002,46429
+Grand Cherokee,Jeep_Grand_Cherokee,202003,42322
+Grand Cherokee,Jeep_Grand_Cherokee,202004,40743
+Grand Cherokee,Jeep_Grand_Cherokee,202005,45500
+Grand Cherokee,Jeep_Grand_Cherokee,202006,47347
+Grand Cherokee,Jeep_Grand_Cherokee,202007,59147
+Grand Cherokee,Jeep_Grand_Cherokee,202008,57234
+Grand Cherokee,Jeep_Grand_Cherokee,202009,52739
+Grand Cherokee,Jeep_Grand_Cherokee,202010,49335
+Grand Cherokee,Jeep_Grand_Cherokee,202011,41348
+Grand Cherokee,Jeep_Grand_Cherokee,202012,42748
+Grand Cherokee,Jeep_Grand_Cherokee,202101,55501
+Grand Cherokee,Jeep_Grand_Cherokee,202102,48499
+Grand Cherokee,Jeep_Grand_Cherokee,202103,54228
+Grand Cherokee,Jeep_Grand_Cherokee,202104,44723
+Grand Cherokee,Jeep_Grand_Cherokee,202105,44433
+Grand Cherokee,Jeep_Grand_Cherokee,202106,41142
+Grand Cherokee,Jeep_Grand_Cherokee,202107,46276
+Grand Cherokee,Jeep_Grand_Cherokee,202108,44904
+Grand Cherokee,Jeep_Grand_Cherokee,202109,42488
+Grand Cherokee,Jeep_Grand_Cherokee,202110,42476
+Grand Cherokee,Jeep_Grand_Cherokee,202111,37030
+Grand Cherokee,Jeep_Grand_Cherokee,202112,39582
+Grand Cherokee,Jeep_Grand_Cherokee,202201,44518
+Grand Cherokee,Jeep_Grand_Cherokee,202202,40349
+Grand Cherokee,Jeep_Grand_Cherokee,202203,38500
+Grand Cherokee,Jeep_Grand_Cherokee,202204,37890
+Grand Cherokee,Jeep_Grand_Cherokee,202205,36170
+Grand Cherokee,Jeep_Grand_Cherokee,202206,34380
+Grand Cherokee,Jeep_Grand_Cherokee,202207,37819
+Grand Cherokee,Jeep_Grand_Cherokee,202208,40456
+Grand Cherokee,Jeep_Grand_Cherokee,202209,38248
+Grand Cherokee,Jeep_Grand_Cherokee,202210,36667
+Grand Cherokee,Jeep_Grand_Cherokee,202211,35015
+Grand Cherokee,Jeep_Grand_Cherokee,202212,35261
+Grand Cherokee,Jeep_Grand_Cherokee,202301,40593
+Grand Cherokee,Jeep_Grand_Cherokee,202302,36277
+Grand Cherokee,Jeep_Grand_Cherokee,202303,47156
+Grand Cherokee,Jeep_Grand_Cherokee,202304,37403
+Grand Cherokee,Jeep_Grand_Cherokee,202305,37648
+Grand Cherokee,Jeep_Grand_Cherokee,202306,36563
+Grand Cherokee,Jeep_Grand_Cherokee,202307,36563
+Grand Cherokee,Jeep_Grand_Cherokee,202308,36327
+Grand Cherokee,Jeep_Grand_Cherokee,202309,34267
+Grand Cherokee,Jeep_Grand_Cherokee,202310,34161
+Grand Cherokee,Jeep_Grand_Cherokee,202311,33609
+Grand Cherokee,Jeep_Grand_Cherokee,202312,37142
+Grand Cherokee,Jeep_Grand_Cherokee,202401,41107
+Grand Cherokee,Jeep_Grand_Cherokee,202402,37422
+Grand Cherokee,Jeep_Grand_Cherokee,202403,37964
+Grand Cherokee,Jeep_Grand_Cherokee,202404,37644
+Grand Cherokee,Jeep_Grand_Cherokee,202405,36980
+Grand Cherokee,Jeep_Grand_Cherokee,202406,34691
+Grand Cherokee,Jeep_Grand_Cherokee,202407,35291
+Grand Cherokee,Jeep_Grand_Cherokee,202408,37422
+Grand Cherokee,Jeep_Grand_Cherokee,202409,36703
+Grand Cherokee,Jeep_Grand_Cherokee,202410,36746
+Grand Cherokee,Jeep_Grand_Cherokee,202411,34900
+Grand Cherokee,Jeep_Grand_Cherokee,202412,37696
+Grand Cherokee,Jeep_Grand_Cherokee,202501,40430
+Grand Cherokee,Jeep_Grand_Cherokee,202502,35768
+Grand Cherokee,Jeep_Grand_Cherokee,202503,38180
+Grand Cherokee,Jeep_Grand_Cherokee,202504,37301
+Grand Cherokee,Jeep_Grand_Cherokee,202505,37459
+Grand Cherokee,Jeep_Grand_Cherokee,202506,32422
+Grand Cherokee,Jeep_Grand_Cherokee,202507,35824
+Grand Cherokee,Jeep_Grand_Cherokee,202508,36578
+Grand Cherokee,Jeep_Grand_Cherokee,202509,33245
+Grand Cherokee,Jeep_Grand_Cherokee,202510,34002
+Grand Cherokee,Jeep_Grand_Cherokee,202511,31036
+Grand Cherokee,Jeep_Grand_Cherokee,202512,30695
+Grand Cherokee,Jeep_Grand_Cherokee,202601,34044
+Grand Cherokee,Jeep_Grand_Cherokee,202602,29657
+Grand Cherokee,Jeep_Grand_Cherokee,202603,29106
+Grand Cherokee,Jeep_Grand_Cherokee,202604,27733
+Grand Cherokee,Jeep_Grand_Cherokee,202605,27043
+Grand Cherokee,Jeep_Grand_Cherokee,202606,24785
+Grand Cherokee,Jeep_Grand_Cherokee,202607,24841
+Grand Cherokee,Jeep_Grand_Cherokee,202608,25103
+Grand Cherokee,Jeep_Grand_Cherokee,202609,22364
+Grand Cherokee,Jeep_Grand_Cherokee,202610,21136
+Compass,Jeep_Compass,201601,17401
+Compass,Jeep_Compass,201602,16407
+Compass,Jeep_Compass,201603,16997
+Compass,Jeep_Compass,201604,17134
+Compass,Jeep_Compass,201605,18014
+Compass,Jeep_Compass,201606,16826
+Compass,Jeep_Compass,201607,16946
+Compass,Jeep_Compass,201608,16941
+Compass,Jeep_Compass,201609,18425
+Compass,Jeep_Compass,201610,19564
+Compass,Jeep_Compass,201611,21121
+Compass,Jeep_Compass,201612,21380
+Compass,Jeep_Compass,201701,26421
+Compass,Jeep_Compass,201702,23037
+Compass,Jeep_Compass,201703,26407
+Compass,Jeep_Compass,201704,24963
+Compass,Jeep_Compass,201705,26957
+Compass,Jeep_Compass,201706,32812
+Compass,Jeep_Compass,201707,35612
+Compass,Jeep_Compass,201708,62687
+Compass,Jeep_Compass,201709,45363
+Compass,Jeep_Compass,201710,40804
+Compass,Jeep_Compass,201711,42281
+Compass,Jeep_Compass,201712,36649
+Compass,Jeep_Compass,201801,41333
+Compass,Jeep_Compass,201802,38839
+Compass,Jeep_Compass,201803,39951
+Compass,Jeep_Compass,201804,36816
+Compass,Jeep_Compass,201805,36660
+Compass,Jeep_Compass,201806,35411
+Compass,Jeep_Compass,201807,38398
+Compass,Jeep_Compass,201808,37129
+Compass,Jeep_Compass,201809,32108
+Compass,Jeep_Compass,201810,31478
+Compass,Jeep_Compass,201811,29801
+Compass,Jeep_Compass,201812,27848
+Compass,Jeep_Compass,201901,32690
+Compass,Jeep_Compass,201902,31460
+Compass,Jeep_Compass,201903,31485
+Compass,Jeep_Compass,201904,28314
+Compass,Jeep_Compass,201905,30308
+Compass,Jeep_Compass,201906,29307
+Compass,Jeep_Compass,201907,31356
+Compass,Jeep_Compass,201908,30182
+Compass,Jeep_Compass,201909,27253
+Compass,Jeep_Compass,201910,27144
+Compass,Jeep_Compass,201911,26535
+Compass,Jeep_Compass,201912,25928
+Compass,Jeep_Compass,202001,28663
+Compass,Jeep_Compass,202002,21225
+Compass,Jeep_Compass,202003,17704
+Compass,Jeep_Compass,202004,16006
+Compass,Jeep_Compass,202005,17702
+Compass,Jeep_Compass,202006,22812
+Compass,Jeep_Compass,202007,29949
+Compass,Jeep_Compass,202008,30492
+Compass,Jeep_Compass,202009,27717
+Compass,Jeep_Compass,202010,27636
+Compass,Jeep_Compass,202011,27142
+Compass,Jeep_Compass,202012,27765
+Compass,Jeep_Compass,202101,31889
+Compass,Jeep_Compass,202102,29443
+Compass,Jeep_Compass,202103,33894
+Compass,Jeep_Compass,202104,28055
+Compass,Jeep_Compass,202105,26528
+Compass,Jeep_Compass,202106,26777
+Compass,Jeep_Compass,202107,31300
+Compass,Jeep_Compass,202108,28754
+Compass,Jeep_Compass,202109,26398
+Compass,Jeep_Compass,202110,25923
+Compass,Jeep_Compass,202111,22955
+Compass,Jeep_Compass,202112,23248
+Compass,Jeep_Compass,202201,24233
+Compass,Jeep_Compass,202202,23348
+Compass,Jeep_Compass,202203,22707
+Compass,Jeep_Compass,202204,21299
+Compass,Jeep_Compass,202205,19998
+Compass,Jeep_Compass,202206,18870
+Compass,Jeep_Compass,202207,20451
+Compass,Jeep_Compass,202208,22150
+Compass,Jeep_Compass,202209,21322
+Compass,Jeep_Compass,202210,23473
+Compass,Jeep_Compass,202211,21300
+Compass,Jeep_Compass,202212,16248
+Compass,Jeep_Compass,202301,17943
+Compass,Jeep_Compass,202302,15784
+Compass,Jeep_Compass,202303,18910
+Compass,Jeep_Compass,202304,17199
+Compass,Jeep_Compass,202305,16837
+Compass,Jeep_Compass,202306,19348
+Compass,Jeep_Compass,202307,18342
+Compass,Jeep_Compass,202308,18096
+Compass,Jeep_Compass,202309,17511
+Compass,Jeep_Compass,202310,17186
+Compass,Jeep_Compass,202311,16545
+Compass,Jeep_Compass,202312,18215
+Compass,Jeep_Compass,202401,20470
+Compass,Jeep_Compass,202402,18049
+Compass,Jeep_Compass,202403,17885
+Compass,Jeep_Compass,202404,17386
+Compass,Jeep_Compass,202405,17210
+Compass,Jeep_Compass,202406,16394
+Compass,Jeep_Compass,202407,17860
+Compass,Jeep_Compass,202408,18408
+Compass,Jeep_Compass,202409,17373
+Compass,Jeep_Compass,202410,17775
+Compass,Jeep_Compass,202411,16656
+Compass,Jeep_Compass,202412,17123
+Compass,Jeep_Compass,202501,18410
+Compass,Jeep_Compass,202502,17012
+Compass,Jeep_Compass,202503,22986
+Compass,Jeep_Compass,202504,17846
+Compass,Jeep_Compass,202505,21336
+Compass,Jeep_Compass,202506,17107
+Compass,Jeep_Compass,202507,18185
+Compass,Jeep_Compass,202508,19320
+Compass,Jeep_Compass,202509,16862
+Compass,Jeep_Compass,202510,19320
+Compass,Jeep_Compass,202511,17283
+Compass,Jeep_Compass,202512,15793
+Compass,Jeep_Compass,202601,16659
+Compass,Jeep_Compass,202602,15689
+Compass,Jeep_Compass,202603,15637
+Compass,Jeep_Compass,202604,15427
+Compass,Jeep_Compass,202605,16299
+Compass,Jeep_Compass,202606,16450
+Compass,Jeep_Compass,202607,16911
+Compass,Jeep_Compass,202608,15506
+Compass,Jeep_Compass,202609,14493
+Compass,Jeep_Compass,202610,14451
+Cherokee,Jeep_Cherokee,201601,24057
+Cherokee,Jeep_Cherokee,201602,22664
+Cherokee,Jeep_Cherokee,201603,21778
+Cherokee,Jeep_Cherokee,201604,18768
+Cherokee,Jeep_Cherokee,201605,20077
+Cherokee,Jeep_Cherokee,201606,18099
+Cherokee,Jeep_Cherokee,201607,19342
+Cherokee,Jeep_Cherokee,201608,20628
+Cherokee,Jeep_Cherokee,201609,19306
+Cherokee,Jeep_Cherokee,201610,22323
+Cherokee,Jeep_Cherokee,201611,23218
+Cherokee,Jeep_Cherokee,201612,25490
+Cherokee,Jeep_Cherokee,201701,28030
+Cherokee,Jeep_Cherokee,201702,23971
+Cherokee,Jeep_Cherokee,201703,25940
+Cherokee,Jeep_Cherokee,201704,22561
+Cherokee,Jeep_Cherokee,201705,21548
+Cherokee,Jeep_Cherokee,201706,20443
+Cherokee,Jeep_Cherokee,201707,20975
+Cherokee,Jeep_Cherokee,201708,21682
+Cherokee,Jeep_Cherokee,201709,21503
+Cherokee,Jeep_Cherokee,201710,22737
+Cherokee,Jeep_Cherokee,201711,23126
+Cherokee,Jeep_Cherokee,201712,22788
+Cherokee,Jeep_Cherokee,201801,25777
+Cherokee,Jeep_Cherokee,201802,24374
+Cherokee,Jeep_Cherokee,201803,26245
+Cherokee,Jeep_Cherokee,201804,24495
+Cherokee,Jeep_Cherokee,201805,24698
+Cherokee,Jeep_Cherokee,201806,21994
+Cherokee,Jeep_Cherokee,201807,24525
+Cherokee,Jeep_Cherokee,201808,23561
+Cherokee,Jeep_Cherokee,201809,22643
+Cherokee,Jeep_Cherokee,201810,22937
+Cherokee,Jeep_Cherokee,201811,21804
+Cherokee,Jeep_Cherokee,201812,21160
+Cherokee,Jeep_Cherokee,201901,24780
+Cherokee,Jeep_Cherokee,201902,23344
+Cherokee,Jeep_Cherokee,201903,22395
+Cherokee,Jeep_Cherokee,201904,20041
+Cherokee,Jeep_Cherokee,201905,19601
+Cherokee,Jeep_Cherokee,201906,18338
+Cherokee,Jeep_Cherokee,201907,19792
+Cherokee,Jeep_Cherokee,201908,21475
+Cherokee,Jeep_Cherokee,201909,19291
+Cherokee,Jeep_Cherokee,201910,20343
+Cherokee,Jeep_Cherokee,201911,18816
+Cherokee,Jeep_Cherokee,201912,18077
+Cherokee,Jeep_Cherokee,202001,19839
+Cherokee,Jeep_Cherokee,202002,17910
+Cherokee,Jeep_Cherokee,202003,16269
+Cherokee,Jeep_Cherokee,202004,16319
+Cherokee,Jeep_Cherokee,202005,17832
+Cherokee,Jeep_Cherokee,202006,18170
+Cherokee,Jeep_Cherokee,202007,20405
+Cherokee,Jeep_Cherokee,202008,20883
+Cherokee,Jeep_Cherokee,202009,19921
+Cherokee,Jeep_Cherokee,202010,19693
+Cherokee,Jeep_Cherokee,202011,18704
+Cherokee,Jeep_Cherokee,202012,19665
+Cherokee,Jeep_Cherokee,202101,22278
+Cherokee,Jeep_Cherokee,202102,28173
+Cherokee,Jeep_Cherokee,202103,27998
+Cherokee,Jeep_Cherokee,202104,20671
+Cherokee,Jeep_Cherokee,202105,20439
+Cherokee,Jeep_Cherokee,202106,18386
+Cherokee,Jeep_Cherokee,202107,19947
+Cherokee,Jeep_Cherokee,202108,18741
+Cherokee,Jeep_Cherokee,202109,18431
+Cherokee,Jeep_Cherokee,202110,19339
+Cherokee,Jeep_Cherokee,202111,17401
+Cherokee,Jeep_Cherokee,202112,16826
+Cherokee,Jeep_Cherokee,202201,19109
+Cherokee,Jeep_Cherokee,202202,17142
+Cherokee,Jeep_Cherokee,202203,15966
+Cherokee,Jeep_Cherokee,202204,15846
+Cherokee,Jeep_Cherokee,202205,15800
+Cherokee,Jeep_Cherokee,202206,16148
+Cherokee,Jeep_Cherokee,202207,16816
+Cherokee,Jeep_Cherokee,202208,18094
+Cherokee,Jeep_Cherokee,202209,17151
+Cherokee,Jeep_Cherokee,202210,17911
+Cherokee,Jeep_Cherokee,202211,17613
+Cherokee,Jeep_Cherokee,202212,17734
+Cherokee,Jeep_Cherokee,202301,19119
+Cherokee,Jeep_Cherokee,202302,16607
+Cherokee,Jeep_Cherokee,202303,21814
+Cherokee,Jeep_Cherokee,202304,18244
+Cherokee,Jeep_Cherokee,202305,16636
+Cherokee,Jeep_Cherokee,202306,15344
+Cherokee,Jeep_Cherokee,202307,16712
+Cherokee,Jeep_Cherokee,202308,16885
+Cherokee,Jeep_Cherokee,202309,15592
+Cherokee,Jeep_Cherokee,202310,15931
+Cherokee,Jeep_Cherokee,202311,15311
+Cherokee,Jeep_Cherokee,202312,16970
+Cherokee,Jeep_Cherokee,202401,18291
+Cherokee,Jeep_Cherokee,202402,16137
+Cherokee,Jeep_Cherokee,202403,16315
+Cherokee,Jeep_Cherokee,202404,16710
+Cherokee,Jeep_Cherokee,202405,16480
+Cherokee,Jeep_Cherokee,202406,15451
+Cherokee,Jeep_Cherokee,202407,15586
+Cherokee,Jeep_Cherokee,202408,17396
+Cherokee,Jeep_Cherokee,202409,16841
+Cherokee,Jeep_Cherokee,202410,17972
+Cherokee,Jeep_Cherokee,202411,15906
+Cherokee,Jeep_Cherokee,202412,16413
+Cherokee,Jeep_Cherokee,202501,17657
+Cherokee,Jeep_Cherokee,202502,15429
+Cherokee,Jeep_Cherokee,202503,17023
+Cherokee,Jeep_Cherokee,202504,18426
+Cherokee,Jeep_Cherokee,202505,18680
+Cherokee,Jeep_Cherokee,202506,17589
+Cherokee,Jeep_Cherokee,202507,18391
+Cherokee,Jeep_Cherokee,202508,23851
+Cherokee,Jeep_Cherokee,202509,17940
+Cherokee,Jeep_Cherokee,202510,15960
+Cherokee,Jeep_Cherokee,202511,16656
+Cherokee,Jeep_Cherokee,202512,15532
+Cherokee,Jeep_Cherokee,202601,16232
+Cherokee,Jeep_Cherokee,202602,15101
+Cherokee,Jeep_Cherokee,202603,15082
+Cherokee,Jeep_Cherokee,202604,13350
+Cherokee,Jeep_Cherokee,202605,14139
+Cherokee,Jeep_Cherokee,202606,13217
+Cherokee,Jeep_Cherokee,202607,13735
+Cherokee,Jeep_Cherokee,202608,14327
+Cherokee,Jeep_Cherokee,202609,13240
+Cherokee,Jeep_Cherokee,202610,12459
+Gladiator,Jeep_Gladiator_(JT),201811,879
+Gladiator,Jeep_Gladiator_(JT),201812,19233
+Gladiator,Jeep_Gladiator_(JT),201901,12991
+Gladiator,Jeep_Gladiator_(JT),201902,11601
+Gladiator,Jeep_Gladiator_(JT),201903,14141
+Gladiator,Jeep_Gladiator_(JT),201904,18109
+Gladiator,Jeep_Gladiator_(JT),201905,17946
+Gladiator,Jeep_Gladiator_(JT),201906,17486
+Gladiator,Jeep_Gladiator_(JT),201907,17787
+Gladiator,Jeep_Gladiator_(JT),201908,17883
+Gladiator,Jeep_Gladiator_(JT),201909,19547
+Gladiator,Jeep_Gladiator_(JT),201910,18771
+Gladiator,Jeep_Gladiator_(JT),201911,17166
+Gladiator,Jeep_Gladiator_(JT),201912,16256
+Gladiator,Jeep_Gladiator_(JT),202001,14441
+Gladiator,Jeep_Gladiator_(JT),202002,13877
+Gladiator,Jeep_Gladiator_(JT),202003,9931
+Gladiator,Jeep_Gladiator_(JT),202004,9567
+Gladiator,Jeep_Gladiator_(JT),202005,11121
+Gladiator,Jeep_Gladiator_(JT),202006,11293
+Gladiator,Jeep_Gladiator_(JT),202007,14020
+Gladiator,Jeep_Gladiator_(JT),202008,13898
+Gladiator,Jeep_Gladiator_(JT),202009,13681
+Gladiator,Jeep_Gladiator_(JT),202010,13025
+Gladiator,Jeep_Gladiator_(JT),202011,12607
+Gladiator,Jeep_Gladiator_(JT),202012,11126
+Gladiator,Jeep_Gladiator_(JT),202101,12212
+Gladiator,Jeep_Gladiator_(JT),202102,11957
+Gladiator,Jeep_Gladiator_(JT),202103,14405
+Gladiator,Jeep_Gladiator_(JT),202104,13343
+Gladiator,Jeep_Gladiator_(JT),202105,13955
+Gladiator,Jeep_Gladiator_(JT),202106,12655
+Gladiator,Jeep_Gladiator_(JT),202107,14078
+Gladiator,Jeep_Gladiator_(JT),202108,19927
+Gladiator,Jeep_Gladiator_(JT),202109,17106
+Gladiator,Jeep_Gladiator_(JT),202110,15439
+Gladiator,Jeep_Gladiator_(JT),202111,13079
+Gladiator,Jeep_Gladiator_(JT),202112,12676
+Gladiator,Jeep_Gladiator_(JT),202201,13645
+Gladiator,Jeep_Gladiator_(JT),202202,13119
+Gladiator,Jeep_Gladiator_(JT),202203,14097
+Gladiator,Jeep_Gladiator_(JT),202204,14057
+Gladiator,Jeep_Gladiator_(JT),202205,14502
+Gladiator,Jeep_Gladiator_(JT),202206,13568
+Gladiator,Jeep_Gladiator_(JT),202207,14906
+Gladiator,Jeep_Gladiator_(JT),202208,15477
+Gladiator,Jeep_Gladiator_(JT),202209,14055
+Gladiator,Jeep_Gladiator_(JT),202210,13000
+Gladiator,Jeep_Gladiator_(JT),202211,12101
+Gladiator,Jeep_Gladiator_(JT),202212,12221
+Gladiator,Jeep_Gladiator_(JT),202301,11735
+Gladiator,Jeep_Gladiator_(JT),202302,11129
+Gladiator,Jeep_Gladiator_(JT),202303,13224
+Gladiator,Jeep_Gladiator_(JT),202304,13229
+Gladiator,Jeep_Gladiator_(JT),202305,13726
+Gladiator,Jeep_Gladiator_(JT),202306,17822
+Gladiator,Jeep_Gladiator_(JT),202307,14307
+Gladiator,Jeep_Gladiator_(JT),202308,13744
+Gladiator,Jeep_Gladiator_(JT),202309,14331
+Gladiator,Jeep_Gladiator_(JT),202310,12269
+Gladiator,Jeep_Gladiator_(JT),202311,10915
+Gladiator,Jeep_Gladiator_(JT),202312,11346
+Gladiator,Jeep_Gladiator_(JT),202401,11626
+Gladiator,Jeep_Gladiator_(JT),202402,10946
+Gladiator,Jeep_Gladiator_(JT),202403,11201
+Gladiator,Jeep_Gladiator_(JT),202404,11306
+Gladiator,Jeep_Gladiator_(JT),202405,11537
+Gladiator,Jeep_Gladiator_(JT),202406,10322
+Gladiator,Jeep_Gladiator_(JT),202407,10216
+Gladiator,Jeep_Gladiator_(JT),202408,10674
+Gladiator,Jeep_Gladiator_(JT),202409,10274
+Gladiator,Jeep_Gladiator_(JT),202410,9826
+Gladiator,Jeep_Gladiator_(JT),202411,9725
+Gladiator,Jeep_Gladiator_(JT),202412,9566
+Gladiator,Jeep_Gladiator_(JT),202501,10276
+Gladiator,Jeep_Gladiator_(JT),202502,9489
+Gladiator,Jeep_Gladiator_(JT),202503,11546
+Gladiator,Jeep_Gladiator_(JT),202504,11418
+Gladiator,Jeep_Gladiator_(JT),202505,11378
+Gladiator,Jeep_Gladiator_(JT),202506,10388
+Gladiator,Jeep_Gladiator_(JT),202507,11738
+Gladiator,Jeep_Gladiator_(JT),202508,11764
+Gladiator,Jeep_Gladiator_(JT),202509,9817
+Gladiator,Jeep_Gladiator_(JT),202510,10241
+Gladiator,Jeep_Gladiator_(JT),202511,8911
+Gladiator,Jeep_Gladiator_(JT),202512,8626
+Gladiator,Jeep_Gladiator_(JT),202601,9249
+Gladiator,Jeep_Gladiator_(JT),202602,8233
+Gladiator,Jeep_Gladiator_(JT),202603,8494
+Gladiator,Jeep_Gladiator_(JT),202604,7969
+Gladiator,Jeep_Gladiator_(JT),202605,9627
+Gladiator,Jeep_Gladiator_(JT),202606,9272
+Gladiator,Jeep_Gladiator_(JT),202607,8430
+Gladiator,Jeep_Gladiator_(JT),202608,8115
+Gladiator,Jeep_Gladiator_(JT),202609,7100
+Gladiator,Jeep_Gladiator_(JT),202610,6841
+Wagoneer family,Jeep_Wagoneer_(WS),202103,7116
+Wagoneer family,Jeep_Wagoneer_(WS),202104,3445
+Wagoneer family,Jeep_Wagoneer_(WS),202105,3401
+Wagoneer family,Jeep_Wagoneer_(WS),202106,3393
+Wagoneer family,Jeep_Wagoneer_(WS),202107,3730
+Wagoneer family,Jeep_Wagoneer_(WS),202108,6675
+Wagoneer family,Jeep_Wagoneer_(WS),202109,6001
+Wagoneer family,Jeep_Wagoneer_(WS),202110,8932
+Wagoneer family,Jeep_Wagoneer_(WS),202111,8590
+Wagoneer family,Jeep_Wagoneer_(WS),202112,9394
+Wagoneer family,Jeep_Wagoneer_(WS),202201,9140
+Wagoneer family,Jeep_Wagoneer_(WS),202202,7385
+Wagoneer family,Jeep_Wagoneer_(WS),202203,8329
+Wagoneer family,Jeep_Wagoneer_(WS),202204,10168
+Wagoneer family,Jeep_Wagoneer_(WS),202205,11002
+Wagoneer family,Jeep_Wagoneer_(WS),202206,10141
+Wagoneer family,Jeep_Wagoneer_(WS),202207,10079
+Wagoneer family,Jeep_Wagoneer_(WS),202208,10596
+Wagoneer family,Jeep_Wagoneer_(WS),202209,9669
+Wagoneer family,Jeep_Wagoneer_(WS),202210,9504
+Wagoneer family,Jeep_Wagoneer_(WS),202211,8329
+Wagoneer family,Jeep_Wagoneer_(WS),202212,8019
+Wagoneer family,Jeep_Wagoneer_(WS),202301,7690
+Wagoneer family,Jeep_Wagoneer_(WS),202302,6916
+Wagoneer family,Jeep_Wagoneer_(WS),202303,7720
+Wagoneer family,Jeep_Wagoneer_(WS),202304,7279
+Wagoneer family,Jeep_Wagoneer_(WS),202305,7561
+Wagoneer family,Jeep_Wagoneer_(WS),202306,7432
+Wagoneer family,Jeep_Wagoneer_(WS),202307,7351
+Wagoneer family,Jeep_Wagoneer_(WS),202308,7411
+Wagoneer family,Jeep_Wagoneer_(WS),202309,7325
+Wagoneer family,Jeep_Wagoneer_(WS),202310,7226
+Wagoneer family,Jeep_Wagoneer_(WS),202311,6850
+Wagoneer family,Jeep_Wagoneer_(WS),202312,7878
+Wagoneer family,Jeep_Wagoneer_(WS),202401,8346
+Wagoneer family,Jeep_Wagoneer_(WS),202402,8026
+Wagoneer family,Jeep_Wagoneer_(WS),202403,8777
+Wagoneer family,Jeep_Wagoneer_(WS),202404,7844
+Wagoneer family,Jeep_Wagoneer_(WS),202405,8616
+Wagoneer family,Jeep_Wagoneer_(WS),202406,8447
+Wagoneer family,Jeep_Wagoneer_(WS),202407,8353
+Wagoneer family,Jeep_Wagoneer_(WS),202408,8565
+Wagoneer family,Jeep_Wagoneer_(WS),202409,7628
+Wagoneer family,Jeep_Wagoneer_(WS),202410,8060
+Wagoneer family,Jeep_Wagoneer_(WS),202411,7387
+Wagoneer family,Jeep_Wagoneer_(WS),202412,7914
+Wagoneer family,Jeep_Wagoneer_(WS),202501,7861
+Wagoneer family,Jeep_Wagoneer_(WS),202502,6606
+Wagoneer family,Jeep_Wagoneer_(WS),202503,8123
+Wagoneer family,Jeep_Wagoneer_(WS),202504,8209
+Wagoneer family,Jeep_Wagoneer_(WS),202505,7688
+Wagoneer family,Jeep_Wagoneer_(WS),202506,6625
+Wagoneer family,Jeep_Wagoneer_(WS),202507,7539
+Wagoneer family,Jeep_Wagoneer_(WS),202508,7878
+Wagoneer family,Jeep_Wagoneer_(WS),202509,6696
+Wagoneer family,Jeep_Wagoneer_(WS),202510,8258
+Wagoneer family,Jeep_Wagoneer_(WS),202511,6646
+Wagoneer family,Jeep_Wagoneer_(WS),202512,6618
+Wagoneer family,Jeep_Wagoneer_(WS),202601,6878
+Wagoneer family,Jeep_Wagoneer_(WS),202602,6128
+Wagoneer family,Jeep_Wagoneer_(WS),202603,6424
+Wagoneer family,Jeep_Wagoneer_(WS),202604,6207
+Wagoneer family,Jeep_Wagoneer_(WS),202605,6677
+Wagoneer family,Jeep_Wagoneer_(WS),202606,4394
+Wagoneer family,Jeep_Wagoneer_(WS),202607,2502
+Wagoneer family,Jeep_Wagoneer_(WS),202608,2654
+Wagoneer family,Jeep_Wagoneer_(WS),202609,2307
+Wagoneer family,Jeep_Wagoneer_(WS),202610,2092
+Durango,Dodge_Durango,201601,30850
+Durango,Dodge_Durango,201602,29336
+Durango,Dodge_Durango,201603,27638
+Durango,Dodge_Durango,201604,25814
+Durango,Dodge_Durango,201605,27579
+Durango,Dodge_Durango,201606,27339
+Durango,Dodge_Durango,201607,28059
+Durango,Dodge_Durango,201608,28441
+Durango,Dodge_Durango,201609,27622
+Durango,Dodge_Durango,201610,31413
+Durango,Dodge_Durango,201611,29055
+Durango,Dodge_Durango,201612,30859
+Durango,Dodge_Durango,201701,31164
+Durango,Dodge_Durango,201702,31899
+Durango,Dodge_Durango,201703,30472
+Durango,Dodge_Durango,201704,27002
+Durango,Dodge_Durango,201705,27752
+Durango,Dodge_Durango,201706,26341
+Durango,Dodge_Durango,201707,28937
+Durango,Dodge_Durango,201708,29384
+Durango,Dodge_Durango,201709,26456
+Durango,Dodge_Durango,201710,27135
+Durango,Dodge_Durango,201711,26299
+Durango,Dodge_Durango,201712,25858
+Durango,Dodge_Durango,201801,29690
+Durango,Dodge_Durango,201802,28646
+Durango,Dodge_Durango,201803,31416
+Durango,Dodge_Durango,201804,28146
+Durango,Dodge_Durango,201805,30275
+Durango,Dodge_Durango,201806,27600
+Durango,Dodge_Durango,201807,29396
+Durango,Dodge_Durango,201808,29044
+Durango,Dodge_Durango,201809,26584
+Durango,Dodge_Durango,201810,27226
+Durango,Dodge_Durango,201811,26243
+Durango,Dodge_Durango,201812,26891
+Durango,Dodge_Durango,201901,30070
+Durango,Dodge_Durango,201902,27925
+Durango,Dodge_Durango,201903,28856
+Durango,Dodge_Durango,201904,25400
+Durango,Dodge_Durango,201905,26830
+Durango,Dodge_Durango,201906,26740
+Durango,Dodge_Durango,201907,28355
+Durango,Dodge_Durango,201908,28091
+Durango,Dodge_Durango,201909,25520
+Durango,Dodge_Durango,201910,26238
+Durango,Dodge_Durango,201911,27263
+Durango,Dodge_Durango,201912,25451
+Durango,Dodge_Durango,202001,28420
+Durango,Dodge_Durango,202002,24837
+Durango,Dodge_Durango,202003,23467
+Durango,Dodge_Durango,202004,18732
+Durango,Dodge_Durango,202005,21870
+Durango,Dodge_Durango,202006,24287
+Durango,Dodge_Durango,202007,34513
+Durango,Dodge_Durango,202008,26901
+Durango,Dodge_Durango,202009,23748
+Durango,Dodge_Durango,202010,24875
+Durango,Dodge_Durango,202011,22560
+Durango,Dodge_Durango,202012,24339
+Durango,Dodge_Durango,202101,25755
+Durango,Dodge_Durango,202102,23066
+Durango,Dodge_Durango,202103,25348
+Durango,Dodge_Durango,202104,23287
+Durango,Dodge_Durango,202105,27359
+Durango,Dodge_Durango,202106,21094
+Durango,Dodge_Durango,202107,22101
+Durango,Dodge_Durango,202108,21260
+Durango,Dodge_Durango,202109,19642
+Durango,Dodge_Durango,202110,19191
+Durango,Dodge_Durango,202111,17602
+Durango,Dodge_Durango,202112,17449
+Durango,Dodge_Durango,202201,19933
+Durango,Dodge_Durango,202202,18347
+Durango,Dodge_Durango,202203,18225
+Durango,Dodge_Durango,202204,17932
+Durango,Dodge_Durango,202205,16923
+Durango,Dodge_Durango,202206,15360
+Durango,Dodge_Durango,202207,17595
+Durango,Dodge_Durango,202208,22016
+Durango,Dodge_Durango,202209,18398
+Durango,Dodge_Durango,202210,19337
+Durango,Dodge_Durango,202211,17646
+Durango,Dodge_Durango,202212,17745
+Durango,Dodge_Durango,202301,20897
+Durango,Dodge_Durango,202302,18042
+Durango,Dodge_Durango,202303,21370
+Durango,Dodge_Durango,202304,19257
+Durango,Dodge_Durango,202305,19749
+Durango,Dodge_Durango,202306,19697
+Durango,Dodge_Durango,202307,20584
+Durango,Dodge_Durango,202308,21157
+Durango,Dodge_Durango,202309,20267
+Durango,Dodge_Durango,202310,21460
+Durango,Dodge_Durango,202311,19628
+Durango,Dodge_Durango,202312,26819
+Durango,Dodge_Durango,202401,26522
+Durango,Dodge_Durango,202402,21801
+Durango,Dodge_Durango,202403,22760
+Durango,Dodge_Durango,202404,21484
+Durango,Dodge_Durango,202405,20741
+Durango,Dodge_Durango,202406,20419
+Durango,Dodge_Durango,202407,21356
+Durango,Dodge_Durango,202408,21234
+Durango,Dodge_Durango,202409,20837
+Durango,Dodge_Durango,202410,20207
+Durango,Dodge_Durango,202411,19829
+Durango,Dodge_Durango,202412,21995
+Durango,Dodge_Durango,202501,21750
+Durango,Dodge_Durango,202502,20123
+Durango,Dodge_Durango,202503,27975
+Durango,Dodge_Durango,202504,21393
+Durango,Dodge_Durango,202505,21669
+Durango,Dodge_Durango,202506,19627
+Durango,Dodge_Durango,202507,21329
+Durango,Dodge_Durango,202508,24520
+Durango,Dodge_Durango,202509,20074
+Durango,Dodge_Durango,202510,20345
+Durango,Dodge_Durango,202511,19873
+Durango,Dodge_Durango,202512,18716
+Durango,Dodge_Durango,202601,20243
+Durango,Dodge_Durango,202602,17477
+Durango,Dodge_Durango,202603,17990
+Durango,Dodge_Durango,202604,18711
+Durango,Dodge_Durango,202605,18980
+Durango,Dodge_Durango,202606,16583
+Durango,Dodge_Durango,202607,17199
+Durango,Dodge_Durango,202608,17800
+Durango,Dodge_Durango,202609,16788
+Durango,Dodge_Durango,202610,13990
+Charger,Dodge_Charger,201601,48357
+Charger,Dodge_Charger,201602,48724
+Charger,Dodge_Charger,201603,49926
+Charger,Dodge_Charger,201604,49641
+Charger,Dodge_Charger,201605,50173
+Charger,Dodge_Charger,201606,44682
+Charger,Dodge_Charger,201607,48131
+Charger,Dodge_Charger,201608,48838
+Charger,Dodge_Charger,201609,47324
+Charger,Dodge_Charger,201610,45414
+Charger,Dodge_Charger,201611,41318
+Charger,Dodge_Charger,201612,43927
+Charger,Dodge_Charger,201701,48884
+Charger,Dodge_Charger,201702,45383
+Charger,Dodge_Charger,201703,48019
+Charger,Dodge_Charger,201704,52744
+Charger,Dodge_Charger,201705,49015
+Charger,Dodge_Charger,201706,47026
+Charger,Dodge_Charger,201707,48901
+Charger,Dodge_Charger,201708,51307
+Charger,Dodge_Charger,201709,44709
+Charger,Dodge_Charger,201710,53164
+Charger,Dodge_Charger,201711,42801
+Charger,Dodge_Charger,201712,41816
+Charger,Dodge_Charger,201801,46745
+Charger,Dodge_Charger,201802,41952
+Charger,Dodge_Charger,201803,47551
+Charger,Dodge_Charger,201804,44648
+Charger,Dodge_Charger,201805,47038
+Charger,Dodge_Charger,201806,44553
+Charger,Dodge_Charger,201807,48510
+Charger,Dodge_Charger,201808,44437
+Charger,Dodge_Charger,201809,40111
+Charger,Dodge_Charger,201810,40803
+Charger,Dodge_Charger,201811,38148
+Charger,Dodge_Charger,201812,38673
+Charger,Dodge_Charger,201901,41073
+Charger,Dodge_Charger,201902,37270
+Charger,Dodge_Charger,201903,40690
+Charger,Dodge_Charger,201904,38498
+Charger,Dodge_Charger,201905,40850
+Charger,Dodge_Charger,201906,40072
+Charger,Dodge_Charger,201907,42545
+Charger,Dodge_Charger,201908,43791
+Charger,Dodge_Charger,201909,38117
+Charger,Dodge_Charger,201910,36927
+Charger,Dodge_Charger,201911,35019
+Charger,Dodge_Charger,201912,35366
+Charger,Dodge_Charger,202001,37168
+Charger,Dodge_Charger,202002,33540
+Charger,Dodge_Charger,202003,34189
+Charger,Dodge_Charger,202004,39208
+Charger,Dodge_Charger,202005,41010
+Charger,Dodge_Charger,202006,36555
+Charger,Dodge_Charger,202007,38017
+Charger,Dodge_Charger,202008,36515
+Charger,Dodge_Charger,202009,32691
+Charger,Dodge_Charger,202010,37193
+Charger,Dodge_Charger,202011,31282
+Charger,Dodge_Charger,202012,31905
+Charger,Dodge_Charger,202101,36253
+Charger,Dodge_Charger,202102,35521
+Charger,Dodge_Charger,202103,42905
+Charger,Dodge_Charger,202104,36750
+Charger,Dodge_Charger,202105,36493
+Charger,Dodge_Charger,202106,38338
+Charger,Dodge_Charger,202107,38251
+Charger,Dodge_Charger,202108,38022
+Charger,Dodge_Charger,202109,32695
+Charger,Dodge_Charger,202110,31170
+Charger,Dodge_Charger,202111,29254
+Charger,Dodge_Charger,202112,29894
+Charger,Dodge_Charger,202201,31725
+Charger,Dodge_Charger,202202,29267
+Charger,Dodge_Charger,202203,30323
+Charger,Dodge_Charger,202204,31068
+Charger,Dodge_Charger,202205,31885
+Charger,Dodge_Charger,202206,29806
+Charger,Dodge_Charger,202207,34617
+Charger,Dodge_Charger,202208,44828
+Charger,Dodge_Charger,202209,33345
+Charger,Dodge_Charger,202210,32879
+Charger,Dodge_Charger,202211,31568
+Charger,Dodge_Charger,202212,31205
+Charger,Dodge_Charger,202301,39508
+Charger,Dodge_Charger,202302,35920
+Charger,Dodge_Charger,202303,43346
+Charger,Dodge_Charger,202304,41895
+Charger,Dodge_Charger,202305,53097
+Charger,Dodge_Charger,202306,48848
+Charger,Dodge_Charger,202307,46986
+Charger,Dodge_Charger,202308,48687
+Charger,Dodge_Charger,202309,48644
+Charger,Dodge_Charger,202310,49015
+Charger,Dodge_Charger,202311,42995
+Charger,Dodge_Charger,202312,52853
+Charger,Dodge_Charger,202401,59557
+Charger,Dodge_Charger,202402,53054
+Charger,Dodge_Charger,202403,59729
+Charger,Dodge_Charger,202404,53382
+Charger,Dodge_Charger,202405,48290
+Charger,Dodge_Charger,202406,42215
+Charger,Dodge_Charger,202407,44641
+Charger,Dodge_Charger,202408,46175
+Charger,Dodge_Charger,202409,42238
+Charger,Dodge_Charger,202410,43618
+Charger,Dodge_Charger,202411,39927
+Charger,Dodge_Charger,202412,42947
+Charger,Dodge_Charger,202501,42576
+Charger,Dodge_Charger,202502,38988
+Charger,Dodge_Charger,202503,65172
+Charger,Dodge_Charger,202504,44016
+Charger,Dodge_Charger,202505,43144
+Charger,Dodge_Charger,202506,38430
+Charger,Dodge_Charger,202507,39611
+Charger,Dodge_Charger,202508,43464
+Charger,Dodge_Charger,202509,37940
+Charger,Dodge_Charger,202510,37399
+Charger,Dodge_Charger,202511,36548
+Charger,Dodge_Charger,202512,31957
+Charger,Dodge_Charger,202601,34884
+Charger,Dodge_Charger,202602,30051
+Charger,Dodge_Charger,202603,32883
+Charger,Dodge_Charger,202604,31854
+Charger,Dodge_Charger,202605,32602
+Charger,Dodge_Charger,202606,31372
+Charger,Dodge_Charger,202607,32527
+Charger,Dodge_Charger,202608,34852
+Charger,Dodge_Charger,202609,29383
+Charger,Dodge_Charger,202610,27256
+Hornet,Dodge_Hornet,201601,1071
+Hornet,Dodge_Hornet,201602,956
+Hornet,Dodge_Hornet,201603,987
+Hornet,Dodge_Hornet,201604,932
+Hornet,Dodge_Hornet,201605,1023
+Hornet,Dodge_Hornet,201606,896
+Hornet,Dodge_Hornet,201607,941
+Hornet,Dodge_Hornet,201608,967
+Hornet,Dodge_Hornet,201609,822
+Hornet,Dodge_Hornet,201610,852
+Hornet,Dodge_Hornet,201611,776
+Hornet,Dodge_Hornet,201612,747
+Hornet,Dodge_Hornet,201701,1320
+Hornet,Dodge_Hornet,201702,855
+Hornet,Dodge_Hornet,201703,897
+Hornet,Dodge_Hornet,201704,819
+Hornet,Dodge_Hornet,201705,917
+Hornet,Dodge_Hornet,201706,1013
+Hornet,Dodge_Hornet,201707,1043
+Hornet,Dodge_Hornet,201708,927
+Hornet,Dodge_Hornet,201709,819
+Hornet,Dodge_Hornet,201710,768
+Hornet,Dodge_Hornet,201711,819
+Hornet,Dodge_Hornet,201712,805
+Hornet,Dodge_Hornet,201801,863
+Hornet,Dodge_Hornet,201802,867
+Hornet,Dodge_Hornet,201803,757
+Hornet,Dodge_Hornet,201804,760
+Hornet,Dodge_Hornet,201805,587
+Hornet,Dodge_Hornet,201806,636
+Hornet,Dodge_Hornet,201807,727
+Hornet,Dodge_Hornet,201808,699
+Hornet,Dodge_Hornet,201809,591
+Hornet,Dodge_Hornet,201810,569
+Hornet,Dodge_Hornet,201811,568
+Hornet,Dodge_Hornet,201812,572
+Hornet,Dodge_Hornet,201901,720
+Hornet,Dodge_Hornet,201902,567
+Hornet,Dodge_Hornet,201903,603
+Hornet,Dodge_Hornet,201904,613
+Hornet,Dodge_Hornet,201905,561
+Hornet,Dodge_Hornet,201906,564
+Hornet,Dodge_Hornet,201907,605
+Hornet,Dodge_Hornet,201908,566
+Hornet,Dodge_Hornet,201909,467
+Hornet,Dodge_Hornet,201910,537
+Hornet,Dodge_Hornet,201911,514
+Hornet,Dodge_Hornet,201912,540
+Hornet,Dodge_Hornet,202001,511
+Hornet,Dodge_Hornet,202002,508
+Hornet,Dodge_Hornet,202003,1250
+Hornet,Dodge_Hornet,202004,668
+Hornet,Dodge_Hornet,202005,610
+Hornet,Dodge_Hornet,202006,583
+Hornet,Dodge_Hornet,202007,646
+Hornet,Dodge_Hornet,202008,550
+Hornet,Dodge_Hornet,202009,524
+Hornet,Dodge_Hornet,202010,591
+Hornet,Dodge_Hornet,202011,445
+Hornet,Dodge_Hornet,202012,617
+Hornet,Dodge_Hornet,202101,726
+Hornet,Dodge_Hornet,202102,695
+Hornet,Dodge_Hornet,202103,760
+Hornet,Dodge_Hornet,202104,690
+Hornet,Dodge_Hornet,202105,724
+Hornet,Dodge_Hornet,202106,2874
+Hornet,Dodge_Hornet,202107,865
+Hornet,Dodge_Hornet,202108,1416
+Hornet,Dodge_Hornet,202109,1096
+Hornet,Dodge_Hornet,202110,733
+Hornet,Dodge_Hornet,202111,645
+Hornet,Dodge_Hornet,202112,585
+Hornet,Dodge_Hornet,202201,753
+Hornet,Dodge_Hornet,202202,2181
+Hornet,Dodge_Hornet,202203,1055
+Hornet,Dodge_Hornet,202204,2004
+Hornet,Dodge_Hornet,202205,1154
+Hornet,Dodge_Hornet,202206,491
+Hornet,Dodge_Hornet,202207,397
+Hornet,Dodge_Hornet,202208,9969
+Hornet,Dodge_Hornet,202209,2390
+Hornet,Dodge_Hornet,202210,1288
+Hornet,Dodge_Hornet,202211,814
+Hornet,Dodge_Hornet,202212,799
+Hornet,Dodge_Hornet,202301,1639
+Hornet,Dodge_Hornet,202302,1737
+Hornet,Dodge_Hornet,202303,12028
+Hornet,Dodge_Hornet,202304,8142
+Hornet,Dodge_Hornet,202305,5860
+Hornet,Dodge_Hornet,202306,6072
+Hornet,Dodge_Hornet,202307,3824
+Hornet,Dodge_Hornet,202308,3879
+Hornet,Dodge_Hornet,202309,2829
+Hornet,Dodge_Hornet,202310,2454
+Hornet,Dodge_Hornet,202311,2234
+Hornet,Dodge_Hornet,202312,2392
+Hornet,Dodge_Hornet,202401,3959
+Hornet,Dodge_Hornet,202402,2498
+Hornet,Dodge_Hornet,202403,2429
+Hornet,Dodge_Hornet,202404,2972
+Hornet,Dodge_Hornet,202405,3779
+Hornet,Dodge_Hornet,202406,2957
+Hornet,Dodge_Hornet,202407,2949
+Hornet,Dodge_Hornet,202408,3291
+Hornet,Dodge_Hornet,202409,3537
+Hornet,Dodge_Hornet,202410,2607
+Hornet,Dodge_Hornet,202411,2257
+Hornet,Dodge_Hornet,202412,1939
+Hornet,Dodge_Hornet,202501,1870
+Hornet,Dodge_Hornet,202502,1691
+Hornet,Dodge_Hornet,202503,2053
+Hornet,Dodge_Hornet,202504,2556
+Hornet,Dodge_Hornet,202505,6228
+Hornet,Dodge_Hornet,202506,7091
+Hornet,Dodge_Hornet,202507,8329
+Hornet,Dodge_Hornet,202508,8821
+Hornet,Dodge_Hornet,202509,6984
+Hornet,Dodge_Hornet,202510,7327
+Hornet,Dodge_Hornet,202511,6959
+Hornet,Dodge_Hornet,202512,7025
+Hornet,Dodge_Hornet,202601,11138
+Hornet,Dodge_Hornet,202602,6214
+Hornet,Dodge_Hornet,202603,6643
+Hornet,Dodge_Hornet,202604,6038
+Hornet,Dodge_Hornet,202605,6997
+Hornet,Dodge_Hornet,202606,6524
+Hornet,Dodge_Hornet,202607,7881
+Hornet,Dodge_Hornet,202608,6638
+Hornet,Dodge_Hornet,202609,5804
+Hornet,Dodge_Hornet,202610,4999
+Pacifica,Chrysler_Pacifica_(minivan),201601,3574
+Pacifica,Chrysler_Pacifica_(minivan),201602,4448
+Pacifica,Chrysler_Pacifica_(minivan),201603,2561
+Pacifica,Chrysler_Pacifica_(minivan),201604,2327
+Pacifica,Chrysler_Pacifica_(minivan),201605,1966
+Pacifica,Chrysler_Pacifica_(minivan),201606,1280
+Pacifica,Chrysler_Pacifica_(minivan),201607,1360
+Pacifica,Chrysler_Pacifica_(minivan),201608,1281
+Pacifica,Chrysler_Pacifica_(minivan),201609,1107
+Pacifica,Chrysler_Pacifica_(minivan),201610,1020
+Pacifica,Chrysler_Pacifica_(minivan),201611,1019
+Pacifica,Chrysler_Pacifica_(minivan),201612,1033
+Pacifica,Chrysler_Pacifica_(minivan),201701,1120
+Pacifica,Chrysler_Pacifica_(minivan),201702,873
+Pacifica,Chrysler_Pacifica_(minivan),201703,929
+Pacifica,Chrysler_Pacifica_(minivan),201704,792
+Pacifica,Chrysler_Pacifica_(minivan),201705,418
+Pacifica,Chrysler_Pacifica_(minivan),201706,455
+Pacifica,Chrysler_Pacifica_(minivan),201707,434
+Pacifica,Chrysler_Pacifica_(minivan),201708,497
+Pacifica,Chrysler_Pacifica_(minivan),201709,345
+Pacifica,Chrysler_Pacifica_(minivan),201710,378
+Pacifica,Chrysler_Pacifica_(minivan),201711,356
+Pacifica,Chrysler_Pacifica_(minivan),201712,370
+Pacifica,Chrysler_Pacifica_(minivan),201801,437
+Pacifica,Chrysler_Pacifica_(minivan),201802,256
+Pacifica,Chrysler_Pacifica_(minivan),201803,352
+Pacifica,Chrysler_Pacifica_(minivan),201804,301
+Pacifica,Chrysler_Pacifica_(minivan),201805,290
+Pacifica,Chrysler_Pacifica_(minivan),201806,284
+Pacifica,Chrysler_Pacifica_(minivan),201807,315
+Pacifica,Chrysler_Pacifica_(minivan),201808,316
+Pacifica,Chrysler_Pacifica_(minivan),201809,254
+Pacifica,Chrysler_Pacifica_(minivan),201810,226
+Pacifica,Chrysler_Pacifica_(minivan),201811,100
+Pacifica,Chrysler_Pacifica_(minivan),201812,89
+Pacifica,Chrysler_Pacifica_(minivan),201901,3637
+Pacifica,Chrysler_Pacifica_(minivan),201902,4533
+Pacifica,Chrysler_Pacifica_(minivan),201903,4970
+Pacifica,Chrysler_Pacifica_(minivan),201904,5130
+Pacifica,Chrysler_Pacifica_(minivan),201905,6064
+Pacifica,Chrysler_Pacifica_(minivan),201906,6601
+Pacifica,Chrysler_Pacifica_(minivan),201907,7909
+Pacifica,Chrysler_Pacifica_(minivan),201908,7434
+Pacifica,Chrysler_Pacifica_(minivan),201909,7133
+Pacifica,Chrysler_Pacifica_(minivan),201910,7015
+Pacifica,Chrysler_Pacifica_(minivan),201911,7081
+Pacifica,Chrysler_Pacifica_(minivan),201912,6874
+Pacifica,Chrysler_Pacifica_(minivan),202001,7836
+Pacifica,Chrysler_Pacifica_(minivan),202002,8655
+Pacifica,Chrysler_Pacifica_(minivan),202003,6628
+Pacifica,Chrysler_Pacifica_(minivan),202004,5389
+Pacifica,Chrysler_Pacifica_(minivan),202005,6439
+Pacifica,Chrysler_Pacifica_(minivan),202006,6170
+Pacifica,Chrysler_Pacifica_(minivan),202007,7574
+Pacifica,Chrysler_Pacifica_(minivan),202008,7340
+Pacifica,Chrysler_Pacifica_(minivan),202009,7110
+Pacifica,Chrysler_Pacifica_(minivan),202010,7066
+Pacifica,Chrysler_Pacifica_(minivan),202011,6962
+Pacifica,Chrysler_Pacifica_(minivan),202012,7044
+Pacifica,Chrysler_Pacifica_(minivan),202101,9200
+Pacifica,Chrysler_Pacifica_(minivan),202102,7955
+Pacifica,Chrysler_Pacifica_(minivan),202103,9294
+Pacifica,Chrysler_Pacifica_(minivan),202104,8312
+Pacifica,Chrysler_Pacifica_(minivan),202105,7444
+Pacifica,Chrysler_Pacifica_(minivan),202106,7228
+Pacifica,Chrysler_Pacifica_(minivan),202107,7340
+Pacifica,Chrysler_Pacifica_(minivan),202108,6723
+Pacifica,Chrysler_Pacifica_(minivan),202109,6281
+Pacifica,Chrysler_Pacifica_(minivan),202110,6208
+Pacifica,Chrysler_Pacifica_(minivan),202111,6164
+Pacifica,Chrysler_Pacifica_(minivan),202112,6533
+Pacifica,Chrysler_Pacifica_(minivan),202201,7124
+Pacifica,Chrysler_Pacifica_(minivan),202202,6872
+Pacifica,Chrysler_Pacifica_(minivan),202203,7954
+Pacifica,Chrysler_Pacifica_(minivan),202204,8032
+Pacifica,Chrysler_Pacifica_(minivan),202205,7350
+Pacifica,Chrysler_Pacifica_(minivan),202206,7104
+Pacifica,Chrysler_Pacifica_(minivan),202207,8339
+Pacifica,Chrysler_Pacifica_(minivan),202208,9519
+Pacifica,Chrysler_Pacifica_(minivan),202209,8588
+Pacifica,Chrysler_Pacifica_(minivan),202210,8356
+Pacifica,Chrysler_Pacifica_(minivan),202211,7579
+Pacifica,Chrysler_Pacifica_(minivan),202212,9588
+Pacifica,Chrysler_Pacifica_(minivan),202301,9755
+Pacifica,Chrysler_Pacifica_(minivan),202302,8635
+Pacifica,Chrysler_Pacifica_(minivan),202303,9890
+Pacifica,Chrysler_Pacifica_(minivan),202304,9655
+Pacifica,Chrysler_Pacifica_(minivan),202305,9562
+Pacifica,Chrysler_Pacifica_(minivan),202306,10018
+Pacifica,Chrysler_Pacifica_(minivan),202307,10438
+Pacifica,Chrysler_Pacifica_(minivan),202308,10075
+Pacifica,Chrysler_Pacifica_(minivan),202309,10039
+Pacifica,Chrysler_Pacifica_(minivan),202310,9902
+Pacifica,Chrysler_Pacifica_(minivan),202311,9304
+Pacifica,Chrysler_Pacifica_(minivan),202312,10452
+Pacifica,Chrysler_Pacifica_(minivan),202401,11875
+Pacifica,Chrysler_Pacifica_(minivan),202402,11237
+Pacifica,Chrysler_Pacifica_(minivan),202403,12236
+Pacifica,Chrysler_Pacifica_(minivan),202404,10966
+Pacifica,Chrysler_Pacifica_(minivan),202405,10889
+Pacifica,Chrysler_Pacifica_(minivan),202406,10264
+Pacifica,Chrysler_Pacifica_(minivan),202407,11513
+Pacifica,Chrysler_Pacifica_(minivan),202408,11927
+Pacifica,Chrysler_Pacifica_(minivan),202409,11111
+Pacifica,Chrysler_Pacifica_(minivan),202410,10218
+Pacifica,Chrysler_Pacifica_(minivan),202411,9667
+Pacifica,Chrysler_Pacifica_(minivan),202412,11251
+Pacifica,Chrysler_Pacifica_(minivan),202501,11487
+Pacifica,Chrysler_Pacifica_(minivan),202502,9752
+Pacifica,Chrysler_Pacifica_(minivan),202503,11433
+Pacifica,Chrysler_Pacifica_(minivan),202504,11429
+Pacifica,Chrysler_Pacifica_(minivan),202505,10621
+Pacifica,Chrysler_Pacifica_(minivan),202506,10262
+Pacifica,Chrysler_Pacifica_(minivan),202507,10912
+Pacifica,Chrysler_Pacifica_(minivan),202508,11563
+Pacifica,Chrysler_Pacifica_(minivan),202509,9853
+Pacifica,Chrysler_Pacifica_(minivan),202510,9908
+Pacifica,Chrysler_Pacifica_(minivan),202511,9433
+Pacifica,Chrysler_Pacifica_(minivan),202512,10553
+Pacifica,Chrysler_Pacifica_(minivan),202601,10648
+Pacifica,Chrysler_Pacifica_(minivan),202602,10952
+Pacifica,Chrysler_Pacifica_(minivan),202603,12432
+Pacifica,Chrysler_Pacifica_(minivan),202604,12190
+Pacifica,Chrysler_Pacifica_(minivan),202605,11645
+Pacifica,Chrysler_Pacifica_(minivan),202606,11685
+Pacifica,Chrysler_Pacifica_(minivan),202607,11156
+Pacifica,Chrysler_Pacifica_(minivan),202608,13125
+Pacifica,Chrysler_Pacifica_(minivan),202609,10682
+Pacifica,Chrysler_Pacifica_(minivan),202610,9653
+Wagoneer S,Jeep_Wagoneer_S,202406,2016
+Wagoneer S,Jeep_Wagoneer_S,202407,1906
+Wagoneer S,Jeep_Wagoneer_S,202408,2477
+Wagoneer S,Jeep_Wagoneer_S,202409,2310
+Wagoneer S,Jeep_Wagoneer_S,202410,2447
+Wagoneer S,Jeep_Wagoneer_S,202411,2454
+Wagoneer S,Jeep_Wagoneer_S,202412,3155
+Wagoneer S,Jeep_Wagoneer_S,202501,3981
+Wagoneer S,Jeep_Wagoneer_S,202502,3235
+Wagoneer S,Jeep_Wagoneer_S,202503,6196
+Wagoneer S,Jeep_Wagoneer_S,202504,3092
+Wagoneer S,Jeep_Wagoneer_S,202505,2923
+Wagoneer S,Jeep_Wagoneer_S,202506,2412
+Wagoneer S,Jeep_Wagoneer_S,202507,2986
+Wagoneer S,Jeep_Wagoneer_S,202508,3674
+Wagoneer S,Jeep_Wagoneer_S,202509,2595
+Wagoneer S,Jeep_Wagoneer_S,202510,3057
+Wagoneer S,Jeep_Wagoneer_S,202511,2945
+Wagoneer S,Jeep_Wagoneer_S,202512,2625
+Wagoneer S,Jeep_Wagoneer_S,202601,3001
+Wagoneer S,Jeep_Wagoneer_S,202602,2900
+Wagoneer S,Jeep_Wagoneer_S,202603,2720
+Wagoneer S,Jeep_Wagoneer_S,202604,2510
+Wagoneer S,Jeep_Wagoneer_S,202605,2818
+Wagoneer S,Jeep_Wagoneer_S,202606,2398
+Wagoneer S,Jeep_Wagoneer_S,202607,2227
+Wagoneer S,Jeep_Wagoneer_S,202608,2319
+Wagoneer S,Jeep_Wagoneer_S,202609,2322
+Wagoneer S,Jeep_Wagoneer_S,202610,2334
+ProMaster Van,Ram_ProMaster,201601,675
+ProMaster Van,Ram_ProMaster,201602,834
+ProMaster Van,Ram_ProMaster,201603,839
+ProMaster Van,Ram_ProMaster,201604,826
+ProMaster Van,Ram_ProMaster,201605,826
+ProMaster Van,Ram_ProMaster,201606,686
+ProMaster Van,Ram_ProMaster,201607,728
+ProMaster Van,Ram_ProMaster,201608,693
+ProMaster Van,Ram_ProMaster,201609,970
+ProMaster Van,Ram_ProMaster,201610,1455
+ProMaster Van,Ram_ProMaster,201611,1438
+ProMaster Van,Ram_ProMaster,201612,1480
+ProMaster Van,Ram_ProMaster,201701,1935
+ProMaster Van,Ram_ProMaster,201702,1662
+ProMaster Van,Ram_ProMaster,201703,1685
+ProMaster Van,Ram_ProMaster,201704,1495
+ProMaster Van,Ram_ProMaster,201705,1603
+ProMaster Van,Ram_ProMaster,201706,1292
+ProMaster Van,Ram_ProMaster,201707,1362
+ProMaster Van,Ram_ProMaster,201708,1639
+ProMaster Van,Ram_ProMaster,201709,1358
+ProMaster Van,Ram_ProMaster,201710,1480
+ProMaster Van,Ram_ProMaster,201711,1302
+ProMaster Van,Ram_ProMaster,201712,1365
+ProMaster Van,Ram_ProMaster,201801,1693
+ProMaster Van,Ram_ProMaster,201802,1582
+ProMaster Van,Ram_ProMaster,201803,1665
+ProMaster Van,Ram_ProMaster,201804,1589
+ProMaster Van,Ram_ProMaster,201805,1401
+ProMaster Van,Ram_ProMaster,201806,1405
+ProMaster Van,Ram_ProMaster,201807,1696
+ProMaster Van,Ram_ProMaster,201808,1420
+ProMaster Van,Ram_ProMaster,201809,1330
+ProMaster Van,Ram_ProMaster,201810,1573
+ProMaster Van,Ram_ProMaster,201811,1463
+ProMaster Van,Ram_ProMaster,201812,1124
+ProMaster Van,Ram_ProMaster,201901,1240
+ProMaster Van,Ram_ProMaster,201902,1861
+ProMaster Van,Ram_ProMaster,201903,29256
+ProMaster Van,Ram_ProMaster,201904,9694
+ProMaster Van,Ram_ProMaster,201905,7920
+ProMaster Van,Ram_ProMaster,201906,5451
+ProMaster Van,Ram_ProMaster,201907,4335
+ProMaster Van,Ram_ProMaster,201908,5138
+ProMaster Van,Ram_ProMaster,201909,4236
+ProMaster Van,Ram_ProMaster,201910,3068
+ProMaster Van,Ram_ProMaster,201911,5234
+ProMaster Van,Ram_ProMaster,201912,4802
+ProMaster Van,Ram_ProMaster,202001,4165
+ProMaster Van,Ram_ProMaster,202002,2754
+ProMaster Van,Ram_ProMaster,202003,3080
+ProMaster Van,Ram_ProMaster,202004,3723
+ProMaster Van,Ram_ProMaster,202005,3032
+ProMaster Van,Ram_ProMaster,202006,3393
+ProMaster Van,Ram_ProMaster,202007,3063
+ProMaster Van,Ram_ProMaster,202008,2682
+ProMaster Van,Ram_ProMaster,202009,2598
+ProMaster Van,Ram_ProMaster,202010,2267
+ProMaster Van,Ram_ProMaster,202011,3082
+ProMaster Van,Ram_ProMaster,202012,2719
+ProMaster Van,Ram_ProMaster,202101,2575
+ProMaster Van,Ram_ProMaster,202102,2026
+ProMaster Van,Ram_ProMaster,202103,2643
+ProMaster Van,Ram_ProMaster,202104,3528
+ProMaster Van,Ram_ProMaster,202105,3202
+ProMaster Van,Ram_ProMaster,202106,1964
+ProMaster Van,Ram_ProMaster,202107,2041
+ProMaster Van,Ram_ProMaster,202108,2244
+ProMaster Van,Ram_ProMaster,202109,1780
+ProMaster Van,Ram_ProMaster,202110,1576
+ProMaster Van,Ram_ProMaster,202111,1634
+ProMaster Van,Ram_ProMaster,202112,2551
+ProMaster Van,Ram_ProMaster,202201,2657
+ProMaster Van,Ram_ProMaster,202202,1760
+ProMaster Van,Ram_ProMaster,202203,1489
+ProMaster Van,Ram_ProMaster,202204,1817
+ProMaster Van,Ram_ProMaster,202205,1774
+ProMaster Van,Ram_ProMaster,202206,2001
+ProMaster Van,Ram_ProMaster,202207,2746
+ProMaster Van,Ram_ProMaster,202208,2023
+ProMaster Van,Ram_ProMaster,202209,2103
+ProMaster Van,Ram_ProMaster,202210,2387
+ProMaster Van,Ram_ProMaster,202211,1883
+ProMaster Van,Ram_ProMaster,202212,1642
+ProMaster Van,Ram_ProMaster,202301,2112
+ProMaster Van,Ram_ProMaster,202302,1746
+ProMaster Van,Ram_ProMaster,202303,1674
+ProMaster Van,Ram_ProMaster,202304,1780
+ProMaster Van,Ram_ProMaster,202305,1845
+ProMaster Van,Ram_ProMaster,202306,1819
+ProMaster Van,Ram_ProMaster,202307,1881
+ProMaster Van,Ram_ProMaster,202308,1872
+ProMaster Van,Ram_ProMaster,202309,1461
+ProMaster Van,Ram_ProMaster,202310,1626
+ProMaster Van,Ram_ProMaster,202311,1544
+ProMaster Van,Ram_ProMaster,202312,1897
+ProMaster Van,Ram_ProMaster,202401,1952
+ProMaster Van,Ram_ProMaster,202402,2063
+ProMaster Van,Ram_ProMaster,202403,1733
+ProMaster Van,Ram_ProMaster,202404,2674
+ProMaster Van,Ram_ProMaster,202405,2008
+ProMaster Van,Ram_ProMaster,202406,1590
+ProMaster Van,Ram_ProMaster,202407,1703
+ProMaster Van,Ram_ProMaster,202408,2935
+ProMaster Van,Ram_ProMaster,202409,1747
+ProMaster Van,Ram_ProMaster,202410,2063
+ProMaster Van,Ram_ProMaster,202411,1720
+ProMaster Van,Ram_ProMaster,202412,1833
+ProMaster Van,Ram_ProMaster,202501,1933
+ProMaster Van,Ram_ProMaster,202502,1787
+ProMaster Van,Ram_ProMaster,202503,1616
+ProMaster Van,Ram_ProMaster,202504,1559
+ProMaster Van,Ram_ProMaster,202505,1585
+ProMaster Van,Ram_ProMaster,202506,1624
+ProMaster Van,Ram_ProMaster,202507,2184
+ProMaster Van,Ram_ProMaster,202508,2581
+ProMaster Van,Ram_ProMaster,202509,1757
+ProMaster Van,Ram_ProMaster,202510,2644
+ProMaster Van,Ram_ProMaster,202511,1843
+ProMaster Van,Ram_ProMaster,202512,2166
+ProMaster Van,Ram_ProMaster,202601,24112
+ProMaster Van,Ram_ProMaster,202602,4743
+ProMaster Van,Ram_ProMaster,202603,1525
+ProMaster Van,Ram_ProMaster,202604,1568
+ProMaster Van,Ram_ProMaster,202605,2079
+ProMaster Van,Ram_ProMaster,202606,1282
+ProMaster Van,Ram_ProMaster,202607,1303
+ProMaster Van,Ram_ProMaster,202608,1581
+ProMaster Van,Ram_ProMaster,202609,1354
+ProMaster Van,Ram_ProMaster,202610,1210
+Ford F-Series,Ford_F-Series,201601,100577
+Ford F-Series,Ford_F-Series,201602,93829
+Ford F-Series,Ford_F-Series,201603,91618
+Ford F-Series,Ford_F-Series,201604,87273
+Ford F-Series,Ford_F-Series,201605,88143
+Ford F-Series,Ford_F-Series,201606,82552
+Ford F-Series,Ford_F-Series,201607,85211
+Ford F-Series,Ford_F-Series,201608,87237
+Ford F-Series,Ford_F-Series,201609,86659
+Ford F-Series,Ford_F-Series,201610,91051
+Ford F-Series,Ford_F-Series,201611,83306
+Ford F-Series,Ford_F-Series,201612,84901
+Ford F-Series,Ford_F-Series,201701,106317
+Ford F-Series,Ford_F-Series,201702,93033
+Ford F-Series,Ford_F-Series,201703,95914
+Ford F-Series,Ford_F-Series,201704,90184
+Ford F-Series,Ford_F-Series,201705,89682
+Ford F-Series,Ford_F-Series,201706,86105
+Ford F-Series,Ford_F-Series,201707,90589
+Ford F-Series,Ford_F-Series,201708,90007
+Ford F-Series,Ford_F-Series,201709,86011
+Ford F-Series,Ford_F-Series,201710,89429
+Ford F-Series,Ford_F-Series,201711,82150
+Ford F-Series,Ford_F-Series,201712,82922
+Ford F-Series,Ford_F-Series,201801,93371
+Ford F-Series,Ford_F-Series,201802,84167
+Ford F-Series,Ford_F-Series,201803,88959
+Ford F-Series,Ford_F-Series,201804,84347
+Ford F-Series,Ford_F-Series,201805,90010
+Ford F-Series,Ford_F-Series,201806,81634
+Ford F-Series,Ford_F-Series,201807,86568
+Ford F-Series,Ford_F-Series,201808,87839
+Ford F-Series,Ford_F-Series,201809,79509
+Ford F-Series,Ford_F-Series,201810,82431
+Ford F-Series,Ford_F-Series,201811,78357
+Ford F-Series,Ford_F-Series,201812,82918
+Ford F-Series,Ford_F-Series,201901,87203
+Ford F-Series,Ford_F-Series,201902,80645
+Ford F-Series,Ford_F-Series,201903,84915
+Ford F-Series,Ford_F-Series,201904,79493
+Ford F-Series,Ford_F-Series,201905,81075
+Ford F-Series,Ford_F-Series,201906,76563
+Ford F-Series,Ford_F-Series,201907,80057
+Ford F-Series,Ford_F-Series,201908,80646
+Ford F-Series,Ford_F-Series,201909,72395
+Ford F-Series,Ford_F-Series,201910,75269
+Ford F-Series,Ford_F-Series,201911,84107
+Ford F-Series,Ford_F-Series,201912,80161
+Ford F-Series,Ford_F-Series,202001,81569
+Ford F-Series,Ford_F-Series,202002,70514
+Ford F-Series,Ford_F-Series,202003,67580
+Ford F-Series,Ford_F-Series,202004,71756
+Ford F-Series,Ford_F-Series,202005,78807
+Ford F-Series,Ford_F-Series,202006,87359
+Ford F-Series,Ford_F-Series,202007,82615
+Ford F-Series,Ford_F-Series,202008,79435
+Ford F-Series,Ford_F-Series,202009,74099
+Ford F-Series,Ford_F-Series,202010,72502
+Ford F-Series,Ford_F-Series,202011,68593
+Ford F-Series,Ford_F-Series,202012,67633
+Ford F-Series,Ford_F-Series,202101,72349
+Ford F-Series,Ford_F-Series,202102,67459
+Ford F-Series,Ford_F-Series,202103,77969
+Ford F-Series,Ford_F-Series,202104,74324
+Ford F-Series,Ford_F-Series,202105,90729
+Ford F-Series,Ford_F-Series,202106,70282
+Ford F-Series,Ford_F-Series,202107,65836
+Ford F-Series,Ford_F-Series,202108,64639
+Ford F-Series,Ford_F-Series,202109,58390
+Ford F-Series,Ford_F-Series,202110,56528
+Ford F-Series,Ford_F-Series,202111,53324
+Ford F-Series,Ford_F-Series,202112,52360
+Ford F-Series,Ford_F-Series,202201,58937
+Ford F-Series,Ford_F-Series,202202,54030
+Ford F-Series,Ford_F-Series,202203,54402
+Ford F-Series,Ford_F-Series,202204,51870
+Ford F-Series,Ford_F-Series,202205,50408
+Ford F-Series,Ford_F-Series,202206,46773
+Ford F-Series,Ford_F-Series,202207,50109
+Ford F-Series,Ford_F-Series,202208,54051
+Ford F-Series,Ford_F-Series,202209,50008
+Ford F-Series,Ford_F-Series,202210,53066
+Ford F-Series,Ford_F-Series,202211,49731
+Ford F-Series,Ford_F-Series,202212,48800
+Ford F-Series,Ford_F-Series,202301,57829
+Ford F-Series,Ford_F-Series,202302,52520
+Ford F-Series,Ford_F-Series,202303,60787
+Ford F-Series,Ford_F-Series,202304,54299
+Ford F-Series,Ford_F-Series,202305,59688
+Ford F-Series,Ford_F-Series,202306,55019
+Ford F-Series,Ford_F-Series,202307,59369
+Ford F-Series,Ford_F-Series,202308,58578
+Ford F-Series,Ford_F-Series,202309,59249
+Ford F-Series,Ford_F-Series,202310,58400
+Ford F-Series,Ford_F-Series,202311,54844
+Ford F-Series,Ford_F-Series,202312,59270
+Ford F-Series,Ford_F-Series,202401,63311
+Ford F-Series,Ford_F-Series,202402,56833
+Ford F-Series,Ford_F-Series,202403,59968
+Ford F-Series,Ford_F-Series,202404,59679
+Ford F-Series,Ford_F-Series,202405,59545
+Ford F-Series,Ford_F-Series,202406,57446
+Ford F-Series,Ford_F-Series,202407,58064
+Ford F-Series,Ford_F-Series,202408,63105
+Ford F-Series,Ford_F-Series,202409,60483
+Ford F-Series,Ford_F-Series,202410,60680
+Ford F-Series,Ford_F-Series,202411,55976
+Ford F-Series,Ford_F-Series,202412,59372
+Ford F-Series,Ford_F-Series,202501,63761
+Ford F-Series,Ford_F-Series,202502,56799
+Ford F-Series,Ford_F-Series,202503,68523
+Ford F-Series,Ford_F-Series,202504,61864
+Ford F-Series,Ford_F-Series,202505,60983
+Ford F-Series,Ford_F-Series,202506,55349
+Ford F-Series,Ford_F-Series,202507,58103
+Ford F-Series,Ford_F-Series,202508,73592
+Ford F-Series,Ford_F-Series,202509,62968
+Ford F-Series,Ford_F-Series,202510,63285
+Ford F-Series,Ford_F-Series,202511,63684
+Ford F-Series,Ford_F-Series,202512,57349
+Ford F-Series,Ford_F-Series,202601,55249
+Ford F-Series,Ford_F-Series,202602,50604
+Ford F-Series,Ford_F-Series,202603,53439
+Ford F-Series,Ford_F-Series,202604,48691
+Ford F-Series,Ford_F-Series,202605,48601
+Ford F-Series,Ford_F-Series,202606,45396
+Ford F-Series,Ford_F-Series,202607,47092
+Ford F-Series,Ford_F-Series,202608,45861
+Ford F-Series,Ford_F-Series,202609,41858
+Ford F-Series,Ford_F-Series,202610,38315
+Chevrolet Silverado,Chevrolet_Silverado,201601,102158
+Chevrolet Silverado,Chevrolet_Silverado,201602,99776
+Chevrolet Silverado,Chevrolet_Silverado,201603,93881
+Chevrolet Silverado,Chevrolet_Silverado,201604,84641
+Chevrolet Silverado,Chevrolet_Silverado,201605,83132
+Chevrolet Silverado,Chevrolet_Silverado,201606,79536
+Chevrolet Silverado,Chevrolet_Silverado,201607,78628
+Chevrolet Silverado,Chevrolet_Silverado,201608,81399
+Chevrolet Silverado,Chevrolet_Silverado,201609,80929
+Chevrolet Silverado,Chevrolet_Silverado,201610,79219
+Chevrolet Silverado,Chevrolet_Silverado,201611,76172
+Chevrolet Silverado,Chevrolet_Silverado,201612,78088
+Chevrolet Silverado,Chevrolet_Silverado,201701,92340
+Chevrolet Silverado,Chevrolet_Silverado,201702,84638
+Chevrolet Silverado,Chevrolet_Silverado,201703,89156
+Chevrolet Silverado,Chevrolet_Silverado,201704,75759
+Chevrolet Silverado,Chevrolet_Silverado,201705,76576
+Chevrolet Silverado,Chevrolet_Silverado,201706,70524
+Chevrolet Silverado,Chevrolet_Silverado,201707,73569
+Chevrolet Silverado,Chevrolet_Silverado,201708,74106
+Chevrolet Silverado,Chevrolet_Silverado,201709,71531
+Chevrolet Silverado,Chevrolet_Silverado,201710,75160
+Chevrolet Silverado,Chevrolet_Silverado,201711,72068
+Chevrolet Silverado,Chevrolet_Silverado,201712,74108
+Chevrolet Silverado,Chevrolet_Silverado,201801,86963
+Chevrolet Silverado,Chevrolet_Silverado,201802,74821
+Chevrolet Silverado,Chevrolet_Silverado,201803,87190
+Chevrolet Silverado,Chevrolet_Silverado,201804,76150
+Chevrolet Silverado,Chevrolet_Silverado,201805,83659
+Chevrolet Silverado,Chevrolet_Silverado,201806,76953
+Chevrolet Silverado,Chevrolet_Silverado,201807,83254
+Chevrolet Silverado,Chevrolet_Silverado,201808,81551
+Chevrolet Silverado,Chevrolet_Silverado,201809,74740
+Chevrolet Silverado,Chevrolet_Silverado,201810,76433
+Chevrolet Silverado,Chevrolet_Silverado,201811,75566
+Chevrolet Silverado,Chevrolet_Silverado,201812,74206
+Chevrolet Silverado,Chevrolet_Silverado,201901,81541
+Chevrolet Silverado,Chevrolet_Silverado,201902,75132
+Chevrolet Silverado,Chevrolet_Silverado,201903,80759
+Chevrolet Silverado,Chevrolet_Silverado,201904,75390
+Chevrolet Silverado,Chevrolet_Silverado,201905,75899
+Chevrolet Silverado,Chevrolet_Silverado,201906,70847
+Chevrolet Silverado,Chevrolet_Silverado,201907,75722
+Chevrolet Silverado,Chevrolet_Silverado,201908,78316
+Chevrolet Silverado,Chevrolet_Silverado,201909,72914
+Chevrolet Silverado,Chevrolet_Silverado,201910,76851
+Chevrolet Silverado,Chevrolet_Silverado,201911,69700
+Chevrolet Silverado,Chevrolet_Silverado,201912,72419
+Chevrolet Silverado,Chevrolet_Silverado,202001,77777
+Chevrolet Silverado,Chevrolet_Silverado,202002,69753
+Chevrolet Silverado,Chevrolet_Silverado,202003,67657
+Chevrolet Silverado,Chevrolet_Silverado,202004,70006
+Chevrolet Silverado,Chevrolet_Silverado,202005,77001
+Chevrolet Silverado,Chevrolet_Silverado,202006,72249
+Chevrolet Silverado,Chevrolet_Silverado,202007,75025
+Chevrolet Silverado,Chevrolet_Silverado,202008,72027
+Chevrolet Silverado,Chevrolet_Silverado,202009,64150
+Chevrolet Silverado,Chevrolet_Silverado,202010,67375
+Chevrolet Silverado,Chevrolet_Silverado,202011,65913
+Chevrolet Silverado,Chevrolet_Silverado,202012,64234
+Chevrolet Silverado,Chevrolet_Silverado,202101,70149
+Chevrolet Silverado,Chevrolet_Silverado,202102,62888
+Chevrolet Silverado,Chevrolet_Silverado,202103,73442
+Chevrolet Silverado,Chevrolet_Silverado,202104,65573
+Chevrolet Silverado,Chevrolet_Silverado,202105,61397
+Chevrolet Silverado,Chevrolet_Silverado,202106,54993
+Chevrolet Silverado,Chevrolet_Silverado,202107,57060
+Chevrolet Silverado,Chevrolet_Silverado,202108,54929
+Chevrolet Silverado,Chevrolet_Silverado,202109,53520
+Chevrolet Silverado,Chevrolet_Silverado,202110,51767
+Chevrolet Silverado,Chevrolet_Silverado,202111,46778
+Chevrolet Silverado,Chevrolet_Silverado,202112,46698
+Chevrolet Silverado,Chevrolet_Silverado,202201,52437
+Chevrolet Silverado,Chevrolet_Silverado,202202,47883
+Chevrolet Silverado,Chevrolet_Silverado,202203,47167
+Chevrolet Silverado,Chevrolet_Silverado,202204,46946
+Chevrolet Silverado,Chevrolet_Silverado,202205,43305
+Chevrolet Silverado,Chevrolet_Silverado,202206,41207
+Chevrolet Silverado,Chevrolet_Silverado,202207,43118
+Chevrolet Silverado,Chevrolet_Silverado,202208,48798
+Chevrolet Silverado,Chevrolet_Silverado,202209,46220
+Chevrolet Silverado,Chevrolet_Silverado,202210,48937
+Chevrolet Silverado,Chevrolet_Silverado,202211,44897
+Chevrolet Silverado,Chevrolet_Silverado,202212,44238
+Chevrolet Silverado,Chevrolet_Silverado,202301,51907
+Chevrolet Silverado,Chevrolet_Silverado,202302,46108
+Chevrolet Silverado,Chevrolet_Silverado,202303,54393
+Chevrolet Silverado,Chevrolet_Silverado,202304,48543
+Chevrolet Silverado,Chevrolet_Silverado,202305,51956
+Chevrolet Silverado,Chevrolet_Silverado,202306,51384
+Chevrolet Silverado,Chevrolet_Silverado,202307,51823
+Chevrolet Silverado,Chevrolet_Silverado,202308,51863
+Chevrolet Silverado,Chevrolet_Silverado,202309,48702
+Chevrolet Silverado,Chevrolet_Silverado,202310,50767
+Chevrolet Silverado,Chevrolet_Silverado,202311,48018
+Chevrolet Silverado,Chevrolet_Silverado,202312,48152
+Chevrolet Silverado,Chevrolet_Silverado,202401,52651
+Chevrolet Silverado,Chevrolet_Silverado,202402,49446
+Chevrolet Silverado,Chevrolet_Silverado,202403,52115
+Chevrolet Silverado,Chevrolet_Silverado,202404,50688
+Chevrolet Silverado,Chevrolet_Silverado,202405,65153
+Chevrolet Silverado,Chevrolet_Silverado,202406,71791
+Chevrolet Silverado,Chevrolet_Silverado,202407,76401
+Chevrolet Silverado,Chevrolet_Silverado,202408,57452
+Chevrolet Silverado,Chevrolet_Silverado,202409,53518
+Chevrolet Silverado,Chevrolet_Silverado,202410,53095
+Chevrolet Silverado,Chevrolet_Silverado,202411,48581
+Chevrolet Silverado,Chevrolet_Silverado,202412,50776
+Chevrolet Silverado,Chevrolet_Silverado,202501,53829
+Chevrolet Silverado,Chevrolet_Silverado,202502,46124
+Chevrolet Silverado,Chevrolet_Silverado,202503,59314
+Chevrolet Silverado,Chevrolet_Silverado,202504,49660
+Chevrolet Silverado,Chevrolet_Silverado,202505,50526
+Chevrolet Silverado,Chevrolet_Silverado,202506,44075
+Chevrolet Silverado,Chevrolet_Silverado,202507,46288
+Chevrolet Silverado,Chevrolet_Silverado,202508,49407
+Chevrolet Silverado,Chevrolet_Silverado,202509,46652
+Chevrolet Silverado,Chevrolet_Silverado,202510,46599
+Chevrolet Silverado,Chevrolet_Silverado,202511,43684
+Chevrolet Silverado,Chevrolet_Silverado,202512,41936
+Chevrolet Silverado,Chevrolet_Silverado,202601,42658
+Chevrolet Silverado,Chevrolet_Silverado,202602,40128
+Chevrolet Silverado,Chevrolet_Silverado,202603,40804
+Chevrolet Silverado,Chevrolet_Silverado,202604,38077
+Chevrolet Silverado,Chevrolet_Silverado,202605,40909
+Chevrolet Silverado,Chevrolet_Silverado,202606,39240
+Chevrolet Silverado,Chevrolet_Silverado,202607,36861
+Chevrolet Silverado,Chevrolet_Silverado,202608,33949
+Chevrolet Silverado,Chevrolet_Silverado,202609,32730
+Chevrolet Silverado,Chevrolet_Silverado,202610,30537
+Toyota RAV4,Toyota_RAV4,201601,70364
+Toyota RAV4,Toyota_RAV4,201602,66723
+Toyota RAV4,Toyota_RAV4,201603,63835
+Toyota RAV4,Toyota_RAV4,201604,57752
+Toyota RAV4,Toyota_RAV4,201605,61266
+Toyota RAV4,Toyota_RAV4,201606,59470
+Toyota RAV4,Toyota_RAV4,201607,61200
+Toyota RAV4,Toyota_RAV4,201608,66531
+Toyota RAV4,Toyota_RAV4,201609,64796
+Toyota RAV4,Toyota_RAV4,201610,68344
+Toyota RAV4,Toyota_RAV4,201611,61941
+Toyota RAV4,Toyota_RAV4,201612,63612
+Toyota RAV4,Toyota_RAV4,201701,73618
+Toyota RAV4,Toyota_RAV4,201702,62085
+Toyota RAV4,Toyota_RAV4,201703,65542
+Toyota RAV4,Toyota_RAV4,201704,59985
+Toyota RAV4,Toyota_RAV4,201705,61884
+Toyota RAV4,Toyota_RAV4,201706,60837
+Toyota RAV4,Toyota_RAV4,201707,65793
+Toyota RAV4,Toyota_RAV4,201708,66439
+Toyota RAV4,Toyota_RAV4,201709,62990
+Toyota RAV4,Toyota_RAV4,201710,65021
+Toyota RAV4,Toyota_RAV4,201711,62987
+Toyota RAV4,Toyota_RAV4,201712,60927
+Toyota RAV4,Toyota_RAV4,201801,75831
+Toyota RAV4,Toyota_RAV4,201802,71394
+Toyota RAV4,Toyota_RAV4,201803,84626
+Toyota RAV4,Toyota_RAV4,201804,71412
+Toyota RAV4,Toyota_RAV4,201805,70693
+Toyota RAV4,Toyota_RAV4,201806,67452
+Toyota RAV4,Toyota_RAV4,201807,74868
+Toyota RAV4,Toyota_RAV4,201808,75422
+Toyota RAV4,Toyota_RAV4,201809,72172
+Toyota RAV4,Toyota_RAV4,201810,75947
+Toyota RAV4,Toyota_RAV4,201811,85327
+Toyota RAV4,Toyota_RAV4,201812,84662
+Toyota RAV4,Toyota_RAV4,201901,104127
+Toyota RAV4,Toyota_RAV4,201902,108456
+Toyota RAV4,Toyota_RAV4,201903,102134
+Toyota RAV4,Toyota_RAV4,201904,97281
+Toyota RAV4,Toyota_RAV4,201905,97698
+Toyota RAV4,Toyota_RAV4,201906,95000
+Toyota RAV4,Toyota_RAV4,201907,95920
+Toyota RAV4,Toyota_RAV4,201908,97982
+Toyota RAV4,Toyota_RAV4,201909,93879
+Toyota RAV4,Toyota_RAV4,201910,102676
+Toyota RAV4,Toyota_RAV4,201911,101426
+Toyota RAV4,Toyota_RAV4,201912,90756
+Toyota RAV4,Toyota_RAV4,202001,99916
+Toyota RAV4,Toyota_RAV4,202002,82912
+Toyota RAV4,Toyota_RAV4,202003,66313
+Toyota RAV4,Toyota_RAV4,202004,54629
+Toyota RAV4,Toyota_RAV4,202005,71195
+Toyota RAV4,Toyota_RAV4,202006,81317
+Toyota RAV4,Toyota_RAV4,202007,94338
+Toyota RAV4,Toyota_RAV4,202008,78170
+Toyota RAV4,Toyota_RAV4,202009,72610
+Toyota RAV4,Toyota_RAV4,202010,80682
+Toyota RAV4,Toyota_RAV4,202011,73467
+Toyota RAV4,Toyota_RAV4,202012,75191
+Toyota RAV4,Toyota_RAV4,202101,85462
+Toyota RAV4,Toyota_RAV4,202102,80882
+Toyota RAV4,Toyota_RAV4,202103,96279
+Toyota RAV4,Toyota_RAV4,202104,92773
+Toyota RAV4,Toyota_RAV4,202105,94352
+Toyota RAV4,Toyota_RAV4,202106,85052
+Toyota RAV4,Toyota_RAV4,202107,85934
+Toyota RAV4,Toyota_RAV4,202108,83007
+Toyota RAV4,Toyota_RAV4,202109,76244
+Toyota RAV4,Toyota_RAV4,202110,76035
+Toyota RAV4,Toyota_RAV4,202111,71280
+Toyota RAV4,Toyota_RAV4,202112,69345
+Toyota RAV4,Toyota_RAV4,202201,78943
+Toyota RAV4,Toyota_RAV4,202202,66966
+Toyota RAV4,Toyota_RAV4,202203,67779
+Toyota RAV4,Toyota_RAV4,202204,63575
+Toyota RAV4,Toyota_RAV4,202205,59971
+Toyota RAV4,Toyota_RAV4,202206,57656
+Toyota RAV4,Toyota_RAV4,202207,61523
+Toyota RAV4,Toyota_RAV4,202208,67041
+Toyota RAV4,Toyota_RAV4,202209,62873
+Toyota RAV4,Toyota_RAV4,202210,64008
+Toyota RAV4,Toyota_RAV4,202211,58554
+Toyota RAV4,Toyota_RAV4,202212,54157
+Toyota RAV4,Toyota_RAV4,202301,63940
+Toyota RAV4,Toyota_RAV4,202302,55853
+Toyota RAV4,Toyota_RAV4,202303,62234
+Toyota RAV4,Toyota_RAV4,202304,57049
+Toyota RAV4,Toyota_RAV4,202305,63189
+Toyota RAV4,Toyota_RAV4,202306,59921
+Toyota RAV4,Toyota_RAV4,202307,65326
+Toyota RAV4,Toyota_RAV4,202308,68348
+Toyota RAV4,Toyota_RAV4,202309,62767
+Toyota RAV4,Toyota_RAV4,202310,66059
+Toyota RAV4,Toyota_RAV4,202311,65235
+Toyota RAV4,Toyota_RAV4,202312,69678
+Toyota RAV4,Toyota_RAV4,202401,81530
+Toyota RAV4,Toyota_RAV4,202402,69795
+Toyota RAV4,Toyota_RAV4,202403,73548
+Toyota RAV4,Toyota_RAV4,202404,72878
+Toyota RAV4,Toyota_RAV4,202405,71443
+Toyota RAV4,Toyota_RAV4,202406,67407
+Toyota RAV4,Toyota_RAV4,202407,70125
+Toyota RAV4,Toyota_RAV4,202408,73433
+Toyota RAV4,Toyota_RAV4,202409,68760
+Toyota RAV4,Toyota_RAV4,202410,76975
+Toyota RAV4,Toyota_RAV4,202411,74928
+Toyota RAV4,Toyota_RAV4,202412,78975
+Toyota RAV4,Toyota_RAV4,202501,83938
+Toyota RAV4,Toyota_RAV4,202502,78151
+Toyota RAV4,Toyota_RAV4,202503,107798
+Toyota RAV4,Toyota_RAV4,202504,76465
+Toyota RAV4,Toyota_RAV4,202505,95543
+Toyota RAV4,Toyota_RAV4,202506,71017
+Toyota RAV4,Toyota_RAV4,202507,81572
+Toyota RAV4,Toyota_RAV4,202508,80812
+Toyota RAV4,Toyota_RAV4,202509,71132
+Toyota RAV4,Toyota_RAV4,202510,76322
+Toyota RAV4,Toyota_RAV4,202511,68469
+Toyota RAV4,Toyota_RAV4,202512,67510
+Toyota RAV4,Toyota_RAV4,202601,74364
+Toyota RAV4,Toyota_RAV4,202602,65859
+Toyota RAV4,Toyota_RAV4,202603,65192
+Toyota RAV4,Toyota_RAV4,202604,65120
+Toyota RAV4,Toyota_RAV4,202605,63392
+Toyota RAV4,Toyota_RAV4,202606,67705
+Toyota RAV4,Toyota_RAV4,202607,57040
+Toyota RAV4,Toyota_RAV4,202608,57643
+Toyota RAV4,Toyota_RAV4,202609,52363
+Toyota RAV4,Toyota_RAV4,202610,47416
+Ford Bronco,Ford_Bronco,201601,38752
+Ford Bronco,Ford_Bronco,201602,73447
+Ford Bronco,Ford_Bronco,201603,48321
+Ford Bronco,Ford_Bronco,201604,40746
+Ford Bronco,Ford_Bronco,201605,39273
+Ford Bronco,Ford_Bronco,201606,48004
+Ford Bronco,Ford_Bronco,201607,39354
+Ford Bronco,Ford_Bronco,201608,39790
+Ford Bronco,Ford_Bronco,201609,40953
+Ford Bronco,Ford_Bronco,201610,75250
+Ford Bronco,Ford_Bronco,201611,43857
+Ford Bronco,Ford_Bronco,201612,41992
+Ford Bronco,Ford_Bronco,201701,72302
+Ford Bronco,Ford_Bronco,201702,58966
+Ford Bronco,Ford_Bronco,201703,58594
+Ford Bronco,Ford_Bronco,201704,43687
+Ford Bronco,Ford_Bronco,201705,42223
+Ford Bronco,Ford_Bronco,201706,52867
+Ford Bronco,Ford_Bronco,201707,60171
+Ford Bronco,Ford_Bronco,201708,45556
+Ford Bronco,Ford_Bronco,201709,40216
+Ford Bronco,Ford_Bronco,201710,45094
+Ford Bronco,Ford_Bronco,201711,37733
+Ford Bronco,Ford_Bronco,201712,38983
+Ford Bronco,Ford_Bronco,201801,47699
+Ford Bronco,Ford_Bronco,201802,39566
+Ford Bronco,Ford_Bronco,201803,48635
+Ford Bronco,Ford_Bronco,201804,41858
+Ford Bronco,Ford_Bronco,201805,38607
+Ford Bronco,Ford_Bronco,201806,39263
+Ford Bronco,Ford_Bronco,201807,46317
+Ford Bronco,Ford_Bronco,201808,43822
+Ford Bronco,Ford_Bronco,201809,38198
+Ford Bronco,Ford_Bronco,201810,40260
+Ford Bronco,Ford_Bronco,201811,38790
+Ford Bronco,Ford_Bronco,201812,41255
+Ford Bronco,Ford_Bronco,201901,46781
+Ford Bronco,Ford_Bronco,201902,38915
+Ford Bronco,Ford_Bronco,201903,40233
+Ford Bronco,Ford_Bronco,201904,37318
+Ford Bronco,Ford_Bronco,201905,40022
+Ford Bronco,Ford_Bronco,201906,41209
+Ford Bronco,Ford_Bronco,201907,42986
+Ford Bronco,Ford_Bronco,201908,40373
+Ford Bronco,Ford_Bronco,201909,37994
+Ford Bronco,Ford_Bronco,201910,38399
+Ford Bronco,Ford_Bronco,201911,40258
+Ford Bronco,Ford_Bronco,201912,38029
+Ford Bronco,Ford_Bronco,202001,47433
+Ford Bronco,Ford_Bronco,202002,36479
+Ford Bronco,Ford_Bronco,202003,44777
+Ford Bronco,Ford_Bronco,202004,58475
+Ford Bronco,Ford_Bronco,202005,40588
+Ford Bronco,Ford_Bronco,202006,52558
+Ford Bronco,Ford_Bronco,202007,252361
+Ford Bronco,Ford_Bronco,202008,60887
+Ford Bronco,Ford_Bronco,202009,43793
+Ford Bronco,Ford_Bronco,202010,54158
+Ford Bronco,Ford_Bronco,202011,56678
+Ford Bronco,Ford_Bronco,202012,48952
+Ford Bronco,Ford_Bronco,202101,55833
+Ford Bronco,Ford_Bronco,202102,69719
+Ford Bronco,Ford_Bronco,202103,73943
+Ford Bronco,Ford_Bronco,202104,73023
+Ford Bronco,Ford_Bronco,202105,66366
+Ford Bronco,Ford_Bronco,202106,49719
+Ford Bronco,Ford_Bronco,202107,47328
+Ford Bronco,Ford_Bronco,202108,47648
+Ford Bronco,Ford_Bronco,202109,45011
+Ford Bronco,Ford_Bronco,202110,44801
+Ford Bronco,Ford_Bronco,202111,41541
+Ford Bronco,Ford_Bronco,202112,38972
+Ford Bronco,Ford_Bronco,202201,44147
+Ford Bronco,Ford_Bronco,202202,38292
+Ford Bronco,Ford_Bronco,202203,37076
+Ford Bronco,Ford_Bronco,202204,36100
+Ford Bronco,Ford_Bronco,202205,33609
+Ford Bronco,Ford_Bronco,202206,32699
+Ford Bronco,Ford_Bronco,202207,37002
+Ford Bronco,Ford_Bronco,202208,39526
+Ford Bronco,Ford_Bronco,202209,33760
+Ford Bronco,Ford_Bronco,202210,33033
+Ford Bronco,Ford_Bronco,202211,30404
+Ford Bronco,Ford_Bronco,202212,32666
+Ford Bronco,Ford_Bronco,202301,43498
+Ford Bronco,Ford_Bronco,202302,38099
+Ford Bronco,Ford_Bronco,202303,46659
+Ford Bronco,Ford_Bronco,202304,36190
+Ford Bronco,Ford_Bronco,202305,33597
+Ford Bronco,Ford_Bronco,202306,41211
+Ford Bronco,Ford_Bronco,202307,44983
+Ford Bronco,Ford_Bronco,202308,47105
+Ford Bronco,Ford_Bronco,202309,35661
+Ford Bronco,Ford_Bronco,202310,34337
+Ford Bronco,Ford_Bronco,202311,31095
+Ford Bronco,Ford_Bronco,202312,34335
+Ford Bronco,Ford_Bronco,202401,38337
+Ford Bronco,Ford_Bronco,202402,32700
+Ford Bronco,Ford_Bronco,202403,34484
+Ford Bronco,Ford_Bronco,202404,69587
+Ford Bronco,Ford_Bronco,202405,44441
+Ford Bronco,Ford_Bronco,202406,35013
+Ford Bronco,Ford_Bronco,202407,31337
+Ford Bronco,Ford_Bronco,202408,32797
+Ford Bronco,Ford_Bronco,202409,31191
+Ford Bronco,Ford_Bronco,202410,31047
+Ford Bronco,Ford_Bronco,202411,32687
+Ford Bronco,Ford_Bronco,202412,33507
+Ford Bronco,Ford_Bronco,202501,36143
+Ford Bronco,Ford_Bronco,202502,34109
+Ford Bronco,Ford_Bronco,202503,76198
+Ford Bronco,Ford_Bronco,202504,39155
+Ford Bronco,Ford_Bronco,202505,38152
+Ford Bronco,Ford_Bronco,202506,35849
+Ford Bronco,Ford_Bronco,202507,41530
+Ford Bronco,Ford_Bronco,202508,48307
+Ford Bronco,Ford_Bronco,202509,34717
+Ford Bronco,Ford_Bronco,202510,34271
+Ford Bronco,Ford_Bronco,202511,35979
+Ford Bronco,Ford_Bronco,202512,34160
+Ford Bronco,Ford_Bronco,202601,36469
+Ford Bronco,Ford_Bronco,202602,31325
+Ford Bronco,Ford_Bronco,202603,30147
+Ford Bronco,Ford_Bronco,202604,26970
+Ford Bronco,Ford_Bronco,202605,29812
+Ford Bronco,Ford_Bronco,202606,29016
+Ford Bronco,Ford_Bronco,202607,29683
+Ford Bronco,Ford_Bronco,202608,30176
+Ford Bronco,Ford_Bronco,202609,30999
+Ford Bronco,Ford_Bronco,202610,27218

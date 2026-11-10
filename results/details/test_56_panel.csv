@@ -1,0 +1,81 @@
+model,my,recalls,n_pt,new_pt,any_new
+Wrangler,2019,9,2,1.0,1
+Wrangler,2020,13,5,3.0,1
+Wrangler,2021,17,6,2.0,1
+Wrangler,2022,16,6,0.0,0
+Wrangler,2023,16,6,0.0,0
+Wrangler,2024,14,4,0.0,0
+Wrangler,2025,6,4,0.0,0
+Wrangler,2026,3,4,0.0,0
+Gladiator,2021,8,2,1.0,1
+Gladiator,2022,8,2,0.0,0
+Gladiator,2023,6,2,0.0,0
+Gladiator,2024,2,1,0.0,0
+Gladiator,2025,1,1,0.0,0
+Gladiator,2026,2,1,0.0,0
+Grand Cherokee,2019,7,5,0.0,0
+Grand Cherokee,2020,3,4,0.0,0
+Grand Cherokee,2021,16,4,0.0,0
+Grand Cherokee,2022,24,3,1.0,1
+Grand Cherokee,2023,23,3,0.0,0
+Grand Cherokee,2024,18,3,0.0,0
+Grand Cherokee,2025,5,2,0.0,0
+Grand Cherokee,2026,6,3,1.0,1
+Cherokee,2019,11,3,1.0,1
+Cherokee,2020,3,3,0.0,0
+Cherokee,2021,4,3,0.0,0
+Cherokee,2022,3,3,0.0,0
+Cherokee,2023,1,2,0.0,0
+Compass,2019,2,1,0.0,0
+Compass,2020,1,1,0.0,0
+Compass,2021,0,1,0.0,0
+Compass,2022,4,1,0.0,0
+Compass,2023,2,1,1.0,1
+Compass,2024,0,1,0.0,0
+Compass,2025,0,1,0.0,0
+Compass,2026,1,1,0.0,0
+Renegade,2019,4,2,1.0,1
+Renegade,2020,3,2,0.0,0
+Renegade,2021,2,2,0.0,0
+Renegade,2022,2,1,0.0,0
+Renegade,2023,2,1,0.0,0
+Wagoneer family,2023,9,3,0.0,0
+Wagoneer family,2024,9,2,0.0,0
+Wagoneer family,2025,3,1,0.0,0
+Wagoneer family,2026,5,1,0.0,0
+Ram LD PU,2019,29,5,2.0,1
+Ram LD PU,2020,14,5,0.0,0
+Ram LD PU,2021,15,6,1.0,1
+Ram LD PU,2022,16,6,0.0,0
+Ram LD PU,2023,11,6,0.0,0
+Ram LD PU,2024,6,5,0.0,0
+Ram LD PU,2025,8,2,1.0,1
+Ram LD PU,2026,9,4,2.0,1
+Durango,2019,4,3,0.0,0
+Durango,2020,2,3,0.0,0
+Durango,2021,8,4,1.0,1
+Durango,2022,7,3,0.0,0
+Durango,2023,3,4,1.0,1
+Durango,2024,0,4,0.0,0
+Durango,2025,0,3,0.0,0
+Durango,2026,1,4,1.0,1
+Charger ICE,2019,5,4,0.0,0
+Charger ICE,2020,3,4,0.0,0
+Charger ICE,2021,2,4,0.0,0
+Charger ICE,2022,3,4,0.0,0
+Charger ICE,2023,2,4,0.0,0
+Challenger,2019,3,4,0.0,0
+Challenger,2020,1,4,0.0,0
+Challenger,2021,2,4,0.0,0
+Challenger,2022,2,4,0.0,0
+Challenger,2023,2,4,0.0,0
+Pacifica,2019,8,2,0.0,0
+Pacifica,2020,6,2,0.0,0
+Pacifica,2021,6,2,0.0,0
+Pacifica,2022,8,2,0.0,0
+Pacifica,2023,10,2,0.0,0
+Pacifica,2024,6,2,0.0,0
+Pacifica,2025,6,2,0.0,0
+Pacifica,2026,3,2,0.0,0
+Hornet,2024,8,2,1.0,1
+Hornet,2025,3,2,0.0,0

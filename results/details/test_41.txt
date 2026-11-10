@@ -1,0 +1,64 @@
+### PROXY: Ram share of full-size pickups ~ US gasoline price
+log(Ram/(Ram+F-Series+Silverado)) ~ log(EIA retail regular) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                 lshare   R-squared:                       0.396
+Model:                            OLS   Adj. R-squared:                  0.244
+Method:                 Least Squares   F-statistic:                     4.399
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):             0.0137
+Time:                        15:20:28   Log-Likelihood:                 16.714
+No. Observations:                  21   AIC:                            -23.43
+Df Residuals:                      16   BIC:                            -18.21
+Df Model:                           4                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      -2.4029      0.325     -7.401      0.000      -3.039      -1.767
+C(qtr)[T.2]    -0.1940      0.063     -3.075      0.002      -0.318      -0.070
+C(qtr)[T.3]    -0.0933      0.070     -1.334      0.182      -0.230       0.044
+C(qtr)[T.4]     0.0039      0.050      0.076      0.939      -0.095       0.103
+lgas            0.8613      0.262      3.287      0.001       0.348       1.375
+==============================================================================
+Omnibus:                        3.022   Durbin-Watson:                   0.801
+Prob(Omnibus):                  0.221   Jarque-Bera (JB):                1.808
+Skew:                           0.715   Prob(JB):                        0.405
+Kurtosis:                       3.151   Cond. No.                         27.2
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+
+### Cross-state: "Hemi" search intensity ~ regional (PADD) gas price
+state Trends index ~ log PADD avg gas price (Jun 2025-Oct 2026) + state covariates; HC1
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   Hemi   R-squared:                       0.851
+Model:                            OLS   Adj. R-squared:                  0.838
+Method:                 Least Squares   F-statistic:                     59.99
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           1.84e-17
+Time:                        15:20:28   Log-Likelihood:                -171.62
+No. Observations:                  50   AIC:                             353.2
+Df Residuals:                      45   BIC:                             362.8
+Df Model:                           4                                         
+Covariance Type:                  HC1                                         
+======================================================================================
+                         coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+Intercept            946.9020    115.951      8.166      0.000     719.641    1174.163
+np.log(gas)           11.3836     12.706      0.896      0.370     -13.520      36.287
+np.log(med_income)   -92.2772     10.836     -8.516      0.000    -113.515     -71.040
+rural_share           -0.2367      0.158     -1.500      0.134      -0.546       0.073
+truck_share            2.1671      0.253      8.579      0.000       1.672       2.662
+==============================================================================
+Omnibus:                        5.569   Durbin-Watson:                   2.140
+Prob(Omnibus):                  0.062   Jarque-Bera (JB):                4.761
+Skew:                          -0.745   Prob(JB):                       0.0925
+Kurtosis:                       3.257   Cond. No.                     6.58e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+[2] The condition number is large, 6.58e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

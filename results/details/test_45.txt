@@ -1,0 +1,32 @@
+### State "Hemi" search intensity ~ income, rurality, truck share
+Trends state index (Jun 2025-Oct 2026) ~ log median HH income + rural % + truck registration %; HC1
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                   Hemi   R-squared:                       0.847
+Model:                            OLS   Adj. R-squared:                  0.837
+Method:                 Least Squares   F-statistic:                     77.11
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           5.71e-18
+Time:                        15:20:28   Log-Likelihood:                -172.19
+No. Observations:                  50   AIC:                             352.4
+Df Residuals:                      46   BIC:                             360.0
+Df Model:                           3                                         
+Covariance Type:                  HC1                                         
+======================================================================================
+                         coef    std err          z      P>|z|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+Intercept            927.3011    115.713      8.014      0.000     700.508    1154.095
+np.log(med_income)   -89.3577     10.578     -8.448      0.000    -110.090     -68.626
+rural_share           -0.2571      0.153     -1.680      0.093      -0.557       0.043
+truck_share            2.1926      0.257      8.537      0.000       1.689       2.696
+==============================================================================
+Omnibus:                        4.718   Durbin-Watson:                   2.042
+Prob(Omnibus):                  0.095   Jarque-Bera (JB):                3.803
+Skew:                          -0.658   Prob(JB):                        0.149
+Kurtosis:                       3.303   Cond. No.                     6.45e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+[2] The condition number is large, 6.45e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

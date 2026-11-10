@@ -1,0 +1,195 @@
+### Stellantis sales ~ 60-month new-car loan rate
+log(units) ~ rate (pp) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.511
+Model:                            OLS   Adj. R-squared:                  0.389
+Method:                 Least Squares   F-statistic:                     17.00
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           1.30e-05
+Time:                        15:20:28   Log-Likelihood:                 23.239
+No. Observations:                  21   AIC:                            -36.48
+Df Residuals:                      16   BIC:                            -31.26
+Df Model:                           4                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      13.1656      0.067    195.931      0.000      13.034      13.297
+C(qtr)[T.2]     0.0659      0.043      1.525      0.127      -0.019       0.151
+C(qtr)[T.3]     0.0280      0.033      0.860      0.390      -0.036       0.092
+C(qtr)[T.4]     0.0161      0.032      0.509      0.611      -0.046       0.078
+r60            -0.0605      0.012     -5.191      0.000      -0.083      -0.038
+==============================================================================
+Omnibus:                        6.359   Durbin-Watson:                   0.535
+Prob(Omnibus):                  0.042   Jarque-Bera (JB):                4.013
+Skew:                           0.967   Prob(JB):                        0.134
+Kurtosis:                       3.919   Cond. No.                         44.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+
+### Stellantis sales ~ loan rate, controlling for industry volume (excess sensitivity)
+log(units) ~ rate + log(industry units) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.590
+Model:                            OLS   Adj. R-squared:                  0.453
+Method:                 Least Squares   F-statistic:                     36.28
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           7.34e-08
+Time:                        15:20:28   Log-Likelihood:                 25.077
+No. Observations:                  21   AIC:                            -38.15
+Df Residuals:                      15   BIC:                            -31.89
+Df Model:                           5                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      20.0843      2.695      7.452      0.000      14.802      25.366
+C(qtr)[T.2]     0.1553      0.068      2.288      0.022       0.022       0.288
+C(qtr)[T.3]     0.0763      0.051      1.483      0.138      -0.025       0.177
+C(qtr)[T.4]     0.0641      0.042      1.539      0.124      -0.018       0.146
+r60            -0.0151      0.026     -0.588      0.557      -0.065       0.035
+lind           -0.8838      0.350     -2.525      0.012      -1.570      -0.198
+==============================================================================
+Omnibus:                        7.554   Durbin-Watson:                   1.070
+Prob(Omnibus):                  0.023   Jarque-Bera (JB):                5.034
+Skew:                           1.015   Prob(JB):                       0.0807
+Kurtosis:                       4.279   Cond. No.                     2.38e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 2.38e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### Ram sales ~ 60-month new-car loan rate
+log(units) ~ rate (pp) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.578
+Model:                            OLS   Adj. R-squared:                  0.473
+Method:                 Least Squares   F-statistic:                     21.97
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           2.46e-06
+Time:                        15:20:28   Log-Likelihood:                 21.072
+No. Observations:                  21   AIC:                            -32.14
+Df Residuals:                      16   BIC:                            -26.92
+Df Model:                           4                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      12.0886      0.070    172.411      0.000      11.951      12.226
+C(qtr)[T.2]     0.0906      0.040      2.263      0.024       0.012       0.169
+C(qtr)[T.3]     0.1057      0.052      2.045      0.041       0.004       0.207
+C(qtr)[T.4]     0.1571      0.060      2.608      0.009       0.039       0.275
+r60            -0.0644      0.012     -5.306      0.000      -0.088      -0.041
+==============================================================================
+Omnibus:                        0.917   Durbin-Watson:                   0.979
+Prob(Omnibus):                  0.632   Jarque-Bera (JB):                0.859
+Skew:                           0.420   Prob(JB):                        0.651
+Kurtosis:                       2.474   Cond. No.                         44.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+
+### Ram sales ~ loan rate, controlling for industry volume (excess sensitivity)
+log(units) ~ rate + log(industry units) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.585
+Model:                            OLS   Adj. R-squared:                  0.447
+Method:                 Least Squares   F-statistic:                     21.10
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           2.67e-06
+Time:                        15:20:28   Log-Likelihood:                 21.239
+No. Observations:                  21   AIC:                            -30.48
+Df Residuals:                      15   BIC:                            -24.21
+Df Model:                           5                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      14.4967      4.646      3.120      0.002       5.390      23.603
+C(qtr)[T.2]     0.1217      0.081      1.510      0.131      -0.036       0.280
+C(qtr)[T.3]     0.1225      0.051      2.384      0.017       0.022       0.223
+C(qtr)[T.4]     0.1738      0.062      2.821      0.005       0.053       0.295
+r60            -0.0486      0.036     -1.364      0.173      -0.118       0.021
+lind           -0.3076      0.595     -0.517      0.605      -1.474       0.859
+==============================================================================
+Omnibus:                        1.236   Durbin-Watson:                   1.043
+Prob(Omnibus):                  0.539   Jarque-Bera (JB):                1.098
+Skew:                           0.406   Prob(JB):                        0.577
+Kurtosis:                       2.228   Cond. No.                     2.38e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 2.38e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+
+### Jeep sales ~ 60-month new-car loan rate
+log(units) ~ rate (pp) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.572
+Model:                            OLS   Adj. R-squared:                  0.465
+Method:                 Least Squares   F-statistic:                     11.00
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           0.000175
+Time:                        15:20:28   Log-Likelihood:                 24.701
+No. Observations:                  21   AIC:                            -39.40
+Df Residuals:                      16   BIC:                            -34.18
+Df Model:                           4                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      12.4227      0.079    157.415      0.000      12.268      12.577
+C(qtr)[T.2]     0.0168      0.043      0.389      0.697      -0.068       0.102
+C(qtr)[T.3]    -0.0176      0.039     -0.446      0.656      -0.095       0.060
+C(qtr)[T.4]    -0.0630      0.025     -2.474      0.013      -0.113      -0.013
+r60            -0.0642      0.011     -5.646      0.000      -0.086      -0.042
+==============================================================================
+Omnibus:                        0.351   Durbin-Watson:                   0.862
+Prob(Omnibus):                  0.839   Jarque-Bera (JB):                0.006
+Skew:                           0.042   Prob(JB):                        0.997
+Kurtosis:                       2.992   Cond. No.                         44.9
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+
+### Jeep sales ~ loan rate, controlling for industry volume (excess sensitivity)
+log(units) ~ rate + log(industry units) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                     ly   R-squared:                       0.607
+Model:                            OLS   Adj. R-squared:                  0.476
+Method:                 Least Squares   F-statistic:                     10.79
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):           0.000152
+Time:                        15:20:28   Log-Likelihood:                 25.604
+No. Observations:                  21   AIC:                            -39.21
+Df Residuals:                      15   BIC:                            -32.94
+Df Model:                           5                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept      17.0459      3.839      4.440      0.000       9.521      24.571
+C(qtr)[T.2]     0.0766      0.065      1.181      0.238      -0.051       0.204
+C(qtr)[T.3]     0.0147      0.044      0.333      0.739      -0.072       0.101
+C(qtr)[T.4]    -0.0309      0.049     -0.631      0.528      -0.127       0.065
+r60            -0.0338      0.027     -1.240      0.215      -0.087       0.020
+lind           -0.5905      0.491     -1.204      0.229      -1.552       0.371
+==============================================================================
+Omnibus:                        0.333   Durbin-Watson:                   1.129
+Prob(Omnibus):                  0.846   Jarque-Bera (JB):                0.394
+Skew:                           0.254   Prob(JB):                        0.821
+Kurtosis:                       2.562   Cond. No.                     2.38e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+[2] The condition number is large, 2.38e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
+

@@ -1,0 +1,28 @@
+### STLA abnormal return on US sales-release days ~ sales growth vs industry
+CAR[0,+1] (market model vs SPY, est. window t-130..t-10) ~ (STLA YoY - industry YoY) pp; HC1
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:            car_0_1_pct   R-squared:                       0.029
+Model:                            OLS   Adj. R-squared:                 -0.040
+Method:                 Least Squares   F-statistic:                    0.2684
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.613
+Time:                        15:20:29   Log-Likelihood:                -43.410
+No. Observations:                  16   AIC:                             90.82
+Df Residuals:                      14   BIC:                             92.36
+Df Model:                           1                                         
+Covariance Type:                  HC1                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+Intercept      1.5095      1.804      0.837      0.403      -2.026       5.045
+surprise       0.0618      0.119      0.518      0.604      -0.172       0.296
+==============================================================================
+Omnibus:                        3.414   Durbin-Watson:                   2.693
+Prob(Omnibus):                  0.181   Jarque-Bera (JB):                1.259
+Skew:                           0.450   Prob(JB):                        0.533
+Kurtosis:                       4.038   Cond. No.                         17.8
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC1)
+

@@ -1,0 +1,791 @@
+brand,level,model,quarter,units
+Alfa Romeo,brand,Alfa Romeo,2021Q3,4529
+Alfa Romeo,brand,Alfa Romeo,2021Q4,4057
+Alfa Romeo,brand,Alfa Romeo,2022Q1,3291
+Alfa Romeo,brand,Alfa Romeo,2022Q2,3083
+Alfa Romeo,brand,Alfa Romeo,2022Q3,3440
+Alfa Romeo,brand,Alfa Romeo,2022Q4,3031
+Alfa Romeo,brand,Alfa Romeo,2023Q1,2390
+Alfa Romeo,brand,Alfa Romeo,2023Q2,2311
+Alfa Romeo,brand,Alfa Romeo,2023Q3,2889
+Alfa Romeo,brand,Alfa Romeo,2023Q4,3308
+Alfa Romeo,brand,Alfa Romeo,2024Q1,2285
+Alfa Romeo,brand,Alfa Romeo,2024Q2,2492
+Alfa Romeo,brand,Alfa Romeo,2024Q3,2049
+Alfa Romeo,brand,Alfa Romeo,2024Q4,2039
+Alfa Romeo,brand,Alfa Romeo,2025Q1,1952
+Alfa Romeo,brand,Alfa Romeo,2025Q2,1212
+Alfa Romeo,brand,Alfa Romeo,2025Q3,1614
+Alfa Romeo,brand,Alfa Romeo,2025Q4,874
+Alfa Romeo,brand,Alfa Romeo,2026Q1,919
+Alfa Romeo,brand,Alfa Romeo,2026Q2,828
+Alfa Romeo,brand,Alfa Romeo,2026Q3,569
+Chrysler,brand,Chrysler,2021Q3,15502
+Chrysler,brand,Chrysler,2021Q4,40865
+Chrysler,brand,Chrysler,2022Q1,29113
+Chrysler,brand,Chrysler,2022Q2,36934
+Chrysler,brand,Chrysler,2022Q3,21614
+Chrysler,brand,Chrysler,2022Q4,25052
+Chrysler,brand,Chrysler,2023Q1,31899
+Chrysler,brand,Chrysler,2023Q2,49144
+Chrysler,brand,Chrysler,2023Q3,42315
+Chrysler,brand,Chrysler,2023Q4,10371
+Chrysler,brand,Chrysler,2024Q1,34806
+Chrysler,brand,Chrysler,2024Q2,39766
+Chrysler,brand,Chrysler,2024Q3,22482
+Chrysler,brand,Chrysler,2024Q4,27629
+Chrysler,brand,Chrysler,2025Q1,35069
+Chrysler,brand,Chrysler,2025Q2,23175
+Chrysler,brand,Chrysler,2025Q3,32489
+Chrysler,brand,Chrysler,2025Q4,35640
+Chrysler,brand,Chrysler,2026Q1,25423
+Chrysler,brand,Chrysler,2026Q2,41710
+Chrysler,brand,Chrysler,2026Q3,34494
+Dodge,brand,Dodge,2021Q3,49059
+Dodge,brand,Dodge,2021Q4,40363
+Dodge,brand,Dodge,2022Q1,41043
+Dodge,brand,Dodge,2022Q2,43718
+Dodge,brand,Dodge,2022Q3,59756
+Dodge,brand,Dodge,2022Q4,46278
+Dodge,brand,Dodge,2023Q1,50975
+Dodge,brand,Dodge,2023Q2,59752
+Dodge,brand,Dodge,2023Q3,46217
+Dodge,brand,Dodge,2023Q4,42514
+Dodge,brand,Dodge,2024Q1,42948
+Dodge,brand,Dodge,2024Q2,49787
+Dodge,brand,Dodge,2024Q3,26559
+Dodge,brand,Dodge,2024Q4,22436
+Dodge,brand,Dodge,2025Q1,21731
+Dodge,brand,Dodge,2025Q2,25747
+Dodge,brand,Dodge,2025Q3,26120
+Dodge,brand,Dodge,2025Q4,28326
+Dodge,brand,Dodge,2026Q1,22693
+Dodge,brand,Dodge,2026Q2,21818
+Dodge,brand,Dodge,2026Q3,26546
+Fiat,brand,Fiat,2021Q3,401
+Fiat,brand,Fiat,2021Q4,267
+Fiat,brand,Fiat,2022Q1,340
+Fiat,brand,Fiat,2022Q2,249
+Fiat,brand,Fiat,2022Q3,208
+Fiat,brand,Fiat,2022Q4,118
+Fiat,brand,Fiat,2023Q1,138
+Fiat,brand,Fiat,2023Q2,144
+Fiat,brand,Fiat,2023Q3,145
+Fiat,brand,Fiat,2023Q4,178
+Fiat,brand,Fiat,2024Q1,154
+Fiat,brand,Fiat,2024Q2,316
+Fiat,brand,Fiat,2024Q3,316
+Fiat,brand,Fiat,2024Q4,742
+Fiat,brand,Fiat,2025Q1,522
+Fiat,brand,Fiat,2025Q2,394
+Fiat,brand,Fiat,2025Q3,321
+Fiat,brand,Fiat,2025Q4,84
+Fiat,brand,Fiat,2026Q1,155
+Fiat,brand,Fiat,2026Q2,82
+Fiat,brand,Fiat,2026Q3,54
+Jeep,brand,Jeep,2021Q3,196687
+Jeep,brand,Jeep,2021Q4,174040
+Jeep,brand,Jeep,2022Q1,193281
+Jeep,brand,Jeep,2022Q2,186665
+Jeep,brand,Jeep,2022Q3,161351
+Jeep,brand,Jeep,2022Q4,143317
+Jeep,brand,Jeep,2023Q1,154203
+Jeep,brand,Jeep,2023Q2,181284
+Jeep,brand,Jeep,2023Q3,154619
+Jeep,brand,Jeep,2023Q4,152818
+Jeep,brand,Jeep,2024Q1,157039
+Jeep,brand,Jeep,2024Q2,147147
+Jeep,brand,Jeep,2024Q3,144963
+Jeep,brand,Jeep,2024Q4,138576
+Jeep,brand,Jeep,2025Q1,140583
+Jeep,brand,Jeep,2025Q2,148832
+Jeep,brand,Jeep,2025Q3,160564
+Jeep,brand,Jeep,2025Q4,143428
+Jeep,brand,Jeep,2026Q1,144552
+Jeep,brand,Jeep,2026Q2,140699
+Jeep,brand,Jeep,2026Q3,128542
+Ram,brand,Ram,2021Q3,144740
+Ram,brand,Ram,2021Q4,151921
+Ram,brand,Ram,2022Q1,138153
+Ram,brand,Ram,2022Q2,137872
+Ram,brand,Ram,2022Q3,139296
+Ram,brand,Ram,2022Q4,129873
+Ram,brand,Ram,2023Q1,128722
+Ram,brand,Ram,2023Q2,142013
+Ram,brand,Ram,2023Q3,134378
+Ram,brand,Ram,2023Q4,134363
+Ram,brand,Ram,2024Q1,95308
+Ram,brand,Ram,2024Q2,105485
+Ram,brand,Ram,2024Q3,108925
+Ram,brand,Ram,2024Q4,129321
+Ram,brand,Ram,2025Q1,93368
+Ram,brand,Ram,2025Q2,110616
+Ram,brand,Ram,2025Q3,103717
+Ram,brand,Ram,2025Q4,123969
+Ram,brand,Ram,2026Q1,112160
+Ram,brand,Ram,2026Q2,123147
+Ram,brand,Ram,2026Q3,134072
+Stellantis,brand,Stellantis,2021Q3,410918
+Stellantis,brand,Stellantis,2021Q4,411513
+Stellantis,brand,Stellantis,2022Q1,405221
+Stellantis,brand,Stellantis,2022Q2,408521
+Stellantis,brand,Stellantis,2022Q3,385665
+Stellantis,brand,Stellantis,2022Q4,347669
+Stellantis,brand,Stellantis,2023Q1,368327
+Stellantis,brand,Stellantis,2023Q2,434648
+Stellantis,brand,Stellantis,2023Q3,380563
+Stellantis,brand,Stellantis,2023Q4,343552
+Stellantis,brand,Stellantis,2024Q1,332540
+Stellantis,brand,Stellantis,2024Q2,344993
+Stellantis,brand,Stellantis,2024Q3,305294
+Stellantis,brand,Stellantis,2024Q4,320743
+Stellantis,brand,Stellantis,2025Q1,293225
+Stellantis,brand,Stellantis,2025Q2,309976
+Stellantis,brand,Stellantis,2025Q3,324825
+Stellantis,brand,Stellantis,2025Q4,332321
+Stellantis,brand,Stellantis,2026Q1,305902
+Stellantis,brand,Stellantis,2026Q3,324277
+Alfa Romeo,model,4C,2021Q3,9
+Alfa Romeo,model,4C,2021Q4,1
+Alfa Romeo,model,4C,2022Q1,1
+Alfa Romeo,model,4C,2022Q2,0
+Alfa Romeo,model,4C,2022Q3,0
+Alfa Romeo,model,4C,2022Q4,0
+Alfa Romeo,model,4C,2023Q1,0
+Alfa Romeo,model,4C,2023Q2,1
+Alfa Romeo,model,4C,2023Q3,0
+Alfa Romeo,model,4C,2023Q4,0
+Alfa Romeo,model,4C,2024Q1,0
+Alfa Romeo,model,4C,2024Q2,0
+Alfa Romeo,model,4C,2024Q3,0
+Alfa Romeo,model,4C,2024Q4,0
+Alfa Romeo,model,4C,2025Q1,0
+Alfa Romeo,model,4C,2025Q2,0
+Alfa Romeo,model,4C,2025Q3,0
+Alfa Romeo,model,4C,2025Q4,0
+Alfa Romeo,model,Giulia,2021Q3,1830
+Alfa Romeo,model,Giulia,2021Q4,1520
+Alfa Romeo,model,Giulia,2022Q1,1145
+Alfa Romeo,model,Giulia,2022Q2,1179
+Alfa Romeo,model,Giulia,2022Q3,1338
+Alfa Romeo,model,Giulia,2022Q4,1430
+Alfa Romeo,model,Giulia,2023Q1,966
+Alfa Romeo,model,Giulia,2023Q2,865
+Alfa Romeo,model,Giulia,2023Q3,863
+Alfa Romeo,model,Giulia,2023Q4,767
+Alfa Romeo,model,Giulia,2024Q1,640
+Alfa Romeo,model,Giulia,2024Q2,656
+Alfa Romeo,model,Giulia,2024Q3,428
+Alfa Romeo,model,Giulia,2024Q4,596
+Alfa Romeo,model,Giulia,2025Q1,541
+Alfa Romeo,model,Giulia,2025Q2,341
+Alfa Romeo,model,Giulia,2025Q3,286
+Alfa Romeo,model,Giulia,2025Q4,198
+Alfa Romeo,model,Giulia,2026Q1,252
+Alfa Romeo,model,Giulia,2026Q2,267
+Alfa Romeo,model,Giulia,2026Q3,151
+Alfa Romeo,model,Stellantis,2026Q2,328284
+Alfa Romeo,model,Stelvio,2021Q3,2690
+Alfa Romeo,model,Stelvio,2021Q4,2536
+Alfa Romeo,model,Stelvio,2022Q1,2145
+Alfa Romeo,model,Stelvio,2022Q2,1904
+Alfa Romeo,model,Stelvio,2022Q3,2102
+Alfa Romeo,model,Stelvio,2022Q4,1601
+Alfa Romeo,model,Stelvio,2023Q1,1424
+Alfa Romeo,model,Stelvio,2023Q2,1328
+Alfa Romeo,model,Stelvio,2023Q3,1280
+Alfa Romeo,model,Stelvio,2023Q4,1308
+Alfa Romeo,model,Stelvio,2024Q1,917
+Alfa Romeo,model,Stelvio,2024Q2,949
+Alfa Romeo,model,Stelvio,2024Q3,499
+Alfa Romeo,model,Stelvio,2024Q4,797
+Alfa Romeo,model,Stelvio,2025Q1,686
+Alfa Romeo,model,Stelvio,2025Q2,440
+Alfa Romeo,model,Stelvio,2025Q3,375
+Alfa Romeo,model,Stelvio,2025Q4,371
+Alfa Romeo,model,Stelvio,2026Q1,429
+Alfa Romeo,model,Stelvio,2026Q2,305
+Alfa Romeo,model,Stelvio,2026Q3,219
+Alfa Romeo,model,Tonale,2022Q2,0
+Alfa Romeo,model,Tonale,2022Q3,0
+Alfa Romeo,model,Tonale,2022Q4,0
+Alfa Romeo,model,Tonale,2023Q1,0
+Alfa Romeo,model,Tonale,2023Q2,117
+Alfa Romeo,model,Tonale,2023Q3,746
+Alfa Romeo,model,Tonale,2023Q4,1233
+Alfa Romeo,model,Tonale,2024Q1,728
+Alfa Romeo,model,Tonale,2024Q2,887
+Alfa Romeo,model,Tonale,2024Q3,1122
+Alfa Romeo,model,Tonale,2024Q4,646
+Alfa Romeo,model,Tonale,2025Q1,725
+Alfa Romeo,model,Tonale,2025Q2,431
+Alfa Romeo,model,Tonale,2025Q3,953
+Alfa Romeo,model,Tonale,2025Q4,305
+Alfa Romeo,model,Tonale,2026Q1,238
+Alfa Romeo,model,Tonale,2026Q2,256
+Alfa Romeo,model,Tonale,2026Q3,199
+Chrysler,model,200,2021Q3,2
+Chrysler,model,200,2021Q4,10
+Chrysler,model,200,2022Q1,2
+Chrysler,model,200,2022Q2,0
+Chrysler,model,200,2022Q3,0
+Chrysler,model,200,2022Q4,0
+Chrysler,model,200,2023Q1,0
+Chrysler,model,200,2023Q2,1
+Chrysler,model,200,2023Q3,0
+Chrysler,model,200,2023Q4,3
+Chrysler,model,200,2024Q1,-1
+Chrysler,model,200,2024Q3,0
+Chrysler,model,300,2021Q3,3569
+Chrysler,model,300,2021Q4,2031
+Chrysler,model,300,2022Q1,2745
+Chrysler,model,300,2022Q2,4837
+Chrysler,model,300,2022Q3,4175
+Chrysler,model,300,2022Q4,2330
+Chrysler,model,300,2023Q1,2989
+Chrysler,model,300,2023Q2,4208
+Chrysler,model,300,2023Q3,3962
+Chrysler,model,300,2023Q4,2010
+Chrysler,model,300,2024Q1,1693
+Chrysler,model,300,2024Q2,1998
+Chrysler,model,300,2024Q3,978
+Chrysler,model,300,2024Q4,626
+Chrysler,model,300,2025Q1,341
+Chrysler,model,300,2025Q2,147
+Chrysler,model,300,2025Q3,71
+Chrysler,model,300,2025Q4,15
+Chrysler,model,Pacifica,2021Q3,11931
+Chrysler,model,Pacifica,2021Q4,38821
+Chrysler,model,Pacifica,2022Q1,26366
+Chrysler,model,Pacifica,2022Q2,32097
+Chrysler,model,Pacifica,2022Q3,17439
+Chrysler,model,Pacifica,2022Q4,22722
+Chrysler,model,Pacifica,2023Q1,28910
+Chrysler,model,Pacifica,2023Q2,44935
+Chrysler,model,Pacifica,2023Q3,38353
+Chrysler,model,Pacifica,2023Q4,8356
+Chrysler,model,Pacifica,2024Q1,33114
+Chrysler,model,Pacifica,2024Q2,37768
+Chrysler,model,Pacifica,2024Q3,21504
+Chrysler,model,Pacifica,2024Q4,25737
+Chrysler,model,Pacifica,2025Q1,32409
+Chrysler,model,Pacifica,2025Q2,17926
+Chrysler,model,Pacifica,2025Q3,28029
+Chrysler,model,Pacifica,2025Q4,31642
+Chrysler,model,Pacifica,2026Q1,21804
+Chrysler,model,Pacifica,2026Q2,41704
+Chrysler,model,Pacifica,2026Q3,34491
+Chrysler,model,Town & Country,2022Q4,0
+Chrysler,model,Town & Country,2023Q1,0
+Chrysler,model,Town & Country,2023Q3,0
+Chrysler,model,Town & Country,2023Q4,2
+Chrysler,model,Town & Country,2024Q1,0
+Chrysler,model,Town & Country,2024Q3,0
+Chrysler,model,Town & Country,2024Q4,0
+Chrysler,model,Town & Country,2025Q1,0
+Chrysler,model,Voyager,2023Q4,0
+Chrysler,model,Voyager,2024Q1,0
+Chrysler,model,Voyager,2024Q2,0
+Chrysler,model,Voyager,2024Q3,0
+Chrysler,model,Voyager,2024Q4,1266
+Chrysler,model,Voyager,2025Q1,2319
+Chrysler,model,Voyager,2025Q2,5102
+Chrysler,model,Voyager,2025Q3,4388
+Chrysler,model,Voyager,2025Q4,3983
+Chrysler,model,Voyager,2026Q1,3612
+Dodge,model,Caravan,2021Q3,89
+Dodge,model,Caravan,2021Q4,81
+Dodge,model,Caravan,2022Q1,18
+Dodge,model,Caravan,2022Q2,3
+Dodge,model,Caravan,2022Q3,5
+Dodge,model,Caravan,2022Q4,1
+Dodge,model,Caravan,2023Q1,1
+Dodge,model,Caravan,2023Q2,1
+Dodge,model,Caravan,2023Q3,0
+Dodge,model,Caravan,2023Q4,25
+Dodge,model,Caravan,2024Q1,2
+Dodge,model,Caravan,2024Q2,0
+Dodge,model,Caravan,2024Q3,0
+Dodge,model,Caravan,2024Q4,0
+Dodge,model,Caravan,2025Q1,0
+Dodge,model,Caravan,2025Q2,1
+Dodge,model,Caravan,2025Q3,8
+Dodge,model,Caravan,2025Q4,0
+Dodge,model,Challenger,2021Q3,13994
+Dodge,model,Challenger,2021Q4,10172
+Dodge,model,Challenger,2022Q1,11124
+Dodge,model,Challenger,2022Q2,14558
+Dodge,model,Challenger,2022Q3,16412
+Dodge,model,Challenger,2022Q4,12966
+Dodge,model,Challenger,2023Q1,11371
+Dodge,model,Challenger,2023Q2,12904
+Dodge,model,Challenger,2023Q3,11075
+Dodge,model,Challenger,2023Q4,9610
+Dodge,model,Challenger,2024Q1,9737
+Dodge,model,Challenger,2024Q2,11480
+Dodge,model,Challenger,2024Q3,3657
+Dodge,model,Challenger,2024Q4,2182
+Dodge,model,Challenger,2025Q1,922
+Dodge,model,Challenger,2025Q2,579
+Dodge,model,Challenger,2025Q3,222
+Dodge,model,Challenger,2025Q4,77
+Dodge,model,Challenger,2026Q1,45
+Dodge,model,Challenger,2026Q2,38
+Dodge,model,Charger BEV,2024Q1,0
+Dodge,model,Charger BEV,2024Q2,0
+Dodge,model,Charger BEV,2024Q3,0
+Dodge,model,Charger BEV,2024Q4,0
+Dodge,model,Charger BEV,2025Q1,1947
+Dodge,model,Charger BEV,2025Q2,2352
+Dodge,model,Charger BEV,2025Q3,2776
+Dodge,model,Charger BEV,2025Q4,346
+Dodge,model,Charger BEV,2026Q1,240
+Dodge,model,Charger BEV,2026Q2,294
+Dodge,model,Charger BEV,2026Q3,233
+Dodge,model,Charger ICE,2021Q3,19395
+Dodge,model,Charger ICE,2021Q4,16891
+Dodge,model,Charger ICE,2022Q1,15439
+Dodge,model,Charger ICE,2022Q2,23020
+Dodge,model,Charger ICE,2022Q3,24201
+Dodge,model,Charger ICE,2022Q4,17414
+Dodge,model,Charger ICE,2023Q1,22128
+Dodge,model,Charger ICE,2023Q2,24604
+Dodge,model,Charger ICE,2023Q3,16915
+Dodge,model,Charger ICE,2023Q4,12273
+Dodge,model,Charger ICE,2024Q1,10660
+Dodge,model,Charger ICE,2024Q2,16216
+Dodge,model,Charger ICE,2024Q3,5104
+Dodge,model,Charger ICE,2024Q4,2774
+Dodge,model,Charger ICE,2025Q1,1052
+Dodge,model,Charger ICE,2025Q2,575
+Dodge,model,Charger ICE,2025Q3,238
+Dodge,model,Charger ICE,2025Q4,273
+Dodge,model,Charger ICE,2026Q1,1672
+Dodge,model,Charger ICE,2026Q2,2911
+Dodge,model,Charger ICE,2026Q3,3446
+Dodge,model,Dart,2021Q3,3
+Dodge,model,Dart,2021Q4,5
+Dodge,model,Dart,2022Q1,1
+Dodge,model,Dart,2022Q2,0
+Dodge,model,Dart,2022Q3,3
+Dodge,model,Dart,2022Q4,0
+Dodge,model,Dart,2023Q1,0
+Dodge,model,Dart,2023Q2,0
+Dodge,model,Dart,2023Q3,0
+Dodge,model,Dart,2023Q4,3
+Dodge,model,Dart,2024Q1,0
+Dodge,model,Dart,2024Q2,0
+Dodge,model,Dart,2024Q3,1
+Dodge,model,Dart,2024Q4,0
+Dodge,model,Dart,2025Q1,0
+Dodge,model,Dart,2025Q2,0
+Dodge,model,Dart,2025Q3,6
+Dodge,model,Dart,2025Q4,0
+Dodge,model,Durango,2021Q3,14516
+Dodge,model,Durango,2021Q4,13004
+Dodge,model,Durango,2022Q1,14349
+Dodge,model,Durango,2022Q2,6090
+Dodge,model,Durango,2022Q3,19104
+Dodge,model,Durango,2022Q4,15890
+Dodge,model,Durango,2023Q1,17467
+Dodge,model,Durango,2023Q2,19642
+Dodge,model,Durango,2023Q3,16473
+Dodge,model,Durango,2023Q4,15614
+Dodge,model,Durango,2024Q1,15129
+Dodge,model,Durango,2024Q2,17792
+Dodge,model,Durango,2024Q3,13949
+Dodge,model,Durango,2024Q4,12487
+Dodge,model,Durango,2025Q1,13701
+Dodge,model,Durango,2025Q2,20698
+Dodge,model,Durango,2025Q3,20018
+Dodge,model,Durango,2025Q4,26751
+Dodge,model,Durango,2026Q1,20300
+Dodge,model,Durango,2026Q2,18275
+Dodge,model,Durango,2026Q3,22755
+Dodge,model,Hornet,2022Q2,0
+Dodge,model,Hornet,2022Q3,0
+Dodge,model,Hornet,2022Q4,0
+Dodge,model,Hornet,2023Q1,22
+Dodge,model,Hornet,2023Q2,2597
+Dodge,model,Hornet,2023Q3,1753
+Dodge,model,Hornet,2023Q4,4964
+Dodge,model,Hornet,2024Q1,7419
+Dodge,model,Hornet,2024Q2,4299
+Dodge,model,Hornet,2024Q3,3848
+Dodge,model,Hornet,2024Q4,4993
+Dodge,model,Hornet,2025Q1,4108
+Dodge,model,Hornet,2025Q2,1539
+Dodge,model,Hornet,2025Q3,2839
+Dodge,model,Hornet,2025Q4,879
+Dodge,model,Hornet,2026Q1,417
+Dodge,model,Hornet,2026Q2,300
+Dodge,model,Hornet,2026Q3,85
+Dodge,model,Journey,2021Q3,1062
+Dodge,model,Journey,2021Q4,208
+Dodge,model,Journey,2022Q1,111
+Dodge,model,Journey,2022Q2,45
+Dodge,model,Journey,2022Q3,31
+Dodge,model,Journey,2022Q4,7
+Dodge,model,Journey,2023Q1,8
+Dodge,model,Journey,2023Q2,4
+Dodge,model,Journey,2023Q3,1
+Dodge,model,Journey,2023Q4,23
+Dodge,model,Journey,2024Q1,0
+Dodge,model,Journey,2024Q2,0
+Dodge,model,Journey,2024Q3,0
+Dodge,model,Journey,2024Q4,0
+Dodge,model,Journey,2025Q1,1
+Dodge,model,Journey,2025Q2,3
+Dodge,model,Journey,2025Q3,13
+Dodge,model,Journey,2025Q4,0
+Dodge,model,Viper,2021Q3,0
+Dodge,model,Viper,2021Q4,2
+Dodge,model,Viper,2022Q3,0
+Dodge,model,Viper,2022Q4,0
+Dodge,model,Viper,2023Q1,0
+Dodge,model,Viper,2023Q3,0
+Dodge,model,Viper,2023Q4,2
+Dodge,model,Viper,2024Q1,1
+Dodge,model,Viper,2024Q2,0
+Dodge,model,Viper,2024Q3,0
+Dodge,model,Viper,2024Q4,0
+Dodge,model,Viper,2025Q1,0
+Dodge,model,Viper,2025Q2,0
+Dodge,model,Viper,2025Q3,0
+Dodge,model,Viper,2025Q4,0
+Fiat,model,500,2021Q3,6
+Fiat,model,500,2021Q4,33
+Fiat,model,500,2022Q1,1
+Fiat,model,500,2022Q2,0
+Fiat,model,500,2022Q3,7
+Fiat,model,500,2022Q4,0
+Fiat,model,500,2023Q1,0
+Fiat,model,500,2023Q2,1
+Fiat,model,500,2023Q3,1
+Fiat,model,500,2023Q4,14
+Fiat,model,500,2024Q1,41
+Fiat,model,500,2024Q2,163
+Fiat,model,500,2024Q3,235
+Fiat,model,500,2024Q4,531
+Fiat,model,500,2025Q1,448
+Fiat,model,500,2025Q2,340
+Fiat,model,500,2025Q3,288
+Fiat,model,500,2025Q4,66
+Fiat,model,500L,2021Q3,24
+Fiat,model,500L,2021Q4,13
+Fiat,model,500L,2022Q1,1
+Fiat,model,500L,2022Q2,2
+Fiat,model,500L,2022Q3,5
+Fiat,model,500L,2022Q4,0
+Fiat,model,500L,2023Q1,3
+Fiat,model,500L,2023Q2,0
+Fiat,model,500L,2023Q3,0
+Fiat,model,500L,2023Q4,4
+Fiat,model,500L,2024Q1,0
+Fiat,model,500L,2024Q2,0
+Fiat,model,500L,2024Q3,0
+Fiat,model,500L,2024Q4,0
+Fiat,model,500L,2025Q1,0
+Fiat,model,500L,2025Q2,0
+Fiat,model,500L,2025Q3,2
+Fiat,model,500L,2025Q4,0
+Fiat,model,500X,2021Q3,312
+Fiat,model,500X,2021Q4,201
+Fiat,model,500X,2022Q1,333
+Fiat,model,500X,2022Q2,245
+Fiat,model,500X,2022Q3,179
+Fiat,model,500X,2022Q4,118
+Fiat,model,500X,2023Q1,135
+Fiat,model,500X,2023Q2,143
+Fiat,model,500X,2023Q3,144
+Fiat,model,500X,2023Q4,132
+Fiat,model,500X,2024Q1,113
+Fiat,model,500X,2024Q2,153
+Fiat,model,500X,2024Q3,81
+Fiat,model,500X,2024Q4,211
+Fiat,model,500X,2025Q1,74
+Fiat,model,500X,2025Q2,53
+Fiat,model,500X,2025Q3,31
+Fiat,model,500X,2025Q4,18
+Fiat,model,500X,2026Q1,71
+Fiat,model,500X,2026Q3,2
+Fiat,model,500e,2025Q1,448
+Fiat,model,500e,2025Q2,340
+Fiat,model,500e,2025Q3,288
+Fiat,model,500e,2026Q1,68
+Fiat,model,500e,2026Q2,81
+Fiat,model,500e,2026Q3,52
+Fiat,model,Spider,2021Q3,59
+Fiat,model,Spider,2021Q4,20
+Fiat,model,Spider,2022Q1,5
+Fiat,model,Spider,2022Q2,2
+Fiat,model,Spider,2022Q3,17
+Fiat,model,Spider,2022Q4,0
+Fiat,model,Spider,2023Q1,0
+Fiat,model,Spider,2023Q2,0
+Fiat,model,Spider,2023Q3,0
+Fiat,model,Spider,2023Q4,28
+Fiat,model,Spider,2024Q1,0
+Fiat,model,Spider,2024Q2,0
+Fiat,model,Spider,2024Q3,0
+Fiat,model,Spider,2024Q4,0
+Fiat,model,Spider,2025Q1,0
+Fiat,model,Spider,2025Q2,1
+Fiat,model,Spider,2025Q3,0
+Jeep,model,Cherokee,2021Q3,11592
+Jeep,model,Cherokee,2021Q4,10376
+Jeep,model,Cherokee,2022Q1,10079
+Jeep,model,Cherokee,2022Q2,9278
+Jeep,model,Cherokee,2022Q3,11495
+Jeep,model,Cherokee,2022Q4,9470
+Jeep,model,Cherokee,2023Q1,13213
+Jeep,model,Cherokee,2023Q2,6006
+Jeep,model,Cherokee,2023Q3,3798
+Jeep,model,Cherokee,2023Q4,1592
+Jeep,model,Cherokee,2024Q1,1196
+Jeep,model,Cherokee,2024Q2,969
+Jeep,model,Cherokee,2024Q3,435
+Jeep,model,Cherokee,2024Q4,239
+Jeep,model,Cherokee,2025Q1,156
+Jeep,model,Cherokee,2025Q2,101
+Jeep,model,Cherokee,2025Q3,180
+Jeep,model,Cherokee,2025Q4,90
+Jeep,model,Cherokee,2026Q1,2489
+Jeep,model,Cherokee,2026Q2,8112
+Jeep,model,Cherokee,2026Q3,10344
+Jeep,model,Compass,2021Q3,23875
+Jeep,model,Compass,2021Q4,17613
+Jeep,model,Compass,2022Q1,24408
+Jeep,model,Compass,2022Q2,21927
+Jeep,model,Compass,2022Q3,20631
+Jeep,model,Compass,2022Q4,19209
+Jeep,model,Compass,2023Q1,23209
+Jeep,model,Compass,2023Q2,28083
+Jeep,model,Compass,2023Q3,20268
+Jeep,model,Compass,2023Q4,24613
+Jeep,model,Compass,2024Q1,27647
+Jeep,model,Compass,2024Q2,22195
+Jeep,model,Compass,2024Q3,34632
+Jeep,model,Compass,2024Q4,27223
+Jeep,model,Compass,2025Q1,31730
+Jeep,model,Compass,2025Q2,23104
+Jeep,model,Compass,2025Q3,28086
+Jeep,model,Compass,2025Q4,19077
+Jeep,model,Compass,2026Q1,18573
+Jeep,model,Compass,2026Q2,18453
+Jeep,model,Compass,2026Q3,10811
+Jeep,model,Gladiator,2021Q3,22674
+Jeep,model,Gladiator,2021Q4,18254
+Jeep,model,Gladiator,2022Q1,17912
+Jeep,model,Gladiator,2022Q2,20845
+Jeep,model,Gladiator,2022Q3,21511
+Jeep,model,Gladiator,2022Q4,17587
+Jeep,model,Gladiator,2023Q1,13575
+Jeep,model,Gladiator,2023Q2,13751
+Jeep,model,Gladiator,2023Q3,14202
+Jeep,model,Gladiator,2023Q4,13660
+Jeep,model,Gladiator,2024Q1,12989
+Jeep,model,Gladiator,2024Q2,10489
+Jeep,model,Gladiator,2024Q3,9192
+Jeep,model,Gladiator,2024Q4,9453
+Jeep,model,Gladiator,2025Q1,12057
+Jeep,model,Gladiator,2025Q2,13343
+Jeep,model,Gladiator,2025Q3,13113
+Jeep,model,Gladiator,2025Q4,18277
+Jeep,model,Gladiator,2026Q1,10087
+Jeep,model,Gladiator,2026Q2,8946
+Jeep,model,Gladiator,2026Q3,11911
+Jeep,model,Grand Cherokee,2021Q3,81803
+Jeep,model,Grand Cherokee,2021Q4,74717
+Jeep,model,Grand Cherokee,2022Q1,75117
+Jeep,model,Grand Cherokee,2022Q2,59252
+Jeep,model,Grand Cherokee,2022Q3,38176
+Jeep,model,Grand Cherokee,2022Q4,50800
+Jeep,model,Grand Cherokee,2023Q1,54502
+Jeep,model,Grand Cherokee,2023Q2,70454
+Jeep,model,Grand Cherokee,2023Q3,57915
+Jeep,model,Grand Cherokee,2023Q4,61723
+Jeep,model,Grand Cherokee,2024Q1,54455
+Jeep,model,Grand Cherokee,2024Q2,52296
+Jeep,model,Grand Cherokee,2024Q3,54188
+Jeep,model,Grand Cherokee,2024Q4,55209
+Jeep,model,Grand Cherokee,2025Q1,48465
+Jeep,model,Grand Cherokee,2025Q2,51203
+Jeep,model,Grand Cherokee,2025Q3,54553
+Jeep,model,Grand Cherokee,2025Q4,55861
+Jeep,model,Grand Cherokee,2026Q1,53482
+Jeep,model,Grand Cherokee,2026Q2,48255
+Jeep,model,Grand Cherokee,2026Q3,38027
+Jeep,model,Patriot,2022Q4,0
+Jeep,model,Patriot,2023Q1,0
+Jeep,model,Patriot,2023Q3,0
+Jeep,model,Patriot,2023Q4,1
+Jeep,model,Patriot,2024Q1,0
+Jeep,model,Patriot,2024Q2,0
+Jeep,model,Patriot,2024Q3,0
+Jeep,model,Patriot,2024Q4,0
+Jeep,model,Patriot,2025Q2,1
+Jeep,model,Recon,2024Q4,0
+Jeep,model,Recon,2025Q2,3
+Jeep,model,Recon,2025Q3,14
+Jeep,model,Recon,2025Q4,22
+Jeep,model,Recon,2026Q2,27
+Jeep,model,Recon,2026Q3,35
+Jeep,model,Renegade,2021Q3,10663
+Jeep,model,Renegade,2021Q4,5180
+Jeep,model,Renegade,2022Q1,9990
+Jeep,model,Renegade,2022Q2,7263
+Jeep,model,Renegade,2022Q3,6523
+Jeep,model,Renegade,2022Q4,3773
+Jeep,model,Renegade,2023Q1,4129
+Jeep,model,Renegade,2023Q2,5020
+Jeep,model,Renegade,2023Q3,6412
+Jeep,model,Renegade,2023Q4,10450
+Jeep,model,Renegade,2024Q1,5763
+Jeep,model,Renegade,2024Q2,1563
+Jeep,model,Renegade,2024Q3,450
+Jeep,model,Renegade,2024Q4,664
+Jeep,model,Renegade,2025Q1,370
+Jeep,model,Renegade,2025Q2,220
+Jeep,model,Renegade,2025Q3,104
+Jeep,model,Renegade,2025Q4,27
+Jeep,model,Renegade,2026Q1,23
+Jeep,model,Renegade,2026Q2,10
+Jeep,model,Wagoneer S,2023Q3,0
+Jeep,model,Wagoneer S,2023Q4,0
+Jeep,model,Wagoneer S,2024Q1,0
+Jeep,model,Wagoneer S,2024Q2,22
+Jeep,model,Wagoneer S,2024Q3,76
+Jeep,model,Wagoneer S,2024Q4,133
+Jeep,model,Wagoneer S,2025Q1,2595
+Jeep,model,Wagoneer S,2025Q2,3668
+Jeep,model,Wagoneer S,2025Q3,4163
+Jeep,model,Wagoneer S,2025Q4,438
+Jeep,model,Wagoneer S,2026Q1,175
+Jeep,model,Wagoneer S,2026Q2,198
+Jeep,model,Wagoneer S,2026Q3,146
+Jeep,model,Wagoneer family,2021Q3,33
+Jeep,model,Wagoneer family,2021Q4,7991
+Jeep,model,Wagoneer family,2022Q1,10224
+Jeep,model,Wagoneer family,2022Q2,14152
+Jeep,model,Wagoneer family,2022Q3,15354
+Jeep,model,Wagoneer family,2022Q4,8225
+Jeep,model,Wagoneer family,2023Q1,7604
+Jeep,model,Wagoneer family,2023Q2,11299
+Jeep,model,Wagoneer family,2023Q3,10115
+Jeep,model,Wagoneer family,2023Q4,10749
+Jeep,model,Wagoneer family,2024Q1,16681
+Jeep,model,Wagoneer family,2024Q2,20717
+Jeep,model,Wagoneer family,2024Q3,10116
+Jeep,model,Wagoneer family,2024Q4,7570
+Jeep,model,Wagoneer family,2025Q1,7249
+Jeep,model,Wagoneer family,2025Q2,9523
+Jeep,model,Wagoneer family,2025Q3,17900
+Jeep,model,Wagoneer family,2025Q4,10368
+Jeep,model,Wagoneer family,2026Q1,15242
+Jeep,model,Wagoneer family,2026Q2,14905
+Jeep,model,Wagoneer family,2026Q3,12495
+Jeep,model,Wrangler,2021Q3,46044
+Jeep,model,Wrangler,2021Q4,39900
+Jeep,model,Wrangler,2022Q1,45551
+Jeep,model,Wrangler,2022Q2,53946
+Jeep,model,Wrangler,2022Q3,47659
+Jeep,model,Wrangler,2022Q4,34253
+Jeep,model,Wrangler,2023Q1,37971
+Jeep,model,Wrangler,2023Q2,46671
+Jeep,model,Wrangler,2023Q3,41909
+Jeep,model,Wrangler,2023Q4,30030
+Jeep,model,Wrangler,2024Q1,38308
+Jeep,model,Wrangler,2024Q2,38896
+Jeep,model,Wrangler,2024Q3,35874
+Jeep,model,Wrangler,2024Q4,38085
+Jeep,model,Wrangler,2025Q1,37961
+Jeep,model,Wrangler,2025Q2,47669
+Jeep,model,Wrangler,2025Q3,42450
+Jeep,model,Wrangler,2025Q4,39268
+Jeep,model,Wrangler,2026Q1,44461
+Jeep,model,Wrangler,2026Q2,41793
+Jeep,model,Wrangler,2026Q3,44757
+Ram,model,ProMaster City,2021Q3,2868
+Ram,model,ProMaster City,2021Q4,3118
+Ram,model,ProMaster City,2022Q1,1709
+Ram,model,ProMaster City,2022Q2,4044
+Ram,model,ProMaster City,2022Q3,4448
+Ram,model,ProMaster City,2022Q4,5713
+Ram,model,ProMaster City,2023Q1,5678
+Ram,model,ProMaster City,2023Q2,4114
+Ram,model,ProMaster City,2023Q3,2541
+Ram,model,ProMaster City,2023Q4,554
+Ram,model,ProMaster City,2024Q1,38
+Ram,model,ProMaster City,2024Q2,7
+Ram,model,ProMaster City,2024Q3,4
+Ram,model,ProMaster City,2024Q4,1
+Ram,model,ProMaster City,2025Q1,1
+Ram,model,ProMaster City,2025Q2,0
+Ram,model,ProMaster City,2025Q3,18
+Ram,model,ProMaster City,2025Q4,1
+Ram,model,ProMaster City,2026Q3,1
+Ram,model,ProMaster Van,2021Q3,20168
+Ram,model,ProMaster Van,2021Q4,14184
+Ram,model,ProMaster Van,2022Q1,9328
+Ram,model,ProMaster Van,2022Q2,15961
+Ram,model,ProMaster Van,2022Q3,16742
+Ram,model,ProMaster Van,2022Q4,18905
+Ram,model,ProMaster Van,2023Q1,17694
+Ram,model,ProMaster Van,2023Q2,20200
+Ram,model,ProMaster Van,2023Q3,22446
+Ram,model,ProMaster Van,2023Q4,21323
+Ram,model,ProMaster Van,2024Q1,5853
+Ram,model,ProMaster Van,2024Q2,15369
+Ram,model,ProMaster Van,2024Q3,19781
+Ram,model,ProMaster Van,2024Q4,24866
+Ram,model,ProMaster Van,2025Q1,14519
+Ram,model,ProMaster Van,2025Q2,15144
+Ram,model,ProMaster Van,2025Q3,15633
+Ram,model,ProMaster Van,2025Q4,12295
+Ram,model,ProMaster Van,2026Q1,13735
+Ram,model,ProMaster Van,2026Q2,13981
+Ram,model,ProMaster Van,2026Q3,16314
+Ram,model,Ram HD PU,2024Q1,36386
+Ram,model,Ram HD PU,2024Q2,45704
+Ram,model,Ram HD PU,2024Q3,48875
+Ram,model,Ram HD PU,2024Q4,55142
+Ram,model,Ram HD PU,2025Q1,31781
+Ram,model,Ram HD PU,2025Q2,43624
+Ram,model,Ram HD PU,2025Q3,43717
+Ram,model,Ram HD PU,2025Q4,50798
+Ram,model,Ram HD PU,2026Q1,38597
+Ram,model,Ram HD PU,2026Q2,43497
+Ram,model,Ram HD PU,2026Q3,41107
+Ram,model,Ram LD PU,2024Q1,53031
+Ram,model,Ram LD PU,2024Q2,44405
+Ram,model,Ram LD PU,2024Q3,40265
+Ram,model,Ram LD PU,2024Q4,49312
+Ram,model,Ram LD PU,2025Q1,47067
+Ram,model,Ram LD PU,2025Q2,51848
+Ram,model,Ram LD PU,2025Q3,44349
+Ram,model,Ram LD PU,2025Q4,60875
+Ram,model,Ram LD PU,2026Q1,59828
+Ram,model,Ram LD PU,2026Q2,65669
+Ram,model,Ram LD PU,2026Q3,76650
+Ram,model,Ram PU (total),2021Q3,121704
+Ram,model,Ram PU (total),2021Q4,134616
+Ram,model,Ram PU (total),2022Q1,127116
+Ram,model,Ram PU (total),2022Q2,117867
+Ram,model,Ram PU (total),2022Q3,118106
+Ram,model,Ram PU (total),2022Q4,105255
+Ram,model,Ram PU (total),2023Q1,105350
+Ram,model,Ram PU (total),2023Q2,117699
+Ram,model,Ram PU (total),2023Q3,109391
+Ram,model,Ram PU (total),2023Q4,112486
+Ram,model,Ram PU (total),2024Q1,89417
+Ram,model,Ram PU (total),2024Q2,90109
+Ram,model,Ram PU (total),2024Q3,89140
+Ram,model,Ram PU (total),2024Q4,104454
+Ram,model,Ram PU (total),2025Q1,78848
+Ram,model,Ram PU (total),2025Q2,95472
+Ram,model,Ram PU (total),2025Q3,88066
+Ram,model,Ram PU (total),2025Q4,111673
+Ram,model,Ram PU (total),2026Q1,98425
+Ram,model,Ram PU (total),2026Q2,109166
+Ram,model,Ram PU (total),2026Q3,117757

@@ -1,0 +1,56 @@
+### NA revenue per unit (USD k) ~ Ram share of US sales (half-years 2021-2026)
+NA net revenue x EURUSD / NA shipments ~ Ram % of Stellantis US sales; HC1
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     rev_per_unit_usd_k   R-squared:                       0.119
+Model:                            OLS   Adj. R-squared:                  0.009
+Method:                 Least Squares   F-statistic:                     1.085
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.328
+Time:                        15:20:29   Log-Likelihood:                -16.960
+No. Observations:                  10   AIC:                             37.92
+Df Residuals:                       8   BIC:                             38.52
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+Intercept       55.1171      6.971      7.907      0.000      39.042      71.192
+ram_share_us    -0.2065      0.198     -1.042      0.328      -0.664       0.251
+==============================================================================
+Omnibus:                        0.089   Durbin-Watson:                   2.239
+Prob(Omnibus):                  0.956   Jarque-Bera (JB):                0.308
+Skew:                           0.083   Prob(JB):                        0.857
+Kurtosis:                       2.156   Cond. No.                         526.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+
+### NA revenue per unit (USD k) ~ Ram share of US sales (quarters 2025Q1-2026Q3)
+NA net revenue x EURUSD / NA shipments ~ Ram % of Stellantis US sales; HC1
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     rev_per_unit_usd_k   R-squared:                       0.397
+Model:                            OLS   Adj. R-squared:                  0.277
+Method:                 Least Squares   F-statistic:                     3.297
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):              0.129
+Time:                        15:20:29   Log-Likelihood:                -10.980
+No. Observations:                   7   AIC:                             25.96
+Df Residuals:                       5   BIC:                             25.85
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+================================================================================
+                   coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------
+Intercept       36.9538      6.075      6.083      0.002      21.337      52.571
+ram_share_us     0.3050      0.168      1.816      0.129      -0.127       0.737
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                   1.592
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                0.485
+Skew:                          -0.610   Prob(JB):                        0.785
+Kurtosis:                       2.582   Cond. No.                         423.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+

@@ -1,0 +1,490 @@
+model,model_year,n_powertrains,powertrains,has_hev,has_phev,has_ev,has_v8,has_diesel
+Wrangler,2018,1,ICE_3.6L_6cyl,0,0,0,0,0
+Wrangler,2019,2,HEV_2.0L_4cyl;ICE_3.6L_6cyl,1,0,0,0,0
+Wrangler,2020,5,Diesel_3.0L_6cyl;HEV_2.0L_4cyl;HEV_3.6L_6cyl;ICE_2.0L_4cyl;ICE_3.6L_6cyl,1,0,0,0,1
+Wrangler,2021,6,Diesel_3.0L_6cyl;HEV_3.6L_6cyl;ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.4L_8cyl;PHEV_2.0L_4cyl,1,1,0,1,1
+Wrangler,2022,6,Diesel_3.0L_6cyl;HEV_3.6L_6cyl;ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.4L_8cyl;PHEV_2.0L_4cyl,1,1,0,1,1
+Wrangler,2023,6,Diesel_3.0L_6cyl;HEV_3.6L_6cyl;ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.4L_8cyl;PHEV_2.0L_4cyl,1,1,0,1,1
+Wrangler,2024,4,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.4L_8cyl;PHEV_2.0L_4cyl,0,1,0,1,0
+Wrangler,2025,4,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.4L_8cyl;PHEV_2.0L_4cyl,0,1,0,1,0
+Wrangler,2026,4,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.4L_8cyl;PHEV_2.0L_4cyl,0,1,0,1,0
+Wrangler,2027,3,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Gladiator,2020,1,ICE_3.6L_6cyl,0,0,0,0,0
+Gladiator,2021,2,Diesel_3.0L_6cyl;ICE_3.6L_6cyl,0,0,0,0,1
+Gladiator,2022,2,Diesel_3.0L_6cyl;ICE_3.6L_6cyl,0,0,0,0,1
+Gladiator,2023,2,Diesel_3.0L_6cyl;ICE_3.6L_6cyl,0,0,0,0,1
+Gladiator,2024,1,ICE_3.6L_6cyl,0,0,0,0,0
+Gladiator,2025,1,ICE_3.6L_6cyl,0,0,0,0,0
+Gladiator,2026,1,ICE_3.6L_6cyl,0,0,0,0,0
+Gladiator,2027,1,ICE_3.6L_6cyl,0,0,0,0,0
+Grand Cherokee,2018,5,Diesel_3.0L_6cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,1
+Grand Cherokee,2019,5,Diesel_3.0L_6cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,1
+Grand Cherokee,2020,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Grand Cherokee,2021,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Grand Cherokee,2022,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;PHEV_2.0L_4cyl,0,1,0,1,0
+Grand Cherokee,2023,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;PHEV_2.0L_4cyl,0,1,0,1,0
+Grand Cherokee,2024,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;PHEV_2.0L_4cyl,0,1,0,1,0
+Grand Cherokee,2025,2,ICE_3.6L_6cyl;PHEV_2.0L_4cyl,0,1,0,0,0
+Grand Cherokee,2026,3,ICE_2.0L_4cyl;ICE_3.6L_6cyl;PHEV_2.0L_4cyl,0,1,0,0,0
+Grand Cherokee,2027,2,ICE_2.0L_4cyl;ICE_3.6L_6cyl,0,0,0,0,0
+Cherokee,2018,2,ICE_2.4L_4cyl;ICE_3.2L_6cyl,0,0,0,0,0
+Cherokee,2019,3,ICE_2.0L_4cyl;ICE_2.4L_4cyl;ICE_3.2L_6cyl,0,0,0,0,0
+Cherokee,2020,3,ICE_2.0L_4cyl;ICE_2.4L_4cyl;ICE_3.2L_6cyl,0,0,0,0,0
+Cherokee,2021,3,ICE_2.0L_4cyl;ICE_2.4L_4cyl;ICE_3.2L_6cyl,0,0,0,0,0
+Cherokee,2022,3,ICE_2.0L_4cyl;ICE_2.4L_4cyl;ICE_3.2L_6cyl,0,0,0,0,0
+Cherokee,2023,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Cherokee,2026,1,HEV_1.6L_4cyl,1,0,0,0,0
+Compass,2018,1,ICE_2.4L_4cyl,0,0,0,0,0
+Compass,2019,1,ICE_2.4L_4cyl,0,0,0,0,0
+Compass,2020,1,ICE_2.4L_4cyl,0,0,0,0,0
+Compass,2021,1,ICE_2.4L_4cyl,0,0,0,0,0
+Compass,2022,1,ICE_2.4L_4cyl,0,0,0,0,0
+Compass,2023,1,ICE_2.0L_4cyl,0,0,0,0,0
+Compass,2024,1,ICE_2.0L_4cyl,0,0,0,0,0
+Compass,2025,1,ICE_2.0L_4cyl,0,0,0,0,0
+Compass,2026,1,ICE_2.0L_4cyl,0,0,0,0,0
+Compass,2027,1,ICE_2.0L_4cyl,0,0,0,0,0
+Renegade,2018,2,ICE_1.4L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Renegade,2019,2,ICE_1.3L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Renegade,2020,2,ICE_1.3L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Renegade,2021,2,ICE_1.3L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Renegade,2022,1,ICE_1.3L_4cyl,0,0,0,0,0
+Renegade,2023,1,ICE_1.3L_4cyl,0,0,0,0,0
+Wagoneer family,2022,3,HEV_5.7L_8cyl;ICE_3.0L_6cyl;ICE_6.4L_8cyl,1,0,0,1,0
+Wagoneer family,2023,3,HEV_5.7L_8cyl;ICE_3.0L_6cyl;ICE_6.4L_8cyl,1,0,0,1,0
+Wagoneer family,2024,2,ICE_3.0L_6cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Wagoneer family,2025,1,ICE_3.0L_6cyl,0,0,0,0,0
+Wagoneer family,2026,1,ICE_3.0L_6cyl,0,0,0,0,0
+Wagoneer family,2027,1,ICE_3.0L_6cyl,0,0,0,0,0
+Wagoneer S,2024,1,EV_0.0L_0cyl,0,0,1,0,0
+Wagoneer S,2025,1,EV_0.0L_0cyl,0,0,1,0,0
+Wagoneer S,2026,1,EV_0.0L_0cyl,0,0,1,0,0
+Recon,2026,1,EV_0.0L_0cyl,0,0,1,0,0
+Ram LD PU,2018,3,Diesel_3.0L_6cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl,0,0,0,1,1
+Ram LD PU,2019,5,Diesel_3.0L_6cyl;HEV_3.6L_6cyl;HEV_5.7L_8cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl,1,0,0,1,1
+Ram LD PU,2020,5,Diesel_3.0L_6cyl;HEV_3.6L_6cyl;HEV_5.7L_8cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl,1,0,0,1,1
+Ram LD PU,2021,6,Diesel_3.0L_6cyl;HEV_3.6L_6cyl;HEV_5.7L_8cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl,1,0,0,1,1
+Ram LD PU,2022,6,Diesel_3.0L_6cyl;HEV_3.6L_6cyl;HEV_5.7L_8cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl,1,0,0,1,1
+Ram LD PU,2023,6,Diesel_3.0L_6cyl;HEV_3.6L_6cyl;HEV_5.7L_8cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl,1,0,0,1,1
+Ram LD PU,2024,5,HEV_3.6L_6cyl;HEV_5.7L_8cyl;ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl,1,0,0,1,0
+Ram LD PU,2025,2,HEV_3.6L_6cyl;ICE_3.0L_6cyl,1,0,0,0,0
+Ram LD PU,2026,4,HEV_3.6L_6cyl;HEV_5.7L_8cyl;ICE_3.0L_6cyl;ICE_6.2L_8cyl,1,0,0,1,0
+Ram LD PU,2027,5,HEV_3.6L_6cyl;HEV_5.7L_8cyl;ICE_3.0L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl,1,0,0,1,0
+Durango,2018,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Durango,2019,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Durango,2020,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Durango,2021,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Durango,2022,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Durango,2023,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Durango,2024,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Durango,2025,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Durango,2026,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Durango,2027,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Hornet,2023,1,ICE_2.0L_4cyl,0,0,0,0,0
+Hornet,2024,2,ICE_2.0L_4cyl;PHEV_1.3L_4cyl,0,1,0,0,0
+Hornet,2025,2,ICE_2.0L_4cyl;PHEV_1.3L_4cyl,0,1,0,0,0
+Charger ICE,2018,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Charger ICE,2019,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Charger ICE,2020,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Charger ICE,2021,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Charger ICE,2022,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Charger ICE,2023,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Charger ICE,2026,1,ICE_3.0L_6cyl,0,0,0,0,0
+Charger BEV,2024,1,EV_0.0L_0cyl,0,0,1,0,0
+Charger BEV,2025,1,EV_0.0L_0cyl,0,0,1,0,0
+Charger BEV,2026,1,EV_0.0L_0cyl,0,0,1,0,0
+Charger BEV,2027,1,EV_0.0L_0cyl,0,0,1,0,0
+Challenger,2018,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Challenger,2019,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Challenger,2020,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Challenger,2021,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Challenger,2022,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Challenger,2023,4,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.2L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Pacifica,2018,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2019,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2020,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2021,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2022,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2023,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2024,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2025,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2026,2,ICE_3.6L_6cyl;PHEV_3.6L_6cyl,0,1,0,0,0
+Pacifica,2027,1,ICE_3.6L_6cyl,0,0,0,0,0
+Voyager,2020,1,ICE_3.6L_6cyl,0,0,0,0,0
+Voyager,2021,1,ICE_3.6L_6cyl,0,0,0,0,0
+Voyager,2022,1,ICE_3.6L_6cyl,0,0,0,0,0
+Voyager,2023,1,ICE_3.6L_6cyl,0,0,0,0,0
+Voyager,2024,1,ICE_3.6L_6cyl,0,0,0,0,0
+Voyager,2025,1,ICE_3.6L_6cyl,0,0,0,0,0
+Voyager,2026,1,ICE_3.6L_6cyl,0,0,0,0,0
+300,2018,2,ICE_3.6L_6cyl;ICE_5.7L_8cyl,0,0,0,1,0
+300,2019,2,ICE_3.6L_6cyl;ICE_5.7L_8cyl,0,0,0,1,0
+300,2020,2,ICE_3.6L_6cyl;ICE_5.7L_8cyl,0,0,0,1,0
+300,2021,2,ICE_3.6L_6cyl;ICE_5.7L_8cyl,0,0,0,1,0
+300,2022,2,ICE_3.6L_6cyl;ICE_5.7L_8cyl,0,0,0,1,0
+300,2023,3,ICE_3.6L_6cyl;ICE_5.7L_8cyl;ICE_6.4L_8cyl,0,0,0,1,0
+Giulia,2018,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Giulia,2019,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Giulia,2020,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Giulia,2021,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Giulia,2022,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Giulia,2023,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Giulia,2024,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Giulia,2025,1,ICE_2.0L_4cyl,0,0,0,0,0
+Giulia,2026,1,ICE_2.0L_4cyl,0,0,0,0,0
+Stelvio,2018,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Stelvio,2019,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Stelvio,2020,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Stelvio,2021,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Stelvio,2022,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Stelvio,2023,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Stelvio,2024,2,ICE_2.0L_4cyl;ICE_2.9L_6cyl,0,0,0,0,0
+Stelvio,2025,1,ICE_2.0L_4cyl,0,0,0,0,0
+Stelvio,2026,1,ICE_2.0L_4cyl,0,0,0,0,0
+Tonale,2024,1,PHEV_1.3L_4cyl,0,1,0,0,0
+Tonale,2025,2,ICE_2.0L_4cyl;PHEV_1.3L_4cyl,0,1,0,0,0
+Tonale,2026,1,ICE_2.0L_4cyl,0,0,0,0,0
+500X,2019,1,ICE_1.3L_4cyl,0,0,0,0,0
+500X,2020,1,ICE_1.3L_4cyl,0,0,0,0,0
+500X,2021,1,ICE_1.3L_4cyl,0,0,0,0,0
+500X,2022,1,ICE_1.3L_4cyl,0,0,0,0,0
+500X,2023,1,ICE_1.3L_4cyl,0,0,0,0,0
+500e,2018,1,EV_0.0L_0cyl,0,0,1,0,0
+500e,2019,1,EV_0.0L_0cyl,0,0,1,0,0
+500e,2024,1,EV_0.0L_0cyl,0,0,1,0,0
+500e,2025,1,EV_0.0L_0cyl,0,0,1,0,0
+500e,2026,1,EV_0.0L_0cyl,0,0,1,0,0
+Ford F-Series,2018,5,Diesel_3.0L_6cyl;ICE_2.7L_6cyl;ICE_3.3L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl,0,0,0,1,1
+Ford F-Series,2019,5,Diesel_3.0L_6cyl;ICE_2.7L_6cyl;ICE_3.3L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl,0,0,0,1,1
+Ford F-Series,2020,5,Diesel_3.0L_6cyl;ICE_2.7L_6cyl;ICE_3.3L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl,0,0,0,1,1
+Ford F-Series,2021,6,Diesel_3.0L_6cyl;HEV_3.5L_6cyl;ICE_2.7L_6cyl;ICE_3.3L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl,1,0,0,1,1
+Ford F-Series,2022,5,HEV_3.5L_6cyl;ICE_2.7L_6cyl;ICE_3.3L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl,1,0,0,1,0
+Ford F-Series,2023,6,HEV_3.5L_6cyl;ICE_2.7L_6cyl;ICE_3.3L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl;ICE_5.2L_8cyl,1,0,0,1,0
+Ford F-Series,2024,5,HEV_3.5L_6cyl;ICE_2.7L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl;ICE_5.2L_8cyl,1,0,0,1,0
+Ford F-Series,2025,5,HEV_3.5L_6cyl;ICE_2.7L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl;ICE_5.2L_8cyl,1,0,0,1,0
+Ford F-Series,2026,5,HEV_3.5L_6cyl;ICE_2.7L_6cyl;ICE_3.5L_6cyl;ICE_5.0L_8cyl;ICE_5.2L_8cyl,1,0,0,1,0
+Chevrolet Silverado,2020,5,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_4.3L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Silverado,2021,5,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_4.3L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Silverado,2022,4,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Silverado,2023,4,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Silverado,2024,5,Diesel_3.0L_6cyl;EV_0.0L_0cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,1,1,1
+Chevrolet Silverado,2025,5,Diesel_3.0L_6cyl;EV_0.0L_0cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,1,1,1
+Chevrolet Silverado,2026,5,Diesel_3.0L_6cyl;EV_0.0L_0cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,1,1,1
+Chevrolet Silverado,2027,4,Diesel_3.0L_6cyl;EV_0.0L_0cyl;ICE_5.7L_8cyl;ICE_6.6L_8cyl,0,0,1,1,1
+GMC Sierra,2020,5,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_4.3L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Sierra,2021,5,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_4.3L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Sierra,2022,4,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Sierra,2023,4,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Sierra,2024,4,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Sierra,2025,5,Diesel_3.0L_6cyl;EV_0.0L_0cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,1,1,1
+GMC Sierra,2026,4,Diesel_3.0L_6cyl;ICE_2.7L_4cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Sierra,2027,4,Diesel_3.0L_6cyl;EV_0.0L_0cyl;ICE_5.7L_8cyl;ICE_6.6L_8cyl,0,0,1,1,1
+Toyota Tundra,2018,2,ICE_4.6L_8cyl;ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Tundra,2019,2,ICE_4.6L_8cyl;ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Tundra,2020,1,ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Tundra,2021,1,ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Tundra,2022,2,HEV_3.4L_6cyl;ICE_3.4L_6cyl,1,0,0,0,0
+Toyota Tundra,2023,2,HEV_3.4L_6cyl;ICE_3.4L_6cyl,1,0,0,0,0
+Toyota Tundra,2024,2,HEV_3.4L_6cyl;ICE_3.4L_6cyl,1,0,0,0,0
+Toyota Tundra,2025,2,HEV_3.4L_6cyl;ICE_3.4L_6cyl,1,0,0,0,0
+Toyota Tundra,2026,2,HEV_3.4L_6cyl;ICE_3.4L_6cyl,1,0,0,0,0
+Toyota Tacoma,2018,2,ICE_2.7L_4cyl;ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Tacoma,2019,2,ICE_2.7L_4cyl;ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Tacoma,2020,2,ICE_2.7L_4cyl;ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Tacoma,2021,2,ICE_2.7L_4cyl;ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Tacoma,2022,2,ICE_2.7L_4cyl;ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Tacoma,2023,2,ICE_2.7L_4cyl;ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Tacoma,2024,2,HEV_2.4L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota Tacoma,2025,2,HEV_2.4L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota Tacoma,2026,2,HEV_2.4L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Chevrolet Colorado,2018,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+Chevrolet Colorado,2019,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+Chevrolet Colorado,2020,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+Chevrolet Colorado,2021,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+Chevrolet Colorado,2022,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+Chevrolet Colorado,2023,1,ICE_2.7L_4cyl,0,0,0,0,0
+Chevrolet Colorado,2024,1,ICE_2.7L_4cyl,0,0,0,0,0
+Chevrolet Colorado,2025,1,ICE_2.7L_4cyl,0,0,0,0,0
+Chevrolet Colorado,2026,1,ICE_2.7L_4cyl,0,0,0,0,0
+Chevrolet Colorado,2027,1,ICE_2.7L_4cyl,0,0,0,0,0
+GMC Canyon,2018,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+GMC Canyon,2019,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+GMC Canyon,2020,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+GMC Canyon,2021,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+GMC Canyon,2022,3,Diesel_2.8L_4cyl;ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,1
+GMC Canyon,2023,1,ICE_2.7L_4cyl,0,0,0,0,0
+GMC Canyon,2024,1,ICE_2.7L_4cyl,0,0,0,0,0
+GMC Canyon,2025,1,ICE_2.7L_4cyl,0,0,0,0,0
+GMC Canyon,2026,1,ICE_2.7L_4cyl,0,0,0,0,0
+GMC Canyon,2027,1,ICE_2.7L_4cyl,0,0,0,0,0
+Ford Ranger,2019,1,ICE_2.3L_4cyl,0,0,0,0,0
+Ford Ranger,2020,1,ICE_2.3L_4cyl,0,0,0,0,0
+Ford Ranger,2021,1,ICE_2.3L_4cyl,0,0,0,0,0
+Ford Ranger,2022,1,ICE_2.3L_4cyl,0,0,0,0,0
+Ford Ranger,2023,1,ICE_2.3L_4cyl,0,0,0,0,0
+Ford Ranger,2024,3,ICE_2.3L_4cyl;ICE_2.7L_6cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Ford Ranger,2025,3,ICE_2.3L_4cyl;ICE_2.7L_6cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Ford Ranger,2026,3,ICE_2.3L_4cyl;ICE_2.7L_6cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Nissan Frontier,2018,2,ICE_2.5L_4cyl;ICE_4.0L_6cyl,0,0,0,0,0
+Nissan Frontier,2019,2,ICE_2.5L_4cyl;ICE_4.0L_6cyl,0,0,0,0,0
+Nissan Frontier,2020,1,ICE_3.8L_6cyl,0,0,0,0,0
+Nissan Frontier,2021,1,ICE_3.8L_6cyl,0,0,0,0,0
+Nissan Frontier,2022,1,ICE_3.8L_6cyl,0,0,0,0,0
+Nissan Frontier,2023,1,ICE_3.8L_6cyl,0,0,0,0,0
+Nissan Frontier,2024,1,ICE_3.8L_6cyl,0,0,0,0,0
+Nissan Frontier,2025,1,ICE_3.8L_6cyl,0,0,0,0,0
+Nissan Frontier,2026,1,ICE_3.8L_6cyl,0,0,0,0,0
+Nissan Frontier,2027,1,ICE_3.8L_6cyl,0,0,0,0,0
+Toyota RAV4,2018,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Toyota RAV4,2019,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Toyota RAV4,2020,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Toyota RAV4,2021,3,HEV_2.5L_4cyl;ICE_2.5L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Toyota RAV4,2022,3,HEV_2.5L_4cyl;ICE_2.5L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Toyota RAV4,2023,3,HEV_2.5L_4cyl;ICE_2.5L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Toyota RAV4,2024,3,HEV_2.5L_4cyl;ICE_2.5L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Toyota RAV4,2025,3,HEV_2.5L_4cyl;ICE_2.5L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Toyota RAV4,2026,1,HEV_2.5L_4cyl,1,0,0,0,0
+Honda CR-V,2018,2,ICE_1.5L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Honda CR-V,2019,2,ICE_1.5L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Honda CR-V,2020,2,HEV_2.0L_4cyl;ICE_1.5L_4cyl,1,0,0,0,0
+Honda CR-V,2021,2,HEV_2.0L_4cyl;ICE_1.5L_4cyl,1,0,0,0,0
+Honda CR-V,2022,2,HEV_2.0L_4cyl;ICE_1.5L_4cyl,1,0,0,0,0
+Honda CR-V,2023,2,HEV_2.0L_4cyl;ICE_1.5L_4cyl,1,0,0,0,0
+Honda CR-V,2024,2,HEV_2.0L_4cyl;ICE_1.5L_4cyl,1,0,0,0,0
+Honda CR-V,2025,3,HEV_2.0L_4cyl;ICE_0.0L_0cyl;ICE_1.5L_4cyl,1,0,0,0,0
+Honda CR-V,2026,3,HEV_2.0L_4cyl;ICE_0.0L_0cyl;ICE_1.5L_4cyl,1,0,0,0,0
+Honda CR-V,2027,2,HEV_2.0L_4cyl;ICE_1.5L_4cyl,1,0,0,0,0
+Nissan Rogue,2018,2,HEV_2.0L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Nissan Rogue,2019,2,HEV_2.0L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Nissan Rogue,2020,1,ICE_2.5L_4cyl,0,0,0,0,0
+Nissan Rogue,2021,2,ICE_1.5L_3cyl;ICE_2.5L_4cyl,0,0,0,0,0
+Nissan Rogue,2022,1,ICE_1.5L_3cyl,0,0,0,0,0
+Nissan Rogue,2023,1,ICE_1.5L_3cyl,0,0,0,0,0
+Nissan Rogue,2024,1,ICE_1.5L_3cyl,0,0,0,0,0
+Nissan Rogue,2025,1,ICE_1.5L_3cyl,0,0,0,0,0
+Nissan Rogue,2026,1,ICE_1.5L_3cyl,0,0,0,0,0
+Nissan Rogue,2027,1,ICE_1.5L_3cyl,0,0,0,0,0
+Ford Escape,2018,3,ICE_1.5L_4cyl;ICE_2.0L_4cyl;ICE_2.5L_4cyl,0,0,0,0,0
+Ford Escape,2019,3,ICE_1.5L_4cyl;ICE_2.0L_4cyl;ICE_2.5L_4cyl,0,0,0,0,0
+Ford Escape,2020,4,HEV_2.5L_4cyl;ICE_1.5L_3cyl;ICE_2.0L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Ford Escape,2021,4,HEV_2.5L_4cyl;ICE_1.5L_3cyl;ICE_2.0L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Ford Escape,2022,4,HEV_2.5L_4cyl;ICE_1.5L_3cyl;ICE_2.0L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Ford Escape,2023,4,HEV_2.5L_4cyl;ICE_1.5L_3cyl;ICE_2.0L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Ford Escape,2024,3,HEV_2.5L_4cyl;ICE_1.5L_3cyl;ICE_2.0L_4cyl,1,0,0,0,0
+Ford Escape,2025,4,HEV_2.5L_4cyl;ICE_1.5L_3cyl;ICE_2.0L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Ford Escape,2026,4,HEV_2.5L_4cyl;ICE_1.5L_3cyl;ICE_2.0L_4cyl;PHEV_2.5L_4cyl,1,1,0,0,0
+Chevrolet Equinox,2018,3,Diesel_1.6L_4cyl;ICE_1.5L_4cyl;ICE_2.0L_4cyl,0,0,0,0,1
+Chevrolet Equinox,2019,3,Diesel_1.6L_4cyl;ICE_1.5L_4cyl;ICE_2.0L_4cyl,0,0,0,0,1
+Chevrolet Equinox,2020,2,ICE_1.5L_4cyl;ICE_2.0L_4cyl,0,0,0,0,0
+Chevrolet Equinox,2021,1,ICE_1.5L_4cyl,0,0,0,0,0
+Chevrolet Equinox,2022,1,ICE_1.5L_4cyl,0,0,0,0,0
+Chevrolet Equinox,2023,1,ICE_1.5L_4cyl,0,0,0,0,0
+Chevrolet Equinox,2024,2,EV_0.0L_0cyl;ICE_1.5L_4cyl,0,0,1,0,0
+Chevrolet Equinox,2025,2,EV_0.0L_0cyl;ICE_1.5L_4cyl,0,0,1,0,0
+Chevrolet Equinox,2026,2,EV_0.0L_0cyl;ICE_1.5L_4cyl,0,0,1,0,0
+Chevrolet Equinox,2027,2,EV_0.0L_0cyl;ICE_1.5L_4cyl,0,0,1,0,0
+Hyundai Tucson,2018,3,ICE_1.6L_4cyl;ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Hyundai Tucson,2019,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Hyundai Tucson,2020,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Hyundai Tucson,2021,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Hyundai Tucson,2022,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Hyundai Tucson,2023,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Hyundai Tucson,2024,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Hyundai Tucson,2025,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Hyundai Tucson,2026,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Kia Sportage,2018,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Kia Sportage,2019,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Kia Sportage,2020,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Kia Sportage,2021,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Kia Sportage,2022,2,ICE_2.0L_4cyl;ICE_2.4L_4cyl,0,0,0,0,0
+Kia Sportage,2023,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Kia Sportage,2024,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Kia Sportage,2025,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Kia Sportage,2026,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Kia Sportage,2027,3,HEV_1.6L_4cyl;ICE_2.5L_4cyl;PHEV_1.6L_4cyl,1,1,0,0,0
+Subaru Forester,2018,2,ICE_2.0L_4cyl;ICE_2.5L_4cyl,0,0,0,0,0
+Subaru Forester,2019,1,ICE_2.5L_4cyl,0,0,0,0,0
+Subaru Forester,2020,1,ICE_2.5L_4cyl,0,0,0,0,0
+Subaru Forester,2021,1,ICE_2.5L_4cyl,0,0,0,0,0
+Subaru Forester,2022,1,ICE_2.5L_4cyl,0,0,0,0,0
+Subaru Forester,2023,1,ICE_2.5L_4cyl,0,0,0,0,0
+Subaru Forester,2024,1,ICE_2.5L_4cyl,0,0,0,0,0
+Subaru Forester,2025,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Subaru Forester,2026,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Subaru Forester,2027,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Mazda CX-5,2018,2,Diesel_2.2L_4cyl;ICE_2.5L_4cyl,0,0,0,0,1
+Mazda CX-5,2019,2,Diesel_2.2L_4cyl;ICE_2.5L_4cyl,0,0,0,0,1
+Mazda CX-5,2020,1,ICE_2.5L_4cyl,0,0,0,0,0
+Mazda CX-5,2021,1,ICE_2.5L_4cyl,0,0,0,0,0
+Mazda CX-5,2022,1,ICE_2.5L_4cyl,0,0,0,0,0
+Mazda CX-5,2023,1,ICE_2.5L_4cyl,0,0,0,0,0
+Mazda CX-5,2024,1,ICE_2.5L_4cyl,0,0,0,0,0
+Mazda CX-5,2025,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Mazda CX-5,2026,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Ford Bronco Sport,2021,2,ICE_1.5L_3cyl;ICE_2.0L_4cyl,0,0,0,0,0
+Ford Bronco Sport,2022,2,ICE_1.5L_3cyl;ICE_2.0L_4cyl,0,0,0,0,0
+Ford Bronco Sport,2023,2,ICE_1.5L_3cyl;ICE_2.0L_4cyl,0,0,0,0,0
+Ford Bronco Sport,2024,2,ICE_1.5L_3cyl;ICE_2.0L_4cyl,0,0,0,0,0
+Ford Bronco Sport,2025,2,ICE_1.5L_3cyl;ICE_2.0L_4cyl,0,0,0,0,0
+Ford Bronco Sport,2026,2,ICE_1.5L_3cyl;ICE_2.0L_4cyl,0,0,0,0,0
+Ford Explorer,2018,2,ICE_2.3L_4cyl;ICE_3.5L_6cyl,0,0,0,0,0
+Ford Explorer,2019,2,ICE_2.3L_4cyl;ICE_3.5L_6cyl,0,0,0,0,0
+Ford Explorer,2020,4,HEV_3.3L_6cyl;ICE_2.3L_4cyl;ICE_3.0L_6cyl;ICE_3.3L_6cyl,1,0,0,0,0
+Ford Explorer,2021,4,HEV_3.3L_6cyl;ICE_2.3L_4cyl;ICE_3.0L_6cyl;ICE_3.3L_6cyl,1,0,0,0,0
+Ford Explorer,2022,4,HEV_3.3L_6cyl;ICE_2.3L_4cyl;ICE_3.0L_6cyl;ICE_3.3L_6cyl,1,0,0,0,0
+Ford Explorer,2023,4,HEV_3.3L_6cyl;ICE_2.3L_4cyl;ICE_3.0L_6cyl;ICE_3.3L_6cyl,1,0,0,0,0
+Ford Explorer,2024,3,ICE_2.3L_4cyl;ICE_3.0L_6cyl;ICE_3.3L_6cyl,0,0,0,0,0
+Ford Explorer,2025,2,ICE_2.3L_4cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Ford Explorer,2026,2,ICE_2.3L_4cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Ford Explorer,2027,2,ICE_2.3L_4cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Toyota Highlander,2018,3,HEV_3.5L_6cyl;ICE_2.7L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Toyota Highlander,2019,3,HEV_3.5L_6cyl;ICE_2.7L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Toyota Highlander,2020,2,HEV_2.5L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Toyota Highlander,2021,2,HEV_2.5L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Toyota Highlander,2022,2,HEV_2.5L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Toyota Highlander,2023,2,HEV_2.5L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota Highlander,2024,2,HEV_2.5L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota Highlander,2025,2,HEV_2.5L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota Highlander,2026,2,HEV_2.5L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota Grand Highlander,2024,3,HEV_2.4L_4cyl;HEV_2.5L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota Grand Highlander,2025,3,HEV_2.4L_4cyl;HEV_2.5L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota Grand Highlander,2026,3,HEV_2.4L_4cyl;HEV_2.5L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Chevrolet Traverse,2018,2,ICE_2.0L_4cyl;ICE_3.6L_6cyl,0,0,0,0,0
+Chevrolet Traverse,2019,2,ICE_2.0L_4cyl;ICE_3.6L_6cyl,0,0,0,0,0
+Chevrolet Traverse,2020,1,ICE_3.6L_6cyl,0,0,0,0,0
+Chevrolet Traverse,2021,1,ICE_3.6L_6cyl,0,0,0,0,0
+Chevrolet Traverse,2022,1,ICE_3.6L_6cyl,0,0,0,0,0
+Chevrolet Traverse,2023,1,ICE_3.6L_6cyl,0,0,0,0,0
+Chevrolet Traverse,2024,2,ICE_2.5L_4cyl;ICE_3.6L_6cyl,0,0,0,0,0
+Chevrolet Traverse,2025,1,ICE_2.5L_4cyl,0,0,0,0,0
+Chevrolet Traverse,2026,1,ICE_2.5L_4cyl,0,0,0,0,0
+Chevrolet Traverse,2027,1,ICE_2.5L_4cyl,0,0,0,0,0
+Kia Telluride,2020,1,ICE_3.8L_6cyl,0,0,0,0,0
+Kia Telluride,2021,1,ICE_3.8L_6cyl,0,0,0,0,0
+Kia Telluride,2022,1,ICE_3.8L_6cyl,0,0,0,0,0
+Kia Telluride,2023,1,ICE_3.8L_6cyl,0,0,0,0,0
+Kia Telluride,2024,1,ICE_3.8L_6cyl,0,0,0,0,0
+Kia Telluride,2025,1,ICE_3.8L_6cyl,0,0,0,0,0
+Kia Telluride,2027,2,HEV_2.5L_4cyl;ICE_2.5L_4cyl,1,0,0,0,0
+Hyundai Palisade,2020,1,ICE_3.8L_6cyl,0,0,0,0,0
+Hyundai Palisade,2021,1,ICE_3.8L_6cyl,0,0,0,0,0
+Hyundai Palisade,2022,1,ICE_3.8L_6cyl,0,0,0,0,0
+Hyundai Palisade,2023,1,ICE_3.8L_6cyl,0,0,0,0,0
+Hyundai Palisade,2024,1,ICE_3.8L_6cyl,0,0,0,0,0
+Hyundai Palisade,2025,1,ICE_3.8L_6cyl,0,0,0,0,0
+Hyundai Palisade,2026,2,HEV_2.5L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Hyundai Palisade,2027,2,HEV_2.5L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Honda Pilot,2018,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Pilot,2019,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Pilot,2020,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Pilot,2021,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Pilot,2022,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Pilot,2023,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Pilot,2024,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Pilot,2025,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Pilot,2026,1,ICE_3.5L_6cyl,0,0,0,0,0
+Toyota 4Runner,2018,1,ICE_4.0L_6cyl,0,0,0,0,0
+Toyota 4Runner,2019,1,ICE_4.0L_6cyl,0,0,0,0,0
+Toyota 4Runner,2020,1,ICE_4.0L_6cyl,0,0,0,0,0
+Toyota 4Runner,2021,1,ICE_4.0L_6cyl,0,0,0,0,0
+Toyota 4Runner,2022,1,ICE_4.0L_6cyl,0,0,0,0,0
+Toyota 4Runner,2023,1,ICE_4.0L_6cyl,0,0,0,0,0
+Toyota 4Runner,2024,1,ICE_4.0L_6cyl,0,0,0,0,0
+Toyota 4Runner,2025,2,HEV_2.4L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Toyota 4Runner,2026,2,HEV_2.4L_4cyl;ICE_2.4L_4cyl,1,0,0,0,0
+Ford Bronco,2021,2,ICE_2.3L_4cyl;ICE_2.7L_6cyl,0,0,0,0,0
+Ford Bronco,2022,3,ICE_2.3L_4cyl;ICE_2.7L_6cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Ford Bronco,2023,3,ICE_2.3L_4cyl;ICE_2.7L_6cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Ford Bronco,2024,3,ICE_2.3L_4cyl;ICE_2.7L_6cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Ford Bronco,2025,3,ICE_2.3L_4cyl;ICE_2.7L_6cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Ford Bronco,2026,3,ICE_2.3L_4cyl;ICE_2.7L_6cyl;ICE_3.0L_6cyl,0,0,0,0,0
+Chevrolet Tahoe,2018,2,ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Tahoe,2019,2,ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Tahoe,2020,2,ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Tahoe,2021,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Tahoe,2022,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Tahoe,2023,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Tahoe,2024,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Tahoe,2025,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Tahoe,2026,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Tahoe,2027,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Suburban,2018,1,ICE_5.3L_8cyl,0,0,0,1,0
+Chevrolet Suburban,2019,2,ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Suburban,2020,2,ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Suburban,2021,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Suburban,2022,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Suburban,2023,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Suburban,2024,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Suburban,2025,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Suburban,2026,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Chevrolet Suburban,2027,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Ford Expedition,2018,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2019,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2020,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2021,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2022,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2023,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2024,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2025,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2026,1,ICE_3.5L_6cyl,0,0,0,0,0
+Ford Expedition,2027,1,ICE_3.5L_6cyl,0,0,0,0,0
+GMC Yukon,2018,2,ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+GMC Yukon,2019,2,ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+GMC Yukon,2020,2,ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,0
+GMC Yukon,2021,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Yukon,2022,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Yukon,2023,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Yukon,2024,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Yukon,2025,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Yukon,2026,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+GMC Yukon,2027,3,Diesel_3.0L_6cyl;ICE_5.3L_8cyl;ICE_6.2L_8cyl,0,0,0,1,1
+Toyota Sequoia,2018,1,ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Sequoia,2019,1,ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Sequoia,2020,1,ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Sequoia,2021,1,ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Sequoia,2022,1,ICE_5.7L_8cyl,0,0,0,1,0
+Toyota Sequoia,2023,1,HEV_3.4L_6cyl,1,0,0,0,0
+Toyota Sequoia,2024,1,HEV_3.4L_6cyl,1,0,0,0,0
+Toyota Sequoia,2025,1,HEV_3.4L_6cyl,1,0,0,0,0
+Toyota Sequoia,2026,1,HEV_3.4L_6cyl,1,0,0,0,0
+Toyota Sienna,2018,1,ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Sienna,2019,1,ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Sienna,2020,1,ICE_3.5L_6cyl,0,0,0,0,0
+Toyota Sienna,2021,1,HEV_2.5L_4cyl,1,0,0,0,0
+Toyota Sienna,2022,1,HEV_2.5L_4cyl,1,0,0,0,0
+Toyota Sienna,2023,1,HEV_2.5L_4cyl,1,0,0,0,0
+Toyota Sienna,2024,1,HEV_2.5L_4cyl,1,0,0,0,0
+Toyota Sienna,2025,1,HEV_2.5L_4cyl,1,0,0,0,0
+Toyota Sienna,2026,1,HEV_2.5L_4cyl,1,0,0,0,0
+Honda Odyssey,2018,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2019,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2020,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2021,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2022,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2023,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2024,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2025,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2026,1,ICE_3.5L_6cyl,0,0,0,0,0
+Honda Odyssey,2027,1,ICE_3.5L_6cyl,0,0,0,0,0
+Kia Carnival,2022,1,ICE_3.5L_6cyl,0,0,0,0,0
+Kia Carnival,2023,1,ICE_3.5L_6cyl,0,0,0,0,0
+Kia Carnival,2024,1,ICE_3.5L_6cyl,0,0,0,0,0
+Kia Carnival,2025,2,HEV_1.6L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Kia Carnival,2026,2,HEV_1.6L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Kia Carnival,2027,2,HEV_1.6L_4cyl;ICE_3.5L_6cyl,1,0,0,0,0
+Ford Mustang,2018,2,ICE_2.3L_4cyl;ICE_5.0L_8cyl,0,0,0,1,0
+Ford Mustang,2019,2,ICE_2.3L_4cyl;ICE_5.0L_8cyl,0,0,0,1,0
+Ford Mustang,2020,2,ICE_2.3L_4cyl;ICE_5.0L_8cyl,0,0,0,1,0
+Ford Mustang,2021,2,ICE_2.3L_4cyl;ICE_5.0L_8cyl,0,0,0,1,0
+Ford Mustang,2022,2,ICE_2.3L_4cyl;ICE_5.0L_8cyl,0,0,0,1,0
+Ford Mustang,2023,2,ICE_2.3L_4cyl;ICE_5.0L_8cyl,0,0,0,1,0
+Ford Mustang,2024,2,ICE_2.3L_4cyl;ICE_5.0L_8cyl,0,0,0,1,0
+Ford Mustang,2025,3,ICE_2.3L_4cyl;ICE_5.0L_8cyl;ICE_5.2L_8cyl,0,0,0,1,0
+Ford Mustang,2026,3,ICE_2.3L_4cyl;ICE_5.0L_8cyl;ICE_5.2L_8cyl,0,0,0,1,0
+Chevrolet Camaro,2018,3,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Camaro,2019,3,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Camaro,2020,3,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Camaro,2021,3,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Camaro,2022,3,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Camaro,2023,3,ICE_2.0L_4cyl;ICE_3.6L_6cyl;ICE_6.2L_8cyl,0,0,0,1,0
+Chevrolet Camaro,2024,2,ICE_3.6L_6cyl;ICE_6.2L_8cyl,0,0,0,1,0

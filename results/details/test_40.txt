@@ -1,0 +1,62 @@
+### Stellantis US share ~ Stellantis brands' search share vs Ford+Toyota
+share% ~ search share% (Jeep+Dodge+Chrysler)/(those+Ford+Toyota) + quarter-of-year; HAC(2)
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  share   R-squared:                       0.661
+Model:                            OLS   Adj. R-squared:                  0.576
+Method:                 Least Squares   F-statistic:                     6.697
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):            0.00230
+Time:                        15:20:28   Log-Likelihood:                -29.782
+No. Observations:                  21   AIC:                             69.56
+Df Residuals:                      16   BIC:                             74.79
+Df Model:                           4                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept     -10.0958      4.260     -2.370      0.018     -18.445      -1.747
+C(qtr)[T.2]    -0.2351      0.408     -0.576      0.564      -1.035       0.565
+C(qtr)[T.3]    -0.3669      0.484     -0.757      0.449      -1.316       0.583
+C(qtr)[T.4]    -0.3483      0.413     -0.844      0.399      -1.157       0.461
+ss              0.6211      0.135      4.614      0.000       0.357       0.885
+==============================================================================
+Omnibus:                        1.667   Durbin-Watson:                   0.397
+Prob(Omnibus):                  0.434   Jarque-Bera (JB):                0.958
+Skew:                           0.025   Prob(JB):                        0.619
+Kurtosis:                       1.955   Cond. No.                         454.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+
+### Same, search share lagged one quarter
+
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  share   R-squared:                       0.624
+Model:                            OLS   Adj. R-squared:                  0.524
+Method:                 Least Squares   F-statistic:                     4.091
+Date:                Tue, 10 Nov 2026   Prob (F-statistic):             0.0195
+Time:                        15:20:28   Log-Likelihood:                -28.531
+No. Observations:                  20   AIC:                             67.06
+Df Residuals:                      15   BIC:                             72.04
+Df Model:                           4                                         
+Covariance Type:                  HAC                                         
+===============================================================================
+                  coef    std err          z      P>|z|      [0.025      0.975]
+-------------------------------------------------------------------------------
+Intercept     -10.2675      4.996     -2.055      0.040     -20.060      -0.475
+C(qtr)[T.2]    -0.0182      0.380     -0.048      0.962      -0.764       0.727
+C(qtr)[T.3]    -0.1960      0.533     -0.368      0.713      -1.240       0.848
+C(qtr)[T.4]    -0.6573      0.444     -1.481      0.139      -1.527       0.213
+ss_l1           0.6178      0.159      3.896      0.000       0.307       0.929
+==============================================================================
+Omnibus:                        3.042   Durbin-Watson:                   0.486
+Prob(Omnibus):                  0.219   Jarque-Bera (JB):                1.244
+Skew:                           0.057   Prob(JB):                        0.537
+Kurtosis:                       1.784   Cond. No.                         498.
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity and autocorrelation robust (HAC) using 2 lags and without small sample correction
+
