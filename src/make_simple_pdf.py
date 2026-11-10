@@ -99,12 +99,12 @@ def c_search_ram(ax):
     last_q = tr.index.max(); y0, k = int(last_q[:4]), int(last_q[-1]); nxt = f"{y0 + (k == 4)}Q{k % 4 + 1}"
     m = sm.OLS(d.s, sm.add_constant(d.t)).fit(); x = tr[last_q]
     pr = m.get_prediction(np.array([[1, x]])).summary_frame(alpha=0.2).iloc[0]
-    ax.vlines(x, pr.obs_ci_lower, pr.obs_ci_upper, color=ORANGE, lw=1.5, linestyles="--", zorder=2)
-    ax.hlines([pr.obs_ci_lower, pr.obs_ci_upper], x - 0.6, x + 0.6, color=ORANGE, lw=1.5, zorder=2)
-    ax.scatter([x], [pr["mean"]], marker="*", s=420, color=ORANGE, edgecolor=INK, linewidth=0.8, zorder=5)
-    ax.annotate(f"{qlab(nxt)} ESTIMATE (hypothetical)\n~{pr['mean']:.0f}k trucks\nlikely range {pr.obs_ci_lower:.0f}k-{pr.obs_ci_upper:.0f}k",
-                (x, pr["mean"]), xytext=(18, -95), textcoords="offset points", fontsize=8.5, color=INK, fontweight="bold",
-                arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.8))
+    # light, thin range + small hollow star so the real data stays readable; label sits in the empty lower-right corner
+    ax.vlines(x, pr.obs_ci_lower, pr.obs_ci_upper, color=ORANGE, lw=0.9, linestyles=(0, (3, 3)), alpha=0.55, zorder=1)
+    ax.hlines([pr.obs_ci_lower, pr.obs_ci_upper], x - 0.4, x + 0.4, color=ORANGE, lw=0.9, alpha=0.55, zorder=1)
+    ax.scatter([x], [pr["mean"]], marker="*", s=170, facecolor="none", edgecolor=ORANGE, linewidth=1.4, zorder=4)
+    ax.text(0.98, 0.04, f"\u2606 {qlab(nxt)} estimate (hypothetical): ~{pr['mean']:.0f}k\n   dashed line = likely range {pr.obs_ci_lower:.0f}k-{pr.obs_ci_upper:.0f}k",
+            transform=ax.transAxes, ha="right", va="bottom", fontsize=8, color=INK2)
     ESTIMATE.update(q=qlab(nxt), last=qlab(last_q), x=x, mean=pr["mean"], lo=pr.obs_ci_lower, hi=pr.obs_ci_upper)
     ax.set_xlabel('Google searches for "Ram 1500" in the PREVIOUS quarter (index, 100 = peak)'); ax.set_ylabel("Ram 1500 trucks sold this quarter (thousands)")
 
@@ -218,8 +218,9 @@ PAGES = [
   "Dots to the right = more searching last quarter. Higher dots = more trucks sold this quarter. The orange star is a "
   "HYPOTHETICAL estimate for Q4 2026 (not yet reported): Q3 2026 searches scored 85, which on the trend line points to about "
   "67,000 Ram 1500s; the dashed line is the likely range (about 59,000-75,000, 80% likely).",
-  "Moderate: the pattern is strong, but there are only 10 quarters. The star is a rough guide, not a forecast: it ignores "
-  "seasons, prices and supply. Searches for \"Ram Hemi\" specifically did NOT predict sales."),
+  "Moderate: only 10 quarters, and the star ignores seasons, prices and supply. Management (Oct 28, 2026) gives no Ram 1500 "
+  "number, but guides higher Q4 shipments than Q3, North America dealer stock back to its Dec 2025 level and stable pricing; "
+  "that fits strong Q4 retail sales, consistent with the star."),
  ("MODERATE", c_jeep_price, "When more people google \"Jeep price\", Jeep sales tend to drop the next quarter",
   "Each dot is a quarter. When a bigger share of Jeep searches were about price, Jeep sold fewer vehicles the next quarter, about "
   "10% fewer per extra point. That suggests shoppers balking at Jeep prices.",
