@@ -88,9 +88,24 @@ def c_engines(ax):
     ax.axhline(0, color=MUTED, lw=1); ax.set_ylabel("Typical sales change vs a year earlier (%)"); ax.grid(axis="x", visible=False)
 
 
+ESTIMATE = {}
+
+
 def c_search_ram(ax):
     tr = trends_q("hemi", "Ram 1500"); d = pd.DataFrame({"s": W["Ram LD PU"] / 1000, "t": tr.shift(1)}).dropna()
     dots(ax, d.t, d.s, [qlab(q) for q in d.index])
+    # hypothetical next quarter: latest complete quarter of searches -> next quarter's sales (not yet reported)
+    import statsmodels.api as sm
+    last_q = tr.index.max(); y0, k = int(last_q[:4]), int(last_q[-1]); nxt = f"{y0 + (k == 4)}Q{k % 4 + 1}"
+    m = sm.OLS(d.s, sm.add_constant(d.t)).fit(); x = tr[last_q]
+    pr = m.get_prediction(np.array([[1, x]])).summary_frame(alpha=0.2).iloc[0]
+    ax.vlines(x, pr.obs_ci_lower, pr.obs_ci_upper, color=ORANGE, lw=1.5, linestyles="--", zorder=2)
+    ax.hlines([pr.obs_ci_lower, pr.obs_ci_upper], x - 0.6, x + 0.6, color=ORANGE, lw=1.5, zorder=2)
+    ax.scatter([x], [pr["mean"]], marker="*", s=420, color=ORANGE, edgecolor=INK, linewidth=0.8, zorder=5)
+    ax.annotate(f"{qlab(nxt)} ESTIMATE (hypothetical)\n~{pr['mean']:.0f}k trucks\nlikely range {pr.obs_ci_lower:.0f}k-{pr.obs_ci_upper:.0f}k",
+                (x, pr["mean"]), xytext=(18, -95), textcoords="offset points", fontsize=8.5, color=INK, fontweight="bold",
+                arrowprops=dict(arrowstyle="-", color=MUTED, lw=0.8))
+    ESTIMATE.update(q=qlab(nxt), last=qlab(last_q), x=x, mean=pr["mean"], lo=pr.obs_ci_lower, hi=pr.obs_ci_upper)
     ax.set_xlabel('Google searches for "Ram 1500" in the PREVIOUS quarter (index, 100 = peak)'); ax.set_ylabel("Ram 1500 trucks sold this quarter (thousands)")
 
 
@@ -200,8 +215,11 @@ PAGES = [
  ("MODERATE", c_search_ram, "Google searches for \"Ram 1500\" give an early read on Ram 1500 sales",
   "Each dot is a quarter. When more people searched \"Ram 1500\", more Ram 1500 trucks were sold in the following quarter. This "
   "can be checked free each month, before Stellantis reports its sales.",
-  "Dots to the right = more searching last quarter. Higher dots = more trucks sold this quarter.",
-  "Moderate: the pattern is strong, but there are only 10 quarters. Searches for \"Ram Hemi\" specifically did NOT predict sales."),
+  "Dots to the right = more searching last quarter. Higher dots = more trucks sold this quarter. The orange star is a "
+  "HYPOTHETICAL estimate for Q4 2026 (not yet reported): Q3 2026 searches scored 85, which on the trend line points to about "
+  "67,000 Ram 1500s; the dashed line is the likely range (about 59,000-75,000, 80% likely).",
+  "Moderate: the pattern is strong, but there are only 10 quarters. The star is a rough guide, not a forecast: it ignores "
+  "seasons, prices and supply. Searches for \"Ram Hemi\" specifically did NOT predict sales."),
  ("MODERATE", c_jeep_price, "When more people google \"Jeep price\", Jeep sales tend to drop the next quarter",
   "Each dot is a quarter. When a bigger share of Jeep searches were about price, Jeep sold fewer vehicles the next quarter, about "
   "10% fewer per extra point. That suggests shoppers balking at Jeep prices.",
@@ -294,4 +312,7 @@ with PdfPages(CH := OUT / "charts" / "plain_language_report.pdf") as pdf:
     fig = plt.figure(figsize=(8.5, 11)); fig.text(0.08, 0.92, "How I would use this", fontsize=18, fontweight="bold", color=INK)
     fig.text(0.08, 0.87, "\n".join(textwrap.wrap(USE.split(". ", 1)[1], 85)), fontsize=11.5, va="top", color=INK, linespacing=1.55)
     pdf.savefig(fig); plt.close(fig)
-print("wrote", CH)
+fig, ax = plt.subplots(figsize=(8, 6.2)); c_search_ram(ax)
+ax.set_title('Google searches for "Ram 1500" give an early read on Ram 1500 sales', loc="left", fontsize=13, fontweight="bold", color=INK, pad=14)
+fig.tight_layout(); fig.savefig(OUT / "charts" / "ram1500_searches_with_estimate.png", dpi=200); plt.close(fig)
+print("wrote", CH, ESTIMATE)
