@@ -1,0 +1,9 @@
+model_year,complaints_12m,powertrain_complaints_12m,us_ld_sales_first_year,per_10k,powertrain_per_10k,pt_mention_hurricane,pt_mention_hemi
+2019,138,34,,,,0,1
+2020,25,10,,,,0,0
+2021,47,26,,,,0,3
+2022,30,22,,,,0,1
+2023,5,2,,,,0,0
+2024,17,9,,,,0,0
+2025,85,32,188492.0,4.51,1.7,2,1
+2026,66,7,230721.0,2.86,0.3,0,0

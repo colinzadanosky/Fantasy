@@ -1,3 +1,4 @@
-data/raw/
+data/raw/*
+!data/raw/listings/
 __pycache__/
 *.pyc
