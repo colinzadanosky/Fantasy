@@ -1,0 +1,22 @@
+month,entity,days_supply,basis,source_url,collected
+2025-12,Industry,76,"retail (vAuto Live Market View), as of Jan 1 2026",https://www.coxautoinc.com/insights/dec-2025-new-vehicle-inventory/,2026-11-12
+2025-12,Ram,115,retail,https://www.coxautoinc.com/insights/dec-2025-new-vehicle-inventory/,2026-11-12
+2025-12,Jeep,130,retail,https://www.coxautoinc.com/insights/dec-2025-new-vehicle-inventory/,2026-11-12
+2025-12,Toyota,33,retail,https://www.coxautoinc.com/insights/dec-2025-new-vehicle-inventory/,2026-11-12
+2025-12,Honda,49,retail,https://www.coxautoinc.com/insights/dec-2025-new-vehicle-inventory/,2026-11-12
+2026-01,Jeep,165,retail,https://www.coxautoinc.com/insights/feb-2026-new-vehicle-inventory/,2026-11-12
+2026-02,Industry,92,retail,https://www.coxautoinc.com/insights/feb-2026-new-vehicle-inventory/,2026-11-12
+2026-02,Jeep,151,retail (123 a year earlier),https://www.coxautoinc.com/insights/feb-2026-new-vehicle-inventory/,2026-11-12
+2026-02,Ford,121,retail (approx.),https://www.coxautoinc.com/insights/feb-2026-new-vehicle-inventory/,2026-11-12
+2026-02,Toyota,41,retail,https://www.coxautoinc.com/insights/feb-2026-new-vehicle-inventory/,2026-11-12
+2026-06,Industry,80,retail,https://www.coxautoinc.com/insights/june-2026-new-vehicle-inventory/,2026-11-12
+2026-06,Chevrolet,76,retail,https://www.coxautoinc.com/insights/june-2026-new-vehicle-inventory/,2026-11-12
+2026-09,Industry,82,retail,https://www.coxautoinc.com/insights/september-2026-new-vehicle-inventory/,2026-11-12
+2026-09,Jeep,169,retail,https://www.coxautoinc.com/insights/september-2026-new-vehicle-inventory/,2026-11-12
+2026-09,Ram,152,retail,https://www.coxautoinc.com/insights/september-2026-new-vehicle-inventory/,2026-11-12
+2026-09,Ram 1500,142,retail,https://www.coxautoinc.com/insights/september-2026-new-vehicle-inventory/,2026-11-12
+2026-09,Dodge,149,retail,https://www.coxautoinc.com/insights/september-2026-new-vehicle-inventory/,2026-11-12
+2026-09,Ford,101,retail,https://www.coxautoinc.com/insights/september-2026-new-vehicle-inventory/,2026-11-12
+2026-09,GMC,106,retail,https://www.coxautoinc.com/insights/september-2026-new-vehicle-inventory/,2026-11-12
+2026-09,Toyota,35,retail,https://www.coxautoinc.com/insights/september-2026-new-vehicle-inventory/,2026-11-12
+2026-09,Stellantis (company-reported US dealer stock 368k),84,"total sales incl. fleet (company method)",https://www.investing.com/news/company-news/stellantis-q3-2026-slides-turnaround-gains-traction-amid-challenges-93CH-4979580,2026-11-12

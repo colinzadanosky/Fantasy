@@ -10,6 +10,8 @@ Run date 2026-11-11. Each item has its own page with tables, method and caveats;
 | 10 | Ram vs Ford/GM discounts | **Ram discounts more.** Dallas: Ram six-cyl 25%, Ram Hemi 16%, Silverado 18%, F-150 13% off MSRP. Ram is +5 pp vs rivals at equal MSRP. Ram's MY2026 is already prior-year stock. | [01_listings.md](01_listings.md) |
 | 11 | Prior-year inventory | **Most listed Ram stock is prior model year** (71% of Hemi, 80% of six-cyl listings; 98% in Phoenix). It carries 10-12 pp deeper discounts than MY2027. | [01_listings.md](01_listings.md) |
 | 12 | Where is Hemi demand strongest? | Hemi is 29% of inventory in Phoenix and 47% in New York. In NY retail registrations it is 54% in NYC and suburbs vs 47% upstate, so not the "rural truck" pattern. NY sales share (46-48%) is about equal to NYC-area inventory share (47%), so there is no sign of faster sell-through. | [01_listings.md](01_listings.md) |
+| 13 | Are shipments running ahead of sales? | **Yes, through Q2 2026.** NA shipments − US/Canada/Mexico sales = +145k from Q3 2025 to Q2 2026, then −22k in Q3 (planned shutdown). Mexico exports +42% in Q2-Q3 2026 (INEGI), partly new Saltillo Ram 1500 and Toluca Cherokee output. | [13_inventory_identity.md](13_inventory_identity.md) |
+| 14 | Demand or push: market signals and analogs | Cox **retail** days' supply: Jeep 169, Ram 152, Ram 1500 142 vs industry 82 (Sep 2026), up from Ram 115 / Jeep 130 in Dec 2025. Stellantis's own 84 days uses total sales including fleet. Management's year-end stock target implies 2026 shipments of 1,517-1,547k vs the AI 1,623k. Analogs: GM 2005, Chrysler 2007, FCA 2012-16, Nissan 2016-18, GM's 2015-17 rental cut. | [14_market_signals.md](14_market_signals.md) |
 | 8 | Do new powertrains raise warranty risk? | **No sign yet.** MY2026 (Hemi returns) had 2.9 complaints per 10k first-year sales vs 4.5 for MY2025 (Hurricane-only). Powertrain complaints were 0.3 vs 1.7 per 10k, and there have been no MY2025-26 powertrain recalls. The 2025 warranty re-estimate (€3.25bn NA) is the bigger risk signal. | [08_warranty_risk.md](08_warranty_risk.md) |
 | 9 | Used resale values | **Hemi holds a small premium:** +2.7% (about $900, p=0.15) on used MY2023 trucks in Dallas, controlling for trim and mileage. | [09_resale.md](09_resale.md) |
 | 6-7 | Plant downtime / productivity | Descriptive only. 2025 Hemi orders (about 50k) exceeded engine output (about 30k), and SHAP ran seven-day schedules in 2026. About 45 US trucks per SHAP worker annualized in 2026. | [06_07_plants.md](06_07_plants.md) |
@@ -26,6 +28,9 @@ Run date 2026-11-11. Each item has its own page with tables, method and caveats;
 | `data/raw/listings/kbb_rivals_2026-11-11.csv` | 84 F-150 / Silverado 1500 listings, Dallas | KBB |
 | `data/raw/listings/kbb_used_ram1500_my2023_dallas_2026-11-11.csv` | 69 used Ram 1500 listings | KBB |
 | `data/processed/nhtsa_complaints_ram1500.csv.gz` | 4,245 owner complaints, Ram 1500 MY2019-2026 | api.nhtsa.gov |
+
+| `data/processed/inegi_stellantis_mexico_monthly.csv` | Stellantis Mexico production, exports, domestic sales by month 2024-2026 | INEGI RAIAVL monthly summaries (`src/parse_inegi.py`) |
+| `data/processed/cox_brand_days_supply.csv` | Brand retail days' supply, hand-collected with URLs | Cox Automotive monthly inventory articles |
 
 ## Caveats that matter
 
